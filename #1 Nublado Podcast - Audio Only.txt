@@ -1,0 +1,1304 @@
+Chciałbym po prostu zacząć od tego, żeś mi opowiedział trochę o tym, jak zaczęła się w ogóle twoja przygoda w IT.
+Jak to się wszystko zaczęło, czy to się zaczęło na studiach, czy przed studiami. Chciałbym pójść daleko.
+Spoko, spoko. Możemy spróbować.
+To jest w sumie dość ciekawa historia z mojego punktu widzenia, ale pewnie nie tylko.
+Jak spojrzę sobie historycznie, jak to poszło, bo ja w zasadzie trochę robiłem, pomagałem mojemu tacie.
+On miał firmę, telewizję kablową i tam sobie z nim jakieś małe rzeczy typu graficzne, bardziej tam tematy.
+Ale ja byłem, nie wiem ile miałem lat, może naście. Także to była pierwsza przygoda oczywiście z grami.
+A na jakim sofcie to było wtedy?
+To był Star Office. Był za darmo, więc oczywiście jak to w Polsce w tych latach odległych każdy uwielbiał ten darmowy soft.
+Także robiliśmy tam cuda, jakieś prezentacje. To było na zasadzie, że do reklam.
+Wiesz jak puszczają tam te reklamy i po prostu jakaś firma XYZ i tam dzisiaj promocja tego i tak dalej.
+Czyli twoje materiały były już na kanałach, normalnie w telewizji?
+Tak, w telewizji kablowej lokalnej w Chojnicach. Tam nie było sporo klientów, ale rzeczywiście one wpadały.
+To była taka amatorszczyzna, bo ja nie byłem grafikiem. To na zasadzie było po prostu zmontować parę zdjęć, coś tam niby obrobić, jakiś dorzucić tekst i tyle.
+Ale powiedzmy, że to jest jakiś tam początek, poza oczywiście grami.
+Wiadomo, moja mama mi kupiła kompa jak miałem powiedzmy 8 lat i od tego czasu jakby gierki i te sprawy.
+To była główna metoda na spożytkowanie komputera.
+Niestety u nas w szkole ani podstawowej, można powiedzieć nawet w liceum, my nie mieliśmy programowania.
+To jest w ogóle tragiczne, że nie ukierunkowali w takim mieście jak Chojnice.
+Ja pamiętam jak poszedłem później na studia, to wszyscy już tam, kurde, każdy język C, C++ i tak dalej.
+A ja, kurde, 3 worda znałem i to było wszystko.
+Więc to było też ciekawe.
+No i powiedzmy, że od tego czasu jakby byłem przy kompach, tam mówię bardziej półkomercyjnie, coś tam za to zawsze dostałem.
+Ale tak naprawdę przygoda to były studia. Na studia poszedłem na Politechnikę, na informatykę, na Politechnikę Poznańską.
+I idąc tam, jakby wiedząc, znając miejsce w szeregu, że ja nie jestem programista, ja nie jestem gościu, który, wiesz, robił tam lata i kurcze, kodził i sobie jakieś tam gierki na boku i inne rzeczy tworzył.
+To ja mówiłem, że nie, to pewnie nie będzie dla mnie, ja muszę bardziej od strony jakby podejść.
+Ja sobie wybrałem networking i robiłem tam CCNA, jest taki, powiedzmy, droga certyfikująca.
+Generalnie urządzenia Cisco i networking.
+Aha, czyli zarządzanie siecią, tak?
+Takie zarządzanie siecią, myślałem, że to jest w miarę łatwiejszy temat dla mnie, bo to też było z sieciami z kablówką jakby.
+Mój ojciec miał kablówkę, więc jakby po drodze to było, że to są sieci, kabluwa, no to sieci, no dobra, no to będę sieci.
+W domu też miałem LAN-a, jak graliśmy w CS-ach, to musiałeś złączyć te kompki.
+Wydawało mi się, że to też taka w miarę łatwa droga.
+I co najlepsze, okazało się, że powiedzmy zacząłem te studia, studia się okazały dosyć ciężkie.
+Na dziennych tam powiedzmy na Polibudzie dla mnie to był strzał w kolano, jednak te programistyczne tematy były, ich było dosyć dużo,
+a ja cały czas z uporem maniaka, że to nie dla mnie, więc ja w ogóle programować nie mogę i nie chcę,
+bo ja będę po prostu robić co innego, bo pewnie jest, wiadomo w IT jest tyle rzeczy, że nie muszę tego robić.
+Pisaliście C++-a na kartkach papieru?
+No tam Pascala bardziej jeszcze, także hardcore taki konkretny.
+No i zawaliłem studia.
+Jakby udało mi się na drugi rok wskoczyć, trochę tam pojawiła się obecna moja żona,
+wcześniej dziewczyna, gdzie dużo bywałem w Toruniu zamiast w Poznaniu na zajęciach,
+także trochę było odskoczni i rozrywkowy tryb życia i generalnie stwierdziłem, że...
+No i nie robiłem tego programowania i tak powoli się zaczęło robić coraz gorzej, coraz gorzej, coraz gorzej i się ucięło tak naprawdę.
+Musiałem przerwać studia, bo...
+Na drugim roku, tak?
+Na drugim roku, tak. Dokładnie miałem, bo myślałem, że uda mi się wskoczyć na drugi rok mając jakieś tam tu czwórka, tam coś,
+tam jakieś oceny, że mnie przepuszczą.
+Okazało się, że nie miałem tyle punktów, co było wymagane. Gościu jest out.
+No i później wyjechałem sobie na sezonową pracę do Anglii, na truskaweczki.
+Piękna praca, która uczy charakteru.
+Charakteru uczy, na pewno.
+Wiesz, niskie zbieranie i tak dalej.
+Pojechaliśmy tam.
+No i tam ja wiedziałem, jakby miałem świadomość, że wyjeżdżam tylko na sezonowe i zacznę po prostu jeszcze raz od pierwszego roku.
+Myślałem, że zacznę od drugiego, nie udało się, więc musiałem zacząć od pierwszego roku.
+Miałem proste dłuższą przerwę.
+W tym czasie robiłem jeszcze certyfikat właśnie CCNA w Toruniu, czyli tam cztery semestry całe.
+To był taki porządny jakby kurs, można powiedzieć, przygotowujący do tych narzędzi tam Cisco i dookoła.
+Online, tak?
+Nie, nie, to było w ogóle na Uniwerku w Toruniu.
+Mamy czas, tak?
+Tak, tak.
+Nie, nie, opowiadaj, właśnie to jest ciekawe.
+Dobra, nie wiem właśnie jak mogę daleko pływać, ale też mi się wydaje, że to jest...
+Właśnie super, bo każdy ma, widzisz, inną drogę.
+Ja też się bujałem od studiów do studiów i właśnie super jest to usłyszeć z twojej perspektywy, jak u ciebie to się rozwijało.
+No bo też może fajnie jakby, nie wiem, dojdziemy trochę dalej jakby, gdzie teraz jesteśmy i przez co przeszedłem,
+to też będzie widać, że wiadomo, że to nie jest tak, że nie wiem, musisz być jakimś powiedzmy na danym etapie życia Ekstra Liga,
+że wiesz, że jesteś najlepszym programistą w drużynie i wiadomo, że ten gościu będzie mistrzem i wiadomo.
+Tak, bo ja też jak przeszedłem na pierwszy rok studiów programowania, to sami spoceńcy byli tak zwani.
+Po prostu gościu trzepał już po trzech miesiącach na programowanie i już oddawał jakąś grę na projekt.
+A ja tam wiesz, ledwo kumałem podstawy, bo tak samo nie miałem programowania na zajęciach.
+U nas w szkole informatyka to był Paint, może trochę Worda i CS GO, czy tam CS 1.6 wtedy.
+I to było wszystko. Także fajnie właśnie, że opowiadasz o tym i mówisz, że ta droga nie jest taka prosta,
+jak każdy sobie wyobraża, że wiesz, że musisz być od razu techniczny, od razu nastawiony na to,
+że będziesz informatykiem, programistą, tylko to nie jest takie proste. Są wzloty i upadki.
+Wiadomo, że musisz być ostro determinowany na przestrzeni. To jest taki maraton.
+To nie jest, że jakaś jedna twoja błędna decyzja zaważy o tym losie.
+No wiadomo, właśnie tutaj idąc dalej, teraz jak poszedłem, mieliśmy tę pracę sezonową.
+W jakiś sposób mnie tam złapali, wyłapali, że trochę miałem lepszy ten angielski niż reszta.
+Na tych truskawkach poziom nie był za wysoki, więc miałem pole do popisu.
+Mimo, że nie był tu jakiś tam poziom nie wiadomo jaki, to jest też najlepsze,
+bo ja angielski też miałem trochę jakby na zasadzie, a może nie trzeba w latach,
+kiedy ja tam powiedzmy byłem na pierwszym podstawówce.
+No i to był też zaniedbany temat, ale jakby sobie go nadrobiłem,
+bo wiedziałem, że trzeba będzie może spróbować tej Anglii.
+No i na tych truskawkach mnie wyłapali do firmy, to była tak zwana Agencja Pośrednictwa Pracy,
+którzy szukali na truskawki, szukali na tego typu prace, na takie prace sezonowe.
+No i mnie tam wyłapali, nagle musiałem się przebrać z krótkich spodanek na garnitu,
+pierwsze zakupy na zasadzie, dobra jedźmy najtańsze, co będzie ubrane pięknie, mogę wchodzić do biura.
+Przeszedłem jakieś tam trzy dni próbne, powiedzieli okej, dawaj.
+No i zamiast w zasadzie robić na tych truskawkach, ja już po jakimś tam półtora miesiąca
+robiłem w tym biurze i tak naprawdę tam była sytuacja, że zostawili mi propozycję,
+czy chcę zostać u nich, dostanę tam powiedzmy podwyżkę i mogę się rozwijać.
+No jakby Agencja Pośrednictwa Pracy, ludzie pracujący tam wiem, że dobrze też zarabiają,
+oni mają marże, oni mają, dobrze sobie żyją.
+Widać to nawet na przykładzie IT, jak fajnie ludzie, którzy siedzą z tym, jest ich profesją, zawód.
+A ile miałeś lat wtedy?
+Kurczę, pewnie z 19, 20, coś takiego.
+I jakie to były wtedy pieniądze?
+No zarabiałem lepiej niż na truskawkach, a na truskawkach szło też dobrze zarobić.
+Pamiętam, że na truskawkach w takim najlepszym piku można było zebrać 60-70 funtów dziennie.
+No to wtedy też była kasa.
+No to było fajnie, przyjeżdżałeś i mogłeś sobie fajnie tam coś zakupić takiego konkretnego po tym.
+Mimo, że tam trzeba było też oczywiście wydać te pieniądze na utrzymanie, ale jakby relatywnie to była spoko kasa.
+No i ta zachęta była jednak.
+W zasadzie teraz mi oferują podwyżkę, praca w biurze, gdzie mi się powiedzmy średnio śniło po siedzeniu w truskawkach uwalony po kolana.
+No ale jakby trochę przez wzgląd na właśnie jakby, wiedziałem, że tą IT chciałbym jeszcze spróbować zrobić.
+Mówię, narobić się jeszcze zdążymy.
+Jak będę chciał pracować gdziekolwiek, to będzie na to jeszcze czas.
+I wróciłem jeszcze raz na studia, na to samo studia.
+To było jakoś chyba na pierwszy rok, ale udawało mi się tam od razu pewne rzeczy pozaliczać.
+Jak miałem czwórkę i wyżej z niektórych przedmiotów, a były też takie przedmioty, to po prostu profesorowie czy tam doktorzy się zgadzali na zasadzie
+dobra, przypiszemy Ci i nie musiałem chodzić, ale robiłem to z CCNA.
+Ale wróciłeś do Poznania?
+Do Poznania i tam już miałem troszeczkę inny jakiś taki błysk na zasadzie nie, nie, nie.
+Ja nie chcę być już, ja już tam nie chcę przejść tak po lewej stronie z kumplami.
+Coś tam tylko mówię dobra, ja spróbuję, czy programowanie to jednak może jest dla mnie.
+Miałem taką książkę C-Sharpa, taką grubą Biblię.
+Nie wiem ile tam pięćset, osiemset stron.
+I ja sobie ją już zacząłem wcześniej dziergać i tak po kolei jakieś tam modułki, coś sobie zacząłem pokodzić.
+To był C-Sharp, tak.
+I zaczęło mi to wychodzić, nie.
+I zajarałem się tym, że ty patrz, tutaj coś napiszesz, jakieś trzyniki i nagle z tego wychodzi, nie wiem, jakieś tam coś się rusza, coś tam się oblicza itd.
+Pamiętasz swój pierwszy projekt?
+Projekt, taki projekt, no nie chciałbym o nim nawet rozmawiać, bo tam były takie zboczone projekty, ja bym to nazwał, na studiach.
+Że jakiś tam łazik, kurde, w sensie, na zasadzie oni to nazywali łazik, ale to chodziło o to, że jakieś, po prostu jakaś szachownica na zasadzie,
+że tam przechodziły, jedynki zera się zamieniały i to było trzeba kolorować i to po prostu sobie tam chodził w ramach jakiegoś kwadratu.
+Typowo techniczne sprawy.
+Tak, techniczne, one miały jakieś oczywiście podstawy matematyczne itd., których nie potrafiłbym powiedzieć, bo jakby bardziej do tego podszedłem praktycznie.
+Zrób to i do widzenia.
+Ale tam już jakby udało mi się przez to, że trochę zacząłem tego programowania, to też podpiąłem się trochę pod takich lepszych ludzi.
+Ja byłem lepszy z punktu widzenia, którzy robili tę robotę, no bo wiadomo, że na studiach wszędzie w szkole będziesz miał ludzi, którzy wolą kamieniami rzucać i się bawić,
+a drudzy, którzy będą jednak coś tam się uczyć i wydaje się, że...
+No i to drugie podejście już miałem takie, nie, nie, dobra, teraz wybierzemy to trochę inaczej.
+No jakoś się udało, że się spasowaliśmy z kumplami.
+Pamiętam taki Floras, który był, zapierdzielał naprawdę dobrze, programował fajnie i jakby z nim później też robiliśmy te projekty razem
+i to nie było na zasadzie, że dobra, ty zrób, a ja się dołączę, bo można tak przejść, tylko już było na zasadzie, nie, nie, ja też chcę swoje rzeczy
+i ja też chcę się włączać, no i nie ukrywam, było już dużo łatwiej.
+Na tych studiach było tak, że po prostu miałeś jakiś projekt, zrobiliśmy jakiś większy projekt, który można było później lansować, trochę podopinać moduły
+i on podpasił ci pod jakąś logikę albo inne przedmioty, nie.
+No i tyle, no i później już nie było sytuacji, w której byłem, nie byłem nigdy, nie powiedziałbym, że nigdy nie byłem jakimś tam wyróżniającym się, wiesz,
+programistą, który jakby jest na czele i będzie olimpiady zdobywał, nie.
+Nie ma, nie ma opcji, tylko że z punktu widzenia teraz już, z perspektywy czasu widzę, że to też nie jest najważniejsze, nie, że jak masz,
+jak jesteś bardziej cross-functional, że jesteś w stanie, na przykład ja jestem dobry pod kątem tych kwestii biznesowych, zrozumienia biznesu i tak dalej,
+to nierzadko jest ważniejsze niż po prostu płynąć, specjalizować się tylko wąsko, wiesz, ja jestem techniczny guru i...
+Oczywiście.
+Bo to też trzeba przełożyć na świat, to też trzeba umieć zrozumieć te problemy biznesowe i tak dalej.
+No i tyle, no studia powiedzmy, już na trzecim roku studiów złapałem pracę w takiej dziwnej firmie w Poznaniu, w dziwnej w sensie, bardzo małej firmie,
+w jakiejś kamienicy przy Jeżycach.
+Polski startup.
+Polski startup, dokładnie. Rzeczywiście ciekawy, bo właściciel miał duży projekt, on dostał Rossmana i robiliśmy,
+no dosłownie nas było trzech plus minus i dostaliśmy projekt na zasadzie całym portal Rossmana zrobić na nowo, gdzie Rossman już wtedy był w miarę rozdmuchany,
+ale no wiadomo, teraz to już poszedł totalnie. No i trzeba było zrobić cały portal tam, czyli te moduły tam urody i tak dalej.
+To było na SP.net i tam miałem szczęście, że trafiłem do takiego zarąbistego, doświadczonego łebka, taki Łukasz Ola Jarczuk,
+który teraz jest też co-founderem chyba albo po prostu jest wspólnikiem w jakichś firmach, które robią apki mobilne w Poznaniu.
+No gościu taki po prostu, który jakby był idealnym mentorem na zasadzie, że wiesz, robiłeś, po łapkach dostałeś, tutaj nie, tu rób tak i tak dalej.
+No ja swoje rzeczy tam powiedzmy wykonywałem i ta praca się fajnie tam powiedzmy jakoś szła do przodu i to był rok, gdzie spędziłem u nich jakieś frameworki,
+potem robiliśmy dotknętni Łuka, jakieś technologie zupełnie inne. Patrzę na czas, teraz jeszcze spokojnie.
+Na spokojnie, na spokojnie, ja tylko tutaj tak trochę kontroluję, żebyśmy wiesz dzisiaj się wyrobili, ale ja bardzo się cieszę, że o tym mówisz i właśnie opowiadasz o tych,
+właśnie, że ta droga, bo każdy mi się wydaje jak idzie na studia, to myśli sobie, że wszystko musi być, wiesz, ornuk niemiecki, wszystko musi być zrobione krok po kroku,
+muszę mieć same piątki, szóstki, żeby być tą osobą, która później będzie stawiać jakieś zaawansowane systemy, a liczą się też właśnie te miękkie umiejętności
+i później właśnie też na drodze programisty, to kto wie, czy nie liczą się trochę bardziej, właśnie, bo część jest ludzi, którzy nie potrafią kompletnie zrozumieć czym jest ten biznes i na czym on polega,
+ale potrafią trzaskać niesamowicie techniczne aspekty takich projektów.
+No, to jest na pewno prawda. To widać jakby, mówię, po latach tam funkcjonowania, zresztą jakby patrząc teraz na te nowe technologie, wiesz, AI i tak dalej, że zaraz w zasadzie te soft skills będą ważniejsze niż wyrycie.
+To jest ciekawe.
+Nie wiesz, no ci programiści, jakby myślisz, że programista, taki lajk, który nie wie co robi programista, myśli, że programista tu siedzi, on te wyniki kodu sam gdzieś tam czaruje i tak dalej.
+A wiadomo, że chodzi przeglądarka stale, wykorzystywane są gotowce, forum otwierane, 10 forum, szukamy tego, pokaż jak zrobić parsowanie, jak zrobić tamto i po prostu wyciągasz gotowce i później to się modyfikuje.
+Jak wiemy, nie za chwilę już jesteśmy w stanie z tego korzystać, po prostu pytając naszego starszego wujka Jaja, słuchaj, daj mi tutaj parsowanie w javascriptzie takie i takie.
+Jak widzisz, po prostu je obrobisz sobie, to jest bardziej obróbka ze skrawaniem, a nie pełne mużdżenie, jak to od zera napisać.
+No wiadomo, to nie jest tak jak na studiach, że na studiach musisz na egzaminie tu i teraz wiedzieć to z bańki i napisać to jak mówisz, wiesz, linijki kodu na papierze, że wiesz, że to umiesz, tylko musisz umieć się odszukać tym wszystkim, co jest ciekawe.
+I co, startup w Poznaniu, tak? I później co dalej?
+No i później to był Poznań, to były czasy Poznania, ale oczywiście też Toruń przez względ na moją ówczesną dziewczynę, teraz żonę.
+Mieliśmy, było to takie rozdarcie pomiędzy właśnie Poznaniem a Toruniem ciągle.
+Koniec już studiów, właściwie inżynierka, wymyśliłem sobie z kumplem jakiś fajny projekt, że robimy system rezerwacji miejsc w restauracji, w Silverlight'cie w ogóle, technologia, która umarła.
+Ale oczywiście tam już jakby na tym etapie było, już wiedziałem, że to będzie Microsoft, że to będzie C Sharp, że to będzie Visual Studio, to nie będzie Eclipse, to nie będzie Java.
+Może mieliśmy, ja wszystkie przedmioty nawet, które mieliśmy, jakieś tam rzeczy robiłem, bo mieliśmy pamiętam jedną panią doktor Cybulkę, która jakby z tego co kojarzę chciała mocno javowe tematy, więc tam jakby robiliśmy.
+Poza tym, nie, to było wszystko jakby już Microsoft, wiedziałem, podobało mi się to właśnie, że to wykorzystanie biznesu, jakby umiejętności i rozumienia biznesu, przełożenie tego, to nie jest takie gołe, to jest wszystko Enterprise, Corporate i tak dalej.
+Więc jakby na szczęście udało mi się tam zahaczyć. No Silverlight właśnie, to było ciekawe, że technologia, która powstawała, ona była na rozwiązania mobilne, na weby też, ale robiło się tak jak Adobe, jakieś tam animacje i tak dalej, to była odpowiedź Microsoftu.
+Po czasie okazało się, że to nie był trafny wybór, ale Silverlight pozwolił mi raz, znaczy obroniłem, zdałem egzamin tam inżynierski, dostałem dobrą, niesłabą cenę, doktor promotor bardzo podobało mu się nasze rozwiązanie.
+Oczywiście nie było produkcyjnie gotowe, ale dużo dopowiedzieliśmy, sprzedaliśmy i co? Na tym Silverlightowym doświadczeniu plus ASP.NET, IT.NET Nuke, Rosemary i tak dalej, to udało mi się znaleźć pracę w firmie, to była firma Jade, ówcześnie się nazywała, taki Gold Partner Microsoftu z Torunia.
+Jade.
+Jade.
+To nie jest jak do Jade.
+Nie, to było nazwisk dwóch założycieli i później drugi właściciel firmy jakoś się wycofał i wszedł na jego miejsce inny, w ogóle fajna firma, generalnie to była firma i to była też ciężka decyzja, czy ja chcę się przenosić z Poznania do Torunia, jakby Poznań trochę miasto doznań, duże miasto, sam zresztą wiesz.
+Tak, wiem.
+I jakby...
+Bud da bar?
+Tak.
+I po prostu tam jakby wydawało mi się, że nie, nie, ja chcę w dużym mieście, ja nie chcę, po prostu podobało mi się tam życie, jakbym mógł jeszcze dobrze tam pracować, tylko mówię, tamtą firmę obecną, którą miałem, ona się trochę kończyła, już było widać, że tam się sypało strasznie, bo oni dostali za duży projekt na skalę i tak dalej, oni się po prostu wysypali.
+No i w tym czasie dostałem tę ofertę w Toruniu i stwierdziłem w sumie, że czemu nie, przenosimy się do Torunia, będzie bliżej, nie będę musiał tyle kursować.
+Firma wydawała się być fajna, mówię, Gold Partner Microsoftu, szeroki front plans, oni mieli zdobyty bardzo fajnie rynek, jeśli chodzi o klientów dużych, bo tam były Orange'e, tam były jakieś tam firmy farmaceutyczne, największe, ówczesne, Marsy jakieś, te od Batonów i tak dalej.
+Bo Marsę pamiętam, jak mówiłeś.
+Ciekawe, w ogóle nie wiedziałem, że Mars był właścicielem Snickersa, że to z Marsa wychodziło wszystko, Milky Way i tak dalej.
+Ja myślałem, że na odwrót.
+Ja też myślałem, że Snickers jednak wygrywa, a to okazuje się, że jednak nie.
+Tam zacząłem pracować, też znowu trafiłem w fajnych ludzi na tamtym lata, jak teraz patrzę, że ta polska siła się śmieje zawsze, że naprawdę tam był, nie wiem, po pierwsze właściciele, super, Michał i Rafał,
+jakby mocno charyzmatyczni, ogarnięci, tam wiesz, pływali po tym całym świecie.
+Firma Scala, mniej więcej 50 osób w tamtym czasie w Toruniu.
+Fajne biuro, fajni ludzie.
+Ja w ogóle zacząłem jakoś w Silverlight, teoretycznie. Robiłem jakieś mobilki na Windows Phone'a.
+Starego dobrego Windows Phone'a.
+Starego dobrego i lansowałem go też, mówię, że to jest telefon, który wyprzedzi iPhone'y i w ogóle, że sam miałem zresztą na swoje potrzeby i też po to, żeby trochę testować te apki.
+To były czasy Windows 8 wtedy?
+To jeszcze wcześniej było.
+A jeszcze wcześniej?
+Tak, tak.
+To była chyba jeszcze siódemka, mi się wydaje.
+No, no, no.
+I co, robiłeś tam aplikacje na Windows Phone'a?
+No, jakieś tam parę aplikacji, oni na Marketplace chcieli wchodzić, bo była jakaś tam pula, jakaś chęć sprawdzenia, czy może to jest, skoro to była firma Microsoftowa,
+pewnie Microsoft mówił, nie, nie, musimy tu mieć Marketplace zrobiony, róbcie apki.
+Robiliśmy jakieś tam dziwne gierki, bardziej gierki na zasadzie, że tam jakieś, już też nie pamiętam dokładnie, jakie to były apki.
+Ale szybko okazało się, że to nie idzie w dobrą stronę, że ta inwestycja jednak się nie zwróci, więc stwierdzili, że mnie wrzucą na CRM'a na początku.
+Wersja jakaś czwórka Dynamics, to się nie nazywało Dynamics, to się nazywało Microsoft CRM po prostu chyba, jeszcze ówcześnie.
+Wersja numer cztery i to było też w sumie dziwnie zrobione, wszystko bez szczegółów, ale generalnie dużo było SQL'a, transakcji, procedury składowalne.
+To był taki dziwny system, który robiliśmy właśnie dla też jakiegoś dużego klienta.
+To było bardzo dużo napisane w bazie danych, co już teraz się nie robi, nawet wcześniej się pewnie nie robiło.
+Ale ja byłem świeżak, wchodzisz, tutaj masz seniorów, oni mówią co robimy, jedziemy z tym.
+Tak zrobiliśmy, realizowaliśmy te tematy i tam później skakałem pomiędzy, tak naprawdę przez te trzy lata plus, czy cztery nawet,
+programistycznie pomiędzy CRM'em, SharePoint'em, tym Silverlight'em na samym starcie.
+Później mieliśmy javascriptowe tematy, jakieś Knockout.js, framework. Robiliśmy portale dla jakichś wyszukiwarek linii, nie wyszukiwania linii, tylko lotów.
+Jakiś taki portal duży, w którym też był napisany frontend i backend. My robiliśmy dużo frontend.
+Właściwie robiliśmy obie części, tylko inny kolega był.
+Mówię, no też miałem właśnie fajnie, że ja tam trafiłem na takich spoko mentorów, bym powiedział taki Bartas, który był bardziej UI'owy.
+On miał zdolności tam usability, interface i tak dalej i u niego byłem, pod jego wodzą byłem właśnie w tym Windows Phone'ie.
+A później przeszliśmy, jak już tam się okazało, że to nie jest dobry kierunek, no to bardziej właśnie te portale, jakieś user journeys i tak dalej.
+No i też taki, nie wiem, pamiętam Sławek, zawsze się śmiejesz, to był mój guru taki programistyczny, który po prostu siedział na suchoweczkach i tam naparzał.
+Był naprawdę ogarnięty, zresztą na dzisiaj jest, ale fajnie było, że można było się dużo tego nauczyć.
+No i te lata tam mijały, ja trochę zostawałem promowany, moja chęć, głód, ja chcę więcej, ja chcę więcej.
+Raz, że kasy, dwa, że robiłem mnóstwo rzeczy, bo robiliśmy ASP.netowe rzeczy, javascriptowe, sharepointowe.
+W takiej konsultingowej miałem możliwość spojrzenia na cały to spektrum Microsoftowego ekosystemu i to przełożyć z dużych, ogromnych firm.
+Nie pamiętam z głowy, że tak powiem, CV, ale my naprawdę robiliśmy ciekawe rzeczy.
+No i tam później zostałem aż promowany do tzw. architekta.
+Czyli ile lat minęło od studiów?
+Studiów, no to rok miałem tam 4-5 lat.
+Czyli tak, czyli po pięciu latach takiego bardziej kręcenia się i brania odpowiedzialności na siebie większej i poznawania ludzi,
+no twój awans był dużo bardziej owocny niż jakbyś poszedł powiedzmy klasyczną drogą programisty.
+Gdzieś w jakiejś firmie został zatrudniony, trzymał się jej, kurczował.
+Zdecydowanie, bo patrzę nawet teraz jak nam wpadają CV-ki, że niektórzy ludzie po 5-6 lat są, po prostu są, programują cały czas.
+Jest senior jakiś tam deweloper tu czy tu i tak wygląda ta ścieżka, że oczywiście rozwija się w różnych technologiach i tak dalej.
+Nic nie ujmując jakby tak, no bo nie każdy chce mieć więcej do czynienia z biznesem, co jest często trudniejsze niż po prostu zaszywam się w pokoju,
+zrobię swoje user stories jedno, drugie, dziesiąte, skodzę, job done i tyle.
+Najważniejsze jest to, żebym miał jak najmniej tych bugów i tyle, że się nie dogadał analityk z architektem, z biznesem i vice versa,
+no to nie dotyczy tak do końca.
+Więc na pewno to, że to jednak była ta droga programistyczna, ta droga Microsoftowa, która jest bardziej taka enterprise'owa
+i też jednak, że ja tam się dosyć ostro poświęciłem, nie ukrywam, że jakby certyfikowałem się też mocno.
+Właśnie Microsoft ma te fajne ścieżki, że możesz sobie te certyfikaty robić, one teraz się wydają takie bezsensowne,
+a dla mnie to był taki badge, że wiesz, że zrobiłem to i dostaję puchar i po prostu sobie go odrukuję i mówię,
+wow, mam, jestem jakiś tam associate developer, solution expert i tak dalej.
+I to było fajne, oczywiście dla konsultingu to też było dobrze, bo Microsoft to promuje, więc to ręka rękę myje,
+ale sam jakby wiedziałem, że ja to robię, później mówię, później poszło to bardziej już taki pre-sale,
+bo mam te umiejętności, co mówię, miękkie i sprzedażowe i bardziej biznesowo, analityczne i tak dalej,
+co pozwoliło mi na to, żeby na przykład być bliżej sprzedaży,
+czyli mieliśmy te deale o jakichś takich dużych tematach, nie wiem, Orange powiedzmy robił jakąś ogromną farmę sharepointową
+i tam trzeba było zrobić architekturę, zaproponować jakieś kurde searche, to jeszcze nie było chmurowe, to było wszystko…
+Czyli jesteś już architektem, pracujesz dalej dla tej samej firmy, czy to już jest jakaś nowa firma?
+Cały czas dla tej samej właśnie, tam jeszcze powiedzmy na tej pozycji architekta byłem myślę,
+też nie pamiętam dokładnie, na link nie wyszłoby sprawdzić, ale powiedzmy plus minus rok,
+więc rzeczywiście tam się realizowałem, tylko mówię, ja tam miałem części jakby obowiązków związane tak stricte,
+teraz patrzę jako architekt, ale też duża część była cały czas programistycznych po prostu,
+to były mocno hands on tak zwane, czyli po prostu siedziałem i kodziłem, czy ten jeden projekt, czy drugi,
+ale miałem też część obowiązków właśnie wynikających z tej roli, tworzenie jakichś tam diagramów, projektowania, zaproponowania,
+jakieś napisania, jak przygotowywaliśmy ofertowania tematów do klienta, trzeba było wycenić mniej więcej,
+czyli też wyceny, ile plus minus wyjdzie 100 koła, czy milion. Wszędzie też jakby małym druczkiem trzeba zawsze pamiętać o tym,
+że jeżeli to, jeżeli tamto, jeżeli tamto, jeżeli tamto, jeżeli tamto, bo jeżeli te warunki nie są spełnione,
+no to może wyjść razy dziesięć. Tak mniej więcej to wyglądało.
+No wartość na pewno dla biznesu jest ogromna takiej osoby, która jest właśnie biznesowo zorientowana i programistycznie zorientowana
+i no to jest ciekawe bardzo, co mówisz. Powiedz mi, byłeś architektem w Polsce i potem co dalej? Za granicę już jechałeś?
+No właśnie i tutaj oczywiście firma Jade, a tam jeszcze się pojawił taki wątek, że firma Jade została, oni sprzedali tę firmę.
+Kupowała to firma, firma na początku jakaś AMG, tak się nazywała, nie z Mercedesem, ale to była firma, która była z Łodzi, jakieś tam 700 ludzi.
+Za chwilę to AMG było wykupione przez Bulla francuskiego, który miał, nie wiem, 5000 konsultantów, a za chwilę ten Bull cały był zjedzony przez Atosa,
+który ma, nie wiem, 150 tysięcy konsultantów, grubas. I tam było właśnie tak, że nagle się stała taka wielka korpa, co mi się bardzo nie podobało.
+Można byłoby o tym gadać i płynąć. To jest też jeden z powodów, dla których pewnie tu siedzimy i gadamy,
+bo ja otwierając firmę Nublado myślałem o tym, żeby nie iść w tę stronę korporacyjną.
+Ja wiem, że to jest pewnie takie tanie, cheesy, że myśl, że pewnie koniec końców w jakiś sposób to się tam w tym kierunku i tak idzie,
+że jeżeli jest ten rozwój i tak dalej, ta firma rośnie, rośnie, rośnie, w pewnym momencie już się niestety trzeba godzić na te korporacyjne tematy,
+ale jak mówię, to jest pewnie osobny wątek.
+Powiem Ci szczerze, że ja jako nowy nabytek Nublado, to zupełnie mogę to potwierdzić, że to jest prawda,
+że nawet jak ja pracowałem wcześniej w zupełnie innych firmach, to dużo bardziej rygor pracy był zdecydowanie większy
+i pole do popisu na tle kreatywnym było zdecydowanie mniejsze.
+Jesteśmy wszyscy ludźmi i powinniśmy też wychodzić z takiego założenia według mnie i nawzajem siebie rozumieć.
+I to mi się bardzo podoba u Ciebie w firmie i naprawdę to jest świetna rzecz, bo uważam, że jak mamy przestrzeń do robienia rzeczy,
+nie tylko trzaskamy jakieś taski bezmyślnie, to jesteśmy w stanie osiągnąć dziesięciokrotnie większe rezultaty w dużo krótszym czasie,
+bo nasz właśnie to się mówi slow mind, działa dużo lepiej, jesteśmy w stanie lepiej przemyśleć pewne rzeczy i mieć po prostu zdecydowanie lepsze rezultaty.
+Także to jest świetna część Twojej firmy.
+Super, dzięki. Cieszę się, że...
+Znaczy też pewnie dlatego tutaj jesteśmy, nie?
+Bo jakby, wiesz, wcześniej nie miałem żadnych przyjemności z kamerą oprócz może wesela i paru innych eventów, na których średnio wypadłem,
+ale jakby tutaj też szacun, że widzisz, pojawiasz się, mówimy, dobra, co byś chciał, co trzeba zmienić, co trzeba zrobić i idziemy i wdrażamy te tematy, tak?
+Tak, opowiadamy właśnie historię Nublandu, jak to się zaczęło od początku.
+To jest też super właśnie, że można po prostu o tym powiedzieć. Ja to niejednokrotnie opowiadałem różnym ludziom, tak?
+Bo to wiadomo, rodzinie, przyjaciołom, znajomym te rzeczy się opowiada, ale to gdzieś tam zostaje w głowach i później, nie wiem, idziesz do firm i chcesz im coś powiedzieć,
+to tak naprawdę musiałbyś to od nowa mówić, nikt nie ma na to czasu, chęci i tak dalej, więc myślę, że to jest spoko pomysł.
+Zresztą sprawdzony, tak? To nie jest, że my tutaj coś odkrywamy na nowo.
+Tak jest.
+Więc wiadomo, ale dobra.
+Skończyłeś na Atosie, tak?
+Dokładnie.
+Zrobiło się corpo. Ja mimo moich wielokrotnych tutaj odkrywam podwyżek i tych upgrade'ów, jeżeli chodzi o…
+Tak naprawdę patrząc z perspektywy widzę, że tam przeskoczyłem też pewnie niektórych, którzy byli po prostu dobrymi, zajebistymi programistami, tak?
+I oni nie mieli takiego drive'a, że wiesz, ciągła zmiana, ciągle, dobra, ja zrobię, co chcecie, dwa certy? Dobra, zrobię wam te dwa certy.
+Chcecie to? Dobra, dużego klienta musisz ogarnąć sam? Ok, ogarniam go, tak?
+Jedziemy do Warszawy i siadamy tam z ludźmi, wiesz, z jakimiś tam dyrektorami różnych działów i proponujemy tu rozwiązania, próbujemy to sprzedać.
+Myślę, że z dobrym skutkiem, jakby potwierdzeniem tego były jednak moje tam, powiedzmy, promocje, ale mi było ciągle mało, nie?
+Na zasadzie, że ja mówię, kurczę, no i poszedłem do właśnie tych moich kolegów, właścicieli, bo tam był też super stosunek taki na ty, to nie było na zasadzie, wiesz, szefie, coś tam, tylko super imprezy w ogóle, super vibe i tak dalej.
+Chciałbym też jakby to w mojej firmie zaszczepić i mieć. U nas jest trochę, powiedzmy, trudniej, bo my pracujemy mocno zdalnie, więc to jest duża przeszkoda, ale to też jest coś, co można byłoby sobie pogadać dłużej.
+I ja mówię, nie, ja chcę coś robić zagranicznego. No i jak się pojawiła KORPA, to rzeczywiście mieliśmy jakieś duże projekty francuskie.
+Na przykład francuski, czy to był chyba francuski, albo szwajcarski, Schneider, taka firma, która łącza wszystko, elektrownie, jakieś sprzęty i tak dalej. Robiliśmy im jakiegoś wielkiego SharePointa, ale to był bardziej support.
+Do nas padały takie, my byliśmy takim near-shore'em, nie offshore'em jeszcze, ale praktycznie traktowanym, jak wiesz, tutaj jakiś task, proszę, pyk, masz tu opis, jedziesz.
+Nikogo nie znasz, nic, nie wiesz, ciśniesz go, no i dobra, tam szukasz, zrobiłeś.
+Jakby to już nie był ten, nie czułeś tego drive'a, że wiesz, że ty byłeś na jakimś spotkaniu, z kimś tam gadałeś, coś zrobiłeś, tylko to było na zasadzie, że wiesz, tam jakieś taski też, że taki bardziej model się zrobił supportowy.
+Oczywiście były też przestrzenie na nowych klientów i tak dalej, to się działo, ale trochę jakby się zajarałem przez to, że trochę pewnie byłem w tej Anglii,
+czyli miałem taką myśl, że coś trzeba byłoby może na zachodzie zobaczyć, czy nie jest inaczej, no i tam mocno ich ścisnąłem, żebyśmy coś spróbowali, czy mają jakiś projekt, niech mnie gdzieś wyszlą, no i wysłali mnie do Brukseli w ogóle.
+Też taka ciekawa przygoda niedługa, na jakiś projekt sharepointowy miałem zrobić, tam dobra, mówiłeś, skończ gadać, jeźdź do tej Brukseli.
+Czyli twoja inicjatywa, tak? Wziąłeś po prostu stery i mówisz, ja chcę gdzieś jechać, chcę zobaczyć coś nowego, a nie tutaj wiecznie to samo klepać.
+Dokładnie, mówię, muszę coś zobaczyć, czy u tego sąsiada ta trawka jest taka inna, no i nie ukrywam, że wiadomo, jest inna, tak wszystko jest takie świeże na starcie,
+że wjeżdżasz tam u nas w tej Polsce, w tej Polsce, jestem z powrotem, zaraz się dowiemy, ale generalnie takie było moje patrzenie, że chcę zobaczyć, jak to wygląda gdzie indziej.
+Spędzałem na ten projekt trzy tygodnie, to było takie życie bardziej w hotelu, później sterowałem ten projekt trochę z Polski, już nie było potrzeby, jeszcze raz może tam pojechałem na jakiś tydzień czy coś i tyle.
+No i też ciekawie w tej Brukseli, że się dowiedziałem, że w sumie to jest taka trochę Francja, trochę Holandia.
+Mówię, bagietki jedliśmy, te lunche w ogóle, mówię, fajnie, kurczę, wszyscy wychodzą, nie tak jak u nas, że tam w tym biurze wszyscy zaszyci.
+Tak, trochę inna kultura pracy na zachodzie.
+Lunch sztywno, trzynasta, dwunasta, nie ma zmiłuj, musi być.
+Dwie godziny nawet może być, mieliśmy taką opcję, kiedyś ci koledzy mówią, dobra jedziemy na lunch, ale musimy autem, bo to jest daleko.
+Ja mówię, ale jak, wprzedamy na auto, jedziemy, godzinę czy pół, czy czterdzieści minut powiedzmy się jechało do tego miejsca, gdzieś tam poza Brukselą wysiadamy,
+czy tam powiedzmy jeszcze Bruksela to może była, ale generalnie jakaś taka mała restauracja i tam normalnie godzinę, restauracja, lampka, wina, druka, siedzimy.
+Dwie godziny minęły, wracamy do biura, mówimy, dobra, teraz trzeba coś robić.
+To jest szok kulturowy.
+Było to naprawdę ciekawe, w ogóle ten francuski język i tak dalej, ja tam po angielsku próbowałem, ale tam była tragedia z angielskim.
+Akurat gościu, z którego ja zbierałem wymagania i z którym bezpośrednio pracowałem, to on był straszny z angielskiego, ale próbował na wszystkie możliwe sposoby.
+Był super człowiek, generalnie widać było, że się starał, ale nie było łatwo.
+No i co, wróciłem, tam znowu jakby mi jest wszystko tak jakoś, nie wiem, nie mogę mu siedzieć na tyłku.
+No już posmakowałeś, jak jest na zachodzie, zobaczyłeś coś innego, widzisz, że się da, że możesz wyjechać, że są różne opcje.
+Dokładnie, było tak, że tu niby z drugiej strony mówisz firma, kariera, widzisz, że się jakoś tam pniesz, w dobrym kierunku to zmierza.
+No i co, już była sytuacja, w której my planujemy, to było też najśmieszniejsze, planujemy z Martą ślub.
+Ja stwierdziłem, że poszukam, spróbuję coś znaleźć na zachodzie, nie myślałem, że mi się uda, stwierdziłem w tamtym momencie, że szukam czegoś na zachodzie.
+No i oczywiście target był w zasadzie Londyn, w sensie UK i tak naprawdę tylko UK, ale przez przypadek wpadła mi firma z Irlandii.
+A jak szukałeś, jak znalazłeś, usiadłeś do kompa, jakaś agencja, jak to wyglądało wtedy?
+Wiesz, sam pracowałem w agencji, oczywiście pośrednictwa pracy, czyli jakby wiedziałem, więc co, generalnie to były portale jakieś, było takie coś jak CW Jobs, CoUK chyba?
+Tak.
+Znasz?
+Znasz.
+Brzydka strona strasznie, ale kurczę miała najlepsze oferty, w sensie takim, że miała od razu kontrakty, było widać na talerzu ile płacą i tam patrzyłem te dniówki i mówię, wow, to jest szokers.
+Zupełnie inna kasa.
+Mówisz do Funi, wiesz, dla takiego świeżaka jak ja w tamtym czasie, mimo że niemało zarabiałem w Polsce, nie oszukujmy się, ale cały czas mówię, nie, nie, ja chcę to zobaczyć, ja chcę pójść na swoje.
+No i co, tam była sytuacja, w której odezwała się firma, miałem rozmowę z jakimś tam practice managerem z CRM-a i odezwała się firma, wcześniej się nazywała jeszcze Codec DSS, to był Gold Partner Microsoftu.
+Przeszedłem rozmowę, powiedzieli, stary, dawaj, przenoś się do nas, a ja mówię, ale jak, słuchajcie, jak ja mam się teraz przenieść, wiesz, to nie były jeszcze czasy zdalne, to było wszystko na miejscu, większość na miejscu.
+Trzeba było, no i ja byłem, w sumie co, parę tygodni, nie parę tygodni, no parę tygodni przed ślubem, mocno zaawansowany już temat, no ale mówimy, nie, dostałem jakąś ofertę taką, nie do odrzucenia,
+poszedłem do moich, niestety właścicieli są ciężką informacją, że słuchajcie, jakby ja wiem, że dostałem co chciałem, lubię to wszystko fajnie i tak dalej, ale po prostu nie mogę, muszę uciec, muszę zobaczyć, tak, jak nie zobaczę to nie wyjadę,
+po prostu będę siedział i zostanę w Toruniu, czy nie wiem, wybierzemy jakieś inne miasto, ale generalnie już będzie koniec, no i co, decyzja została podjęta, samolot, hotel, na początku miałem hotel przez pierwszy miesiąc chyba w Dublinie i tam się zaczęła przygoda.
+Czyli wyjechałeś do Dublina, dostałeś nową pracę u nich, dobrze płatną, byłeś zadowolony, nowa przygoda, nowy rozdział, co dalej?
+Dokładnie, dokładnie, no i tam też znowu firma podobna do tej, co w Polsce, tylko trochę większa, oczywiście Irlandia, czyli najpierw zderzyć się znowu z kulturą, z językiem w ogóle, jakby nadrobić ten temat, że mówić po tych rzeczach funkcjonalnych i tak dalej, które rozmawialiśmy w Polsce i mimo, że mieliśmy zagranicznych klientów i często było to po angielsku, no ale tam jednak stale rozmawiać, siedzieć w biurze z ludźmi, którzy tylko mówią tym pięknym akcentem irlandzkim.
+Irlandzki jest bardzo charakterystyczny i może nie aż taki zły jak szkocki, ale też jest mocny.
+Sam wiesz, też można by było poopowiadać, no ale ogólnie były naprawdę znowu fajne projekty, znowu bardzo dobry prospekt, jeśli chodzi o firmę, bo widać było, że oni byli na fali wzrostu.
+Oni mieli super klientów dużych, mieli tam powiedzmy Generali, tą firmę ubezpieczeniową pod Dublinem, mieliśmy tam Ministry of Defense Irland, jakieś projekty, mieliśmy Cork Council, czyli rada miasta Cork.
+Tam w ogóle mieli akcent tak poryty, że ja byłem tam po prostu przestraszony, czy ja w ogóle coś rozumiem. Wiesz, na zasadzie wiedziałem co mam zrobić, bo tam robiliśmy jakiś liter fine system, to było wszystko CRM-owe.
+Oni oczywiście mieli i SharePointy i tam inne rzeczy, ale generalnie CRM. Dynamics w tamtym już czasie, to było głównie 2011, ale robiliśmy migracje z trójki, jakieś jeszcze w ogóle masakra stare takie rozwiązania, migrowaliśmy je na nowsze rzeczy.
+No i tam było już typowo, było kilka tych klientów, później już jak wszedłem na Generali, to tam siedziałem i tam się rozwijałem, tam mieliśmy dosyć dużą implementację i tam sobie leciałem z tym.
+No i było super niby, ale ciągle był, nie wiem, jakoś Dublin, jakaś kolejna wyspa, wyspa za wyspą i mówię, w tym czasie chyba moja mama już była w Anglii, więc jakby cały czas myśleliśmy, nie, nie, to musi być jednak UK, Anglia, bo ja mówię o Dublin, czyli Republic of Ireland, nie Irlandia Północna.
+Więc jakby cały czas nas to trochę tam kierowało, no i co, wróciłem oczywiście na wesele, nie miałem jego zdolnych, zdolnie, także pojawiłem się, pojawiliśmy się i później już z żoną stwierdziliśmy, że się przeprowadzamy, tam poszukaliśmy mieszkania, ogólnie hardcore było znalezienie mieszkania, jak w Londynie się wydaje, że jest ciężko znaleźć mieszkanie.
+A, czyli do Londynu, tak?
+No nie, nie, wróciliśmy właśnie do Irlandii, tylko że ja już wiesz, z hotelu musiałem raczej się wynieść, mieszkanie znaleźć, a to było strasznie ciężkie, z moim jakby, wiesz, z moją historią, bo wiesz sam, jak wyglądało znalezienie mieszkania, jeżeli nie masz historii, nie masz referencji.
+Musisz mieć jakąś agencję, która za ciebie potwierdzi, albo w ogóle kiedyś to było jeszcze trudniejsze wtedy, bo mi się wydaje, że to z biegiem czasu tych agencji coraz więcej wpłynęło na powierzchnię i sami wyłapywali takie rzeczy na Facebooku, na grupach facebookowych, ale w tamtych czasach rzeczywiście tego jeszcze nie było, nie? Pierwsze mieszkanie zdobyć to był wyczyn.
+No mówię, masakra, tam castingi, wiesz, stali ludzie. Wziąłem jakieś takie straszne mieszkanie, straszne, że myślałem, że nie przeżyję tego, jak Marta to zobaczyła, ale generalnie tam mieszkaliśmy, później znaleźliśmy jakieś tam inne mieszkanie, udało się nam wcisnąć przez firmę.
+Pracowaliśmy, ja sobie pracowałem, pracowałem, pracowałem i co? Okazało się, że Marta znalazła pracę w Londynie w konsulacie, więc mieliśmy możliwość i zastanawialiśmy się, czy się nie przenieść po prostu.
+Powiedziałem, że już z doświadczeniem moim nie ma możliwości, żebym ja sobie w Londynie czegoś nie znalazł, więc podjęliśmy decyzję, że się przenosimy do Londynu, co będzie bliżej, jak mama gdzieś tam w Gloucester, w Straude w zasadzie i to będzie po drodze bardziej, jedna wyspa mniej.
+Mieliśmy też auto, przejażdżka, autem zapakowanym całym, jak ludzie z trzeciego świata na promie przewaleni, po prostu hardcore.
+Przenieśliśmy się do Londynu, ja już w tym czasie zdążyłem połapać sobie pracę dla dużego konsultanta, znowu jakiejś tam konsultingowej dużej firmy, która się nazywała Cyber.
+I oni mieli trochę dziwne jakieś sytuacje, że mieli taki super monopol na Dynamicsa.
+I byli w sumie najwięksi w UK, jeśli chodzi o obstawienie Dynamicsów.
+Oni robili najwięcej banków, jakichś tam tematów.
+Monopol na całą Anglię praktycznie.
+Tak.
+Dziwnie, bo ja też wpadłem, i to było też takie dziwne, że łatwo jest znaleźć w firmie takiej konsultingowej ci pracę, bo oni mają wiele projektów.
+Więc ja przyjeżdżając tam, obsadzili mnie na projekt, to był prywatny bank, Seahorse Bank.
+Chyba drugi czy trzeci najstarszy na świecie, gdzie rodzina właścicieli, założycieli tych pierwotnych ciągle jest partnerami banku,
+w ogóle zupełnie inny świat, w City, w Londynie.
+I znowu sytuacja taka, że tam nie było casual Fridays, cały czas podpięty, po sam komin, garnitury, krawaty i po prostu mówię, no jak, przecież my z IT na zasadzie...
+Ale to też warto powiedzieć, że to nie był chyba zwykły bank, prawda? Nie taki ogólnodostępny?
+Nie, nie, nie. To był bank, to już się zauważyłeś. Generalnie tam jest tak, że jednak oni są bardziej formalnie ubrani, mimo że pracujesz w banku i tak dalej, jednak w tym City, czy na Kanarach, w tym Londku się chodzi bardziej formalnie.
+Ale rzeczywiście ten bank, to nie był bank, w którym mogłeś sobie, nie wiem, założyć konto z ulicy. Trzeba było mieć albo referencje, najlepiej królewskie, albo jakimś aktorem być i tak dalej.
+Też sporo kasy na koncie od razu trzeba było wcisnąć i tak dalej, żeby w ogóle być. To jest prywatny bank, tych banków nie ma aż tak dużo w tym private banking sector w Londynie.
+W ogóle dowiedziałem się, że takie coś istnieje i funkcjonuje. No ale przez ten cyber mnie tam rzucili, a tak naprawdę ja z cyber nie miałem nic do czynienia.
+To było na zasadzie, położyli mnie na ten projekt i jakiś tam menedżer raz na miesiąc, jak się pojawił, to się pojawił, a jak nie, to nie. Ja już sam to ogarniałem.
+I to był w sumie pierwszy raz, jak udało mi się wejść na jednego takiego klienta, w którego robiłem full time. Nie było sytuacji, w której ja byłem, wiesz, rozgarnię, na przykład byłem na pięciu projektach.
+Jak byłem w Polsce, to byłem na ośmiu. Tu robiłem jakiś pre-sale, tam robiłem jakieś funkcjonalności w kodzie, coś tam. W Dublinie znowu też tak było, przez to, że to był konsulting.
+Oni tam wyciskali z ciebie śruby, jak się dało, śruby SOKI. I tam trzeba było robić na przykład, nie wiem, właśnie ten jeden generali, później gdzieś tam mnie wysłali na południe do tego KORK, jakiś zupełnie inny system, jakiś coś tam.
+Była straszna, duża dynamika, ale też super nauka, bo każdy projekt jest zupełnie inny. Niby ta sama platforma, a platforma jest tak złożona, że tam możesz mieć, wiesz, tu masz takie integracje, tam masz takie.
+Tam byli tacy deweloperzy, tam byli tacy ludzie, wiesz.
+Mówisz o Dynamicsie cały czas, tak?
+Dynamics bardzo rzadko jest sam z sobą. Dynamics zawsze jest częścią integralną większej grupy systemów i to jest pewnie najtrudniejsze, bo ludzie, pewnie będziesz się spotykał z opiniami, że Dynamics jest ciężki, że to jest drogi i tak dalej.
+Drogi nie jest. Jeżeli chcesz go obsadzić całym, chcesz go zrobić corem do wszystkiego, to tak, no to musisz mieć złożone integracje, musisz mieć, wiesz, to się pojawia, rzeczywiście pojawiają się przeszkody.
+Szybko przeleć ten temat cyber. Cyber było krótko, później w zasadzie przeszedłem bezpośrednio do tego Seahorse Bank. Ja miałem swoją spółkę założoną już w Irlandii, w sumie pracowałem przez Umbrella.
+Czyli podkradli cię tam, tak?
+Podkradli mnie, ja tam miałem akurat taką możliwość, że cyber generalnie oni się też chyba przeskalowali i ta firma, właściwie takiej ogromnej firmy na zasadzie, że miała najlepsze projekty, oni nie byli duzi, oni mieli po prostu najlepsze projekty i zniknęli.
+Tam puknęli ich po prostu jakieś inne konsultingowe firmy. Ja przeszedłem tam bezpośrednio do tego Seahorse Banku, chyba robiłem tam ponad trzy lata czy cztery jako B2B, na zasadzie swoje limited company w Londynie czy w UK założone i dla nich realizowałem projekty.
+To był pierwszy taki projekt prawdziwy, w którym też trafiłem na super gości. Jeden entuzjasta ogromny, Colin taki, który obecnie tam jest CEO gdzieś w jakiejś dużej firmie, on był entuzjastą agile'owym.
+Wiesz, na zasadzie jakiejś rysowanki. Po prostu się zajarał i stwierdził w tym starym banku, zróbmy jakąś rewolucję, innowację, na zasadzie przestańmy latać od biurka do biurka, zróbmy po prostu wszystkie ceremonie agile'owe.
+Tak naprawdę i tam zacząłem też się trochę jarać agile'em, zacząłem czytać o tym, że mówię no co to takiego jest, z czym to się je, wcześniej słyszałem, że są technologie zwinne, ale nigdzie to nie funkcjonowało na tyle.
+No może jeszcze w naszej firmie w Polsce, pamiętam my tego agile'a robiliśmy, tylko że to nie był taki prawdziwy agile, dlatego że jak robisz coś in-house'owo w ramach firmy i później coś tam wysyłasz, to i tak jest zawsze waterfall.
+Zbierasz wymagania, mieliśmy zawsze tak, że zbieraliśmy wymagania, 100 stron wymagań i teraz to kodzimy i na końcu wszystko jest źle.
+W skrócie.
+A tam rzeczywiście to było takie coś, że wiesz, to były inkrementacje, tam były sprinty, my tam sobie lecieliśmy, dobra, biznes mówił, róbmy to, róbmy tam, to prawda, to on to prożeryzował.
+Był już taki true agile, był jeszcze też super taki gościu Steve, który był tam project managerem, który to fajnie zarządzał, takim scrum master'em w zasadzie później, bo jak już to wszystko było agile, to naturalnie był tym scrum master'em, też umiał ogarniać i techniczne tematy jakby jak trzeba było, mimo że nie był techniczny.
+No i to była super przygoda i tam też jakby dynamics sporych rozmiarów, ogromne integracje właśnie z SharePointami, z jakimiś SQLami, wszystko. Kasa, miodzie, też promocje w ramach tej co sześć miesięcy, słuchajcie, ja muszę więcej, ja muszę się utrzymać, Londyn mi się podoba.
+Jest drogo.
+Jest drogo.
+Cholernie drogo.
+Dokładnie, mieszkania też mi się podobają fajniejsze.
+No i rzeczywiście tam sobie pracowałem, ale jak to na kontraktach, zawsze jest krótki ląd.
+Jeżeli jesteś na kontrakcie dłużej niż pięć lat, to firma zaczyna się zastanawiać, nie, nie, hola, hola, co tu się dzieje, tak, gościu. Raz też z punktu widzenia jakby formalnego, prawnego stosunek pracy i tak dalej, oni mogą już się później przyczepić, więc wolą to ryzyko minimalizować i po prostu cię autują.
+Więc zawsze to jest tak, że ten kontrakt jest zmiany, tak, zmiany, zmiany, zmiany. No i co? I później, nie wiem czy mnie ciągle dobrze słychać czy nie.
+Świetnie cię słychać. Chłopaki tu dobrą robotę zrobili, w Paranofilms jesteśmy.
+Dziękujemy bardzo.
+Ale dziękujemy za obsługę.
+Tak jest.
+No tak, czyli jesteś już w Anglii, jesteś już na wysokim szczeblu, jesteś architektem, odpowiadasz za Dynamicsa praktycznie tak na całym banku.
+No to było śmieszne, że jak przyszedłem do Dublina, to tam to nie było, ja nie byłem żadnym architektem, nie robiłem żadnych pre-sale, ja tam wpadałem, w Dublini już wpadałem, ja kupiłem po prostu człowieka od brudnej, ciężkiej roboty, tak.
+Wpadam, implementacja, mocno hands on, tak, czyli jeżeli chodzi o implementację jakiejś tam funkcjonalności w ramach tego Dynamicsa, przeniesienie tego, nie wiem, z On Prema do chmury, migracje, tego typu rzeczy.
+No to tam się tym bawiłem tak jakby już, pracowałem sam, tak jakby ja to robiłem, tam nie trzeba było nic projektować, jakieś diagramy i tak dalej.
+Znowu przechodząc już później do tego Seahorse Banku, tam też za mała skala, znaczy za mała skala, ja tam byłem mocno hands on, ja tam pisałem ciężkie pluginy w C Sharpie, Javascripty, no po prostu jakby byłem technicznym leadem,
+jakby tam powiedzmy wszedłem jako, w zasadzie od początku jako techniczny lead, tam było też trochę z osobą z Indii, bo tam Cyber chyba miał wciągnięty z Indii też jakąś komórkę offshore'ową,
+czy nawet jakaś inna firma tam była, więc ja tam wszedłem na tego team leada, ale tam nie było takiej przestrzeni jakby czy chęci, czy wizji, że potrzebny jest powiedzmy architekt,
+tak po prostu ktoś, kto się zna na temacie i, aha nie, sorry, byli architekci, ale jakby z zewnętrznych teamów, oni rzeczywiście doglądali to jakby całe holistycznie, ja tam jeszcze nie byłem, nie pełniłem takiej funkcji.
+Dopiero, ale mi to nie robiło, tak, no bo kasa się zgadzała.
+No tak, byłeś specjalistą od brudnej roboty, po prostu było tej brudnej roboty dużo zrozumienia, bo technologia się szybko rozwija, wiadomo wiele niuansów co chwilę się pojawia, tak i mi się wydaje, że też ciężko było znaleźć kogoś takiego generalnie, stąd mi się wydaje duże wynagrodzenie za taką robotę.
+Tak, tak, bo to też jest jednak niszowe, to w tamtych latach to ciągle było, bym powiedział, czy może nie niszowe, no duże korporacje wszystkie jakieś tam, bo duża część korporacji zawsze jakiegoś CRM-a ma,
+czy to Salesforce-a, czy to Dynamics-a, czy SAP-a jakiegoś tam, powiedzmy, nie wiem czy z SAP-em możesz nazwać, z CRM-em, ale powiedzmy jakieś tam rozwiązanie takie core'owe, back-endowe, back-office'owe, więc ERP czy tego typu rozwiązania.
+Więc wiadomo, że oni tych specjalistów mają tam powiedzmy więcej, bo Londyn jest kierunkiem zewsząd, wydaje się, że tam jest dużo więcej tych rozwiązań, ale też jest dużo więcej, w sensie firm, które mają te rozwiązania, ale też jest dużo więcej jednak konkurencji.
+Tam masz, wiesz, cały świat zalewa Londyn i ten finance cały. Ja akurat specjalizowałem się, przypadkowo po prostu wpadłem na finance banking i w zasadzie z tym bankingiem siedzę już dosyć sporo lat.
+I tak naprawdę później, jak już ten projekt się zakończył, to gdzieś trafiłem jeszcze do takiej firmy na chwilę Brewed Dolphin, czyli to jest wealth management, czyli to jest takie zarządzanie twoim bogactwem w skrócie, to jest taki znowu firm…
+Problemem bogatych ludzi to związywałeś, tak?
+Znaczy ja nie musiałem się tym zajmować, bo ja nie byłem żadnym portfolio managerem czy jakimś takim, ale my robiliśmy dla nich system, czyli oni mieli bazę swoich klientów w tym systemie, mieli różne procesy back office'owe typu onboarding'i i tak dalej.
+Jak taki klient się pojawiał to trzeba było przejść przez ten proces zdygitalizowany i do tego wykorzystywaliśmy ten Dynamics'a. Też fajnie, ja tam byłem w ogóle, bo oni nie wiedzieli co to jest Agile, po moich latach z Agile jakby mogłem to przekuć, w sensie raz, że mówię, że się szkoliłem, dosyć mocno czytałem tych tematów, no to tam też trochę…
+Aha i tam już poszedłem na architekta typowo, tam miałem swoich, może to brzydko brzmi, ale w zespole mieliśmy ludzi, którzy po prostu zajmowali się typowo kodzeniem tego, a ja już miałem być architektem i od proponowania rozwiązań i tak dalej, czy to ma być w tą stronę, czy takie rozwiązanie, czy to ma być SharePoint, czy to jednak zostaje w Dynamics'ie i tak dalej.
+No ale tam też jakby przez moment robiłem taki coaching jeśli chodzi o Agile, tam wiesz prezentacje, żeby ten biznes zrozumiał co to jest, bo był jakiś tam niby Scrum Master, który nie wiedział w ogóle co robi, był Product Owner, który nie wiedział od czego to jest, jakby trzeba było fundamenty najpierw zrobić i rzeczywiście tam chwilę się nad tym pochyliłem.
+No a w międzyczasie wiadomo, trzeba było tam coś projektować, ale w tym momencie, to już właściwie będzie zaraz koniec mojej historii jeśli chodzi o Londyn, w tym momencie pojawia się jakiś agent, który mnie werbuje, mówi, że ma dosłownie po trzech miesiącach brewing dolphin, dzwoni do mnie, że słuchaj, Microsoft szuka konsultantów, architektów.
+W Dynamics'ie.
+Microsoft z Reading, Londyn, w sensie London, UK powiedzmy, to od razu wiesz.
+Tak, końców.
+Mój wujek, to jest mój gral wiesz, no w zasadzie jak Microsoft się do mnie odzywa i to jeszcze z UK, to mówię, no to jest niemożliwe.
+Spójrz, wiesz, mówię, ja mówię przecież, ja chciałem być przecież networkinga, nie, wiesz, jakieś kurde lany chciałem spinać.
+I wiesz, i sobie myślę, no to, no i trzy miesiące jestem w tej pracy, wszystko się pięknie rozwija, Brewing Dolphin to super firma jeśli chodzi o innowacje, bo mieli już na tamtym etapie dopiero teamsy wchodziły, oni mieli już teamsy wiesz, w pokojach, w salach konferencyjnych, tam, że mogłeś bookować, widziałeś kto jest.
+Wiesz, jakby widziałem od razu, że tam jest parcie na innowacje, Dynamics tam też online'owo wszystko i tak dalej, no chcieli wszystko nowe, kasy mieli oczywiście sporo, lokalizacja City, odpowiadała mi jak cholera, dopiero zacząłem, układało mi się super tam z tymi menedżerami.
+Jako konsultant ja byłem, znowu mówię tutaj B2B, ja tam nie byłem nigdzie zatrudniany, tylko miałem tą swoją powiedzmy jako kontraktowiec, ciągle ten B2B mnie bardziej kręcił, model, no ale pojawia się Microsoft i mówię, no im się nie odmawia, no wiesz, to są moi ludzie w końcu, lasuję tego Windows Phone'a od wielu lat i się nie udało, więc spróbujemy.
+No i odbyłem z nimi rozmowę i oni w ogóle, to był taki ciekawy temat, bo Microsoft szukał architekta typowo do security model dla wielkiego banku.
+Nie mówię oczywiście dla kogo, ale ogromny rollout dla 50 plus krajów, mnóstwo ludzi, największe drużenie Dynamics'a, chyba to było jak ogólnie na świecie, to przynajmniej w finansówce, sektor bankowy typowo.
+To mówię, kurczę, no dobra, rozmowa z Microsoftem, jedna, druga, dosyć szybki temat był, bo oni potrzebowali bardzo szybko gości, tam się wykruszyli, okazało się, że nie wytrzymali presji ludzkich, którzy byli w tym Microsoftie, stwierdzili, że oni tego nie będą robić, bo trafili na ścianę.
+Nie tyle ścianę techniczną, ale żeby przegadać te tematy, żeby właśnie te soft skille, żeby tego klienta tam gdzieś zmiękczyć, żeby on rozumiał, że gdzieś trzeba iść na kompromis, że to, za co zapłaciliście mnóstwo pieniędzy, za to wielkie rozwiązanie, to nie wszystko, to nie będzie w stanie wam wszystkiego dać, to trzeba umieć pójść na ten kompromis.
+No i tą rozmowę przyszedłem, super się przygotowałem do security, w zasadzie wcześniej takiego super wielkiego nie robiłem, to było też najśmieszniejsze, tylko że wiedząc, że to będzie security, to ja tam, wiesz, tydzień, dwa po prostu full time POC jakieś coś tam, cały ten model to nie jest jakiś skomplikowany tak bardzo na tej platformie, więc wąski temat, mówię, pękniemy to i tyle.
+No i na rozmowie spodobałem się tym gościom z Microsoftu, no i poszła nam dobry windolfin, mówię, słuchajcie, Microsoft mi daje ofertę, ja miałem znowu, jeśli chodzi o kasa to high end, właściwie to też jest ciekawe, że w tym kontraktingu masz pewne limity, ogólnie wszędzie masz pewne limity, które gdzieś tam widzisz.
+Ja z moją naturą ciągłych zmian, chęci nie mogę usiedzieć, wiesz, widzę, że to już jest ta bariera, ewentualnie co mnie może zachęcić to jakiś super wielki challenge, to był taki challenge, wiesz, Microsoft, mówię, trafia na pewno na najlepszych kurde ludzi i tak dalej, po drugie jakiś ogromny projekt, mówię, lecimy z tym.
+No i musiałem pójść do nich i powiedzieć, że słuchajcie, jest jak jest, ja bym normalnie nie zrezygnował, ale to się może stać, wiesz, raz w życiu, że ci zaproponowali tak z ręki i nie muszę, wiesz, stwierdziłem, że biorę to.
+Rozstaliśmy się w dobrych w sumie relacjach generalnie tam, jakiś, wiesz, living do było konkretne w CT, więc…
+No ciężko Ci się dziwić, nie, mi się wydaje, że każdy pracodawca, wiesz, widział po Tobie, że jesteś ambitny, że chcesz ruszać dalej i trafiła Ci się super opcja, tak, od Microsoftu dla banku.
+Tak, tylko że to było trochę inaczej, bo wiesz, oni nie byli moimi pracodawcami, ja byłem, wiesz, jako satelita na kontrakcie, czyli ja podpisując kontrakt, podpisujesz go na sześć miesięcy, jest wypowiedzenie dwa tygodnie i możesz rezygnować, jak Ci się nie spodobało.
+Generalnie tak mogłbyś zagrać, że taka jest forma kontraktowa, że oni nie mają pewności, ani my nie mamy pewności, oni też mogą mi podziękować.
+Już mi się też tak zdarzyło gdzieś tam na jakimś projekcie, że w grudniu musiałem siedzieć na tyłku i szukać tematów, bo nic nie było, a koszta były ładne w Londynie, jakby już żyjąc na pewnym poziomie.
+No i wziąłem to na klatę, jakby mówię, dobra, jest challenge, lecimy i Kanary Wharf, to jest HCS, czyli Eighth Canada Square, największy taki budynek, jeden z większych budynków, przyjeżdżasz tam, mówisz, jaki jesteś malutki.
+Tak, widać go z daleka.
+Kwadrat taki ogromny, czyli 50, chyba 7 pięter, widok na cały Londyn przepiękny, trafiasz tam na dole, gdzieś w recepcji ktoś Cię wita, ja pierwszy raz poznaję ludzi z Microsoftu, siema, siema.
+Oni mi pokazują ludzi i klienta, że tutaj będziesz robił, wszyscy wiadomo, krawaty, te sprawy, ale to już byłem przyzwyczajony, więc nie robiło.
+No i co, no i tam zacząłem przygodę, no i tam projektowaliśmy, i tam się tak naprawdę dowiedziałem pierwszy raz, co znaczy architekt, bo z całym szacunkiem do polskiego rynku, czy do projektów mniejszego kalibru, to jest ta możliwość, że taki tech lead, który jest ogarnięty i który ma te skillsy, jest w stanie to ogarnąć.
+Tam po prostu nie było możliwości, żebym ja był hands on, żebym ja mógł coś robić fizycznie, bo my mieliśmy 260 ludzi na projekcie, tam było 6 czy 8 podów, każdy pod miał, to był scrum team, który miał swoje różne rzeczy robić, ci robili takie funkcjonalności, tamci robili coś.
+Ja trafiłem pod security, ja byłem tam architektem, my mieliśmy Indie, mieliśmy w UK, mieliśmy Chiny, mieliśmy US, ogromne, no mówię, to było wdrżenie na 52 kraje, jedna instancja Dynamicsa, bankowości, najbardziej wrażliwe dane na świecie,
+tak zwane material non public information, czyli których wiedza o pewnych dealach może wpływać na giełdę.
+Bardzo wysoki, high level, top, top.
+Tak, no bo oni tam, wiesz, to jest bank, który robi transakcje, na zasadzie jedna firma kupuje drugą za dwa miliardy. Jak wiesz o tym miesiąc wcześniej, no to sorry, ale możesz dużo zarobić, więc klimat nieziemski i stąd tam trzeba było zaproponować najbardziej możliwie skomplikowany, złożony, bo to było w chmurze,
+więc żeby się w ogóle zgodził, Microsoft jakby strasznie chciał to puścić, żeby to poszło live, no bo jak to pójdzie live, no to wiadomo, że zaraz to kaskadowo poleci po innych bankach na zasadzie, no jak oni weszli z takimi wrażliwymi danymi, to każdy może wejść, bo oni przeszli przez compliance tam, wiesz, przez działy prawne, czy to może, czy to nie może,
+jeżeli chodzi o te aspekty data residency, data, wiesz, czy może to być w tej instancji, czy nie może, jak to musi być zabezpieczone, kto może to widzieć, konkretne reguły, no mówię, skomplikowany projekt, tak dla tylko taki product owner właśnie od tego Andrew, zresztą kolega od security, to z tego co pamiętam, to BRD, czyli to Business Requirements Document
+miał chyba ze 100 stron, same wymagania biznesowe pod kątem security na jednej platformie i to trzeba było jakby skumać, zrozumieć i przełożyć potem to na rozwiązanie dynamicsowe, czyli zaproponować, wiesz, i też często, niejednokrotnie pójść na kompromisy, że słuchajcie, no pushback tutaj, pushback tam, że nie możemy tego zrobić, no bo będziemy szli za bardzo w custom, a generalnie jak skończyło się to tak, że rzeczywiście poszliśmy live,
+potem byłem już przerzucany na jakieś integracje, mnóstwo systemów integrujących się, wiesz, jakby skala tego rozwiązania była taka, że jeżeli to jest w tylu krajach, to każdy kraj ma też swoje takie rozwiązanie CRM-owe, więc my połykaliśmy te małe CRM-y, my też je przenosiliśmy, oni wewnętrznie mają zupełnie inne systemy od pewnych rzeczy, które w UK się robiło w takim systemie, nie wiem, w Hongkongu się robiło w zupełnie innym systemie.
+Inna skala problemów, tam dopiero poznałem, co to znaczy w ogóle architektura, w sensie architektura taka prawdziwa, wiesz, przełożenie tego w praktyce, co oznacza, że musisz, nie wiem, diagramy, że musisz pokazać ludziom, że masz 20 deweloperów, którzy będą to później robić, jakie są konsekwencje, jeżeli nie pójdziemy, wiesz, ja też przygotowałem ten dokument, solution design dokument, który miał 60 stron ciężkiego mięsa, wiesz, na zasadzie z tych 100 czy tam 200 stron,
+tego BRD, przełożenie to teraz na solution design document, bo on musiał być klepnięty przez jakichś tam, wiesz, enterprise architektów i tak dalej, więc wiesz, zrobimy przerwę może jakąś?
+Możemy, jeszcze dokończymy może z tym bankiem, dobra, zrobimy przerwę.
+Dobra, co tam dalej z tym bankiem? No jakby security model, później w tym banku to było ile? Trzy czy cztery lata tak naprawdę, ja tam robiłem dla nich jakieś rzeczy, tak?
+Mówię, tam już zupełnie nie byłem programistą, później, czyli tam był Dynamics for Sales, ten 365 for Sales, ale też robiłem, później byłem na kolejnym projekcie, bo tam tych Dynamics to wiesz, każdy jakby zupełnie inny zespoły, później robiłem też Customer Service,
+taki ten najnowszy, w którym tak naprawdę cała obsługa jakaś globalnie, czyli nie wiem, działa ci przelew, nie przeszedł ci, tak?
+Tak.
+To trzeba to dać znać do banku, no i my robiliśmy projekt, który miał zunifikować wszystkie platformy na świecie, takie małe, to my robiliśmy, przenosimy to w jedno miejsce.
+I tam był taki wiesz, silnik Unified Routing to się nazywa, jest dostępny w Dynamics w Customer Service teraz niedawno z AI i tak dalej, on ci analizuje, czy treść była niemiła, czy miła,
+ale tam wiesz, robi oczywiście to w różnych krajach, w różnych językach, więc musi też ci przetłumaczyć i on potem to routuje zgodnie z regułami routingu do różnych zespołów.
+Na przykład było, nie wiem, w jakimś tam, Polska miała huba Customer Service, który obsługiwał Europę, czy coś tam, to szło to do nich, tak?
+Tam też oczywiście trzeba było Security Model, tam już udało mi się ten Security Model bardzo uprościć, ale od nowa to był projekt, w którym jakby ja robiłem, no przechodziliśmy przez, oczywiście oni mieli jakiś apetyt jak to ma wyglądać,
+to był zupełnie nowy projekt, w którym też się tam zaprojektowałem, bo to inna platforma, ten Security Model cały, no i różne rzeczy inne, tam integracje i tak dalej, no sporo rzeczy,
+oni mają też mocną Power Platform, dużo rzeczy takich customowych typu, wiesz, napisane coś w Javie, takie wiesz, szyte na miarę, stwierdzili, że słuchajcie, ale przecież jest Power Platform, jest low-code, no-code.
+Znamy Dynamicsa, sprawdziło się na dwóch największych globalnych instancjach, gdzie wiesz, tam było 12 tysięcy userów na pierwszej, a na drugiej, nie wiem, pewnie docelowo może i 30 tysięcy, nie?
+No wiesz, to tam, to jest masakra, no i też różne, jakby problem też duży w takiej globalnej instancji bankach jest to, że tam są wiesz, różne wymiary, że masz, na przykład oni mieli segmenty biznesowe, że masz business banking, czyli dla takich ludzi jak ja, kontraktowiec, otwierasz sobie konto i twoja relacja z bankiem jest taka, że cieszysz się, że przelew przechodzi i widzisz, że jest i możesz przelew zrobić.
+Tak.
+Ale mają też górną półkę, czyli global banking, gdzie to są global bankers, się nie nazywają, to już w ogóle nie są relationship managerowie, bo by się obrazili, tylko to są bankerzy globalni, którzy wiesz, mają relacje na zasadzie klient, to jest dla nich Microsoft, nie?
+Aha.
+I oni rozmawiają o zupełnie innych rzeczach, oni się spotykają, tam masz wiesz, transakcje typu właśnie, nie wiem, M&A, czyli Mergers and Acquisitions, jakieś tam produkty typu GTRF, GLCM, czyli coś co pośredniczy, oni pośredniczą, że na przykład robisz biznes w Hongkongu i boisz się, żeby ktoś jest niewypłacalny czy coś, to oni za ciebie robią jakiś tam, wiesz, financing, factoring, tego typu trady.
+Nie wchodziłem aż tak w szczegóły, ale zawsze lubię trochę tego biznesu jakby poznać, do czego to właściwie im jest, że wiesz, generalnie w tym Dynamixie mieliśmy te deale, czyli jak było jakieś opportunity, był lead, no to oni to trzymali tam i później na przykład senior managerowie jacyś globalni na świecie musieli widzieć tylko, wiesz, raport jakiś, ile dealów, jaki jest pipeline, ile będziemy mieli się na jutro, ile przegraliśmy i tak dalej, więc jakby do tego to się skupiało.
+No a customer service to wiadomo, ile mieliśmy tikietów, ile zadowolonych klientów, niezadowolonych i żeby to szybko działało. Później jakieś boty, autoresponsy, wiesz, maila i tak dalej, zautomatyzowanie tego wszystkiego.
+Czyli byłeś już tak naprawdę na szczycie łańcucha pokarmowego, jeśli chodzi o finanse w banku, już architekturę, już prawie zjadłeś tam całą?
+No myślę, że trochę nieskromnie to zabrzmi, ale na pewno w architekturze masz tam jeszcze, powiedzmy, level enterprise architecture, enterprise architect, w którym obecnie jestem, to jest też ciekawe i pewnie jakiś tam trochę będziemy mogli to dopowiedzieć,
+ale powiedzmy, jeśli chodzi o architekturę, jeśli chodzi o Dynamics, o ekosystem Microsoftowy, no to pewnie tak, bo ciężko już tam dalej wychodzić i teraz się zastanawiać.
+Wiadomo, wykorzystujesz te kwestie biznesowe, zrozumienia biznesu i przełożenie tego na rozwiązania i proponowanie tego, później przekazanie tego w dobry sposób do deweloperów i utrzymanie tego w rydzach, w standardzie, żeby to było dalej, spełniało twoje kryteria, funkcje, żeby, wiesz, oni nie wykraczali poza pewne bariery i ciągła jakby weryfikacja tego wszystkiego.
+Więc zdecydowanie pod kątem finansowym to jak najbardziej, wiesz, można byłoby powiedzieć, że nie muszę nigdzie wyjeżdżać, mogę sobie ostatnio żyć, mogę sobie, wiesz, kupić jakieś tam mieszkanie na kredyt i będzie fajnie, nie?
+Piękny styl życia, wiesz, jakby ta kultura zachodnia na zasadzie piwko w środę po pracy, wszyscy jeżdżą, nikt nie jeździ autami, bo gdzie w Londynie będziesz jeździł auto? Mieliśmy przypadki, że tam jacyś jeździli, którzy jeździli bardziej z jakichś miejscówek typu, no spod Londynu też była część osób, nie?
+Tak.
+Którzy sobie dojeżdżali, jak wiesz, ale generalnie fajnie, bo wszyscy i metro, ja sobie łódką w ogóle pływałem, katamaranem, zresztą po Tamidzie, bo mieszkałem na…
+To też był transport of London.
+Tak, klikery.
+Tak, to jest takie ciekawe.
+I tam rzeczywiście jakby już było wszystko, no ale wiadomo, kontrakty trwają, kontrakty są, robią przeorganizowania w firmach, za długo jesteś, zmienili decyzję, oni mieli dostawców, największych dostawców, wiesz, no Microsoft, jak ci wspomniałem, był u nich, później ja tylko zostałem tam z Microsoftu, bo oni podziękowali reszcie, bo okazało się, że nie byli specjalnie kompetentni, a brali tyle kasy oczywiście za ten konsultant, że to dla nich nie było rentowne.
+Czyli jakaś inna firma, która wykorzystywała technologię Microsoftu jakby zgarnęła ten kontrakt, pokonała mistrza?
+Nie, nie, nie, właśnie, nie, bo oni po prostu mieli, doklejali sobie jakieś firmy konsultingowe typu KPMG, typu jakaś inna firma, Wipro, taka, no ogromne firmy konsultingowe, zawsze przy ogromnych firmach gdzieś tam będą siedzieć i oni też zawsze mają jakąś, wiesz, Dynamics Practice, to sobie dorzucą pięciu ludzi.
+Jeżeli się okaże, że to jest offshore, wiadomo, że to jest dużo taniej niż gościu, który jest na miejscu, jak ja byłem tam onshore, więc dla nich to było proste, że można było, no i wiadomo, budżety są, które są na projektach, te budżety się zmieniają, w pewnym momencie stwierdzają, że drogi gościu, niewygodny, wystarczy nam ciebie, teraz już jest bardziej business as usual, czyli przechodzimy fazę projektu, że nie trzeba płacić tym najdroższym powiedzmy.
+Lecimy dalej, tak?
+Tylko fine tuning jakiś, tak?
+No dokładnie, jakieś ciągłe, wiadomo, że ciągłe jest praca, ciągłe jest ten, ale no jakby ta, żywot taki mój na takich projektach wiadomo, że kiedyś się kończy, tak, no bo jakby taka jest idea projektu, na początku wiadomo, trzeba zaprojektować, zobaczyć przez tę pierwszą fazę, te najcięższe armaty mamy, a później powoli próbujemy to robić, przekładać w taki business as usual, czyli są już osoby, które umieją to wspierać,
+nie robimy jakichś ogromnych zmian fundamentalnych, to już dla Ciebie tu nie ma miejsca.
+To co, zrobimy sobie przerwę?
+Myślę, że tak.
+I wrócimy po przerwie i pogadamy o Akademii i o może tym enterprise'owym aspekcie.
+Spoko.
+Dobra?
+To zatrzymaliśmy się na banku, na słynnym banku i doszliśmy do wniosku, że nie powiedzieliśmy jaki to jest bank tak naprawdę.
+No to był bank HSBC, może w Polsce tak nie do końca super znany, ale na świecie jeden z większych banków na świecie.
+Gigant.
+Gigant, gigant, nie pamiętam liczbowo, ale chyba 250 tysięcy ludzi zatrudnia.
+Zatrudnia, tak?
+Tak, no 52 kraje jakby ma swoją prezencję.
+A klientów to w milionach.
+No klienci różni, bo właśnie są ten lower end typowo biznes banking, czyli wiesz super maluchy.
+No i też najwięksi klienci, największe wiadomo, że to są oni konkurują z Barclays.
+Wieloryby.
+American Swiss, no Swiss może już nie, ale generalnie tak.
+Duży bank, jeżeli chodzi o bankowość to nie możesz trafić na większe organizacje, korporacje, struktury, trudność w przejściach pomiędzy aprovalami,
+zatwierdzeniami, umiejętność nawigowania, zrozumienia ludzi, w ogóle do kogo rozmawiać, z kim rozmawiać.
+Tam nie tyle masz problemy IT, co bardziej organizacja, zrozumieć w ogóle kto, czy ty rozmawiasz z biznesem, czy ty rozmawiasz z ludźmi z IT.
+To jest bardzo ciekawe, to mnie też dużo nauczyło nawigowania po tym wszystkim, że to nie jest tylko problem, na zasadzie biznesowy problem.
+Masz biznes case, którego musisz przełożyć na IT, tam musisz zrozumieć w ogóle, czy ten ktoś, kto coś od ciebie chce, to czy on na pewno to ma dostać,
+czy ty musisz rozmawiać z kimś, z jego przełożonym, czy całą strukturę, to też kosztuje bardzo dużo energii na takich projektach.
+I problemy z ludźmi też różne na różnych szczeblach, cały dealing z nimi, ugadywanie się, niekończące się rozmowy, spotkania, które powinny być 15-minutowe, trwają 4 godziny.
+Dokładnie, docelowo okazało się, że ja jednak więcej byłem na spotkaniach, później też pracowałem dużo zdalniej i dziwili się ludzie u mnie w rodzinie, czy znajomi,
+jak gdzieś tam siedziałem, że tak naprawdę 80% twojego czasu to jest rozmowy, negocjacje, propozycje tych zmian, jakieś tam kreatywne,
+ale generalnie też czasami palenie godzin po prostu, że są jakieś spotkania, gdzie niespecjalnie ciebie dotyczą, ale rzeczywiście ten korporacyjny cały to wszystko ogarnąć to jest...
+Język korporacyjny?
+Język w ogóle, całą organizację, wszystko, to jest taka skala, że jak ja tam przyszedłem, to ja nie mogłem, mówię, dla mnie nie było problemem technologia,
+nie było dla mnie problemem najtrudniejszy security model, tylko było okiełznanie tej wielkości w ogóle, jako że to są tyle krajów, tam są zaangażowane różne zespoły,
+że mnóstwo ludzi pracuje w ogóle, nie wiem, jakiś zespół chiński robi coś, o czym nie masz pojęcia, a później się okazuje, że to cię dotyczy,
+zrozumieć w ogóle segmenty w tym banku, że są właśnie, że są tacy, to nie jest w ogóle, my nie mówimy nawet jeszcze o, ja nie robiłem dla banku retail, jest bank retail, czyli to jest taki konsument po prostu kowalski,
+to ja nie robiłem dla nich, ja robiłem dla corporates, ale dla i małych, ale głównie dla dużych i to zrozumienie w ogóle tego, że to są różnice, że w ramach tego są różne inne procesy itd.
+Tak, że ludzie nie mają świadomości, wielu ludzi nie ma świadomości, też mała korporacja to też nie jest taka mała korporacja, po prostu w porównaniu do tych dużych korporacji, to to są małe korporacje, tak?
+Dokładnie.
+Ile pracowałeś w tym banku?
+Chyba 3-4 lata, jakoś tak to wyszło mniej więcej plus minus.
+3-4 lata, zdobyłeś tam dużo doświadczenia, wprowadziliście rozwiązanie, całą architekturę rozumiem, później to już został, ta cała ciężka praca została wykonana, ktoś to potem przyszedł, tak jak rozmawialiśmy wcześniej, później już się tylko zajął fine tuningiem całego rozwiązania i z tamtego miejsca ruszasz dalej, tak?
+Trochę tak i trochę nie. W pewnym momencie na drodze prywatnie pojawia się dwóch moich boysów. Najpierw, a w zasadzie nie dwóch, sorry, trochę skróciłem ścieżkę.
+Pierwszy syn rodzi się w Londynie.
+A, tak.
+I to jest duża zmiana, tak? Jakby nagle, wow. Myślałem, że będzie lżej, na zasadzie. No jest kawał gościa, więc jakby nie było to proste.
+Urodził się w Londynie, przejść przez szkołę rodzenia w Londynie, to NCT i tak dalej, z różnymi ludźmi, rodzenie w szpitalu, w którym nikt nie mówi w twoim języku, to nagle zmienia w ogóle wszystko. Mimo, że tam się czułeś dobrze i tak dalej, ale nagle pojawiają się takie rzeczy jak…
+Dysonans kulturalny, tak?
+Tak, bo było to, powiedzmy, zderzenie. Okazało się, że później już w Londynie nie można było sobie tyle korzystać z życia, jak sobie byliśmy we dwójkę. Okazało się, że to wszystko się stało bardzo ograniczone.
+Wiadomo, główna uwaga na modem, a kontrakt z HSBC dalej jest i wyciska się wysoki, tak? I wiadomo, tych godzin, raz, że w ramach projektu, a poza projektem jest coraz więcej.
+To stanowisko moje też jest wymagające właśnie, żeby jednak ten social networking prowadzić, spotykać się i tak dalej, żeby nie wypaść z obiegu, więc trzeba było tam, wiadomo, iść na kompromis, ale generalnie życie idzie dalej i trzeba było dokonać wyboru.
+No i tutaj okazało się, że… znaczy stwierdziliśmy wspólnie, że my wyjeżdżając za granicę, jak ja wyjeżdżaliśmy, to ja w sumie wiedziałem, że my nie chcieliśmy być w żadnym kraju na dłużej niż dwa lata.
+Taki był zamysł, max dwa, lecimy sobie tu, lecimy tam, zobaczymy, po drodze IT sobie doświadczenie i tak dalej i na końcu i tak wrócimy, bo mieliśmy w Polsce, że tak powiem, co szukać, to nie jest tak, że my wyjechaliśmy za chlebem, bo miałem już dobrą pozycję w Polsce, więc jakby nie trzeba było tego zmieniać, tylko cały czas mnie coś tam kręciło, kusiło, inny świat zobaczyć i tak dalej.
+Przygoda, ciekawość.
+Ciekawość straszna. No ale już mówię, po tym jak się Leon nam urodził, to to się trochę już zmieniło i stwierdziliśmy, że może koniec, trzeba pomyśleć, czy na pewno będziemy w UK go rozwijać, czy jednak Polska.
+Nasze stare, dobre śmieci, wiemy jak tam się w liceum było i w podstawówce, wiemy więcej jak to wygląda, to jest nasze, więc stwierdziliśmy, że ostatecznie podjęliśmy tę decyzję, żeby wrócić.
+Ale też biorąc pod uwagę moją ścieżkę kariery, tak jak wspomniałeś wcześniej, że tam powiedzmy, byłem już powiedzmy gdzieś tam w gre przygranicznym punkcie, po prostu mogłem sobie ten kontrakt realizować, mieć dobrą kasę, jeden kolejny kontrakt, plus, minus, trochę więcej zawsze tam dostać, jakaś inflacyjna i tak dalej.
+Też nie zawsze, wiadomo, tylko chodzi o kasę, ale jakby rozwój tam technologiczny i tak dalej. No ale ciągle znowu mi było mało na zasadzie, że nie, że mało jakby finansowo, tylko mało tego challenge'a.
+Jak już to okieł znałem, mówisz, no największy bank, masakra w ogóle ogarnąć, nie wiem czy mówię, no 250 ludzi na jednym projekcie, tak, to się wydaje niemożliwe, że czasami wpadasz i po prostu nie wiesz, no i to wszystko udało się zrobić, to wieś projekt, potem kolejny projekt duży, dwa różne rozwiązania dynamicsowe.
+Mówisz już jest, no i co teraz, koniec mam już, mam tak po prostu pracować i są ludzie, którzy na tych kontraktach siedzą 20 lat, w jednej firmie, drugiej, są super specjalistami, kasę zarabiają, wycieczki, high life, jakby no nie narzekasz, jak jesteś specjalistą w takiej wąskiej dziedzinie, na zachodzie, na kontrakcie, swoje zarobisz.
+No ale jakby mi brakowało trochę, mówię, no dobra, a tu się pojawia też ciekawy wątek, nasz polski wątek, że mamy tą zagranicę, mamy tego UK, mamy Dublin i tak dalej, mamy tych kilka banków, które przeszedłem w Londynie.
+Okazuje się, że w każdym z tych miejsc zawsze był jakiś Polak, który tam też pracował, czy to zatrudniony, czy to na kontrakcie, który przeważnie wszystko wiedział, na zasadzie wiesz, po prostu gościu, do którego, jak nie ten, to iść do Pawła, jak nie ten, to iść do Marcina.
+Po prostu zawsze to było i mówię, no siema, skąd jesteś, nawet teraz kiedyś w tym Brewing Dolphin okazało się, że miałem gościa z Chojnicy.
+O proszę.
+Ja mówię, no to jest niemożliwe.
+Marcin, który tam sobie wróćmy pracował w tym czasie, przy tym Dynamicie.
+I jakby to mnie trochę tknęło, że jednak ta Polska, my wiemy, że mamy silną załogę, jeśli chodzi o programistyczną, o konkursy, czy to ejajowo teraz pokazuje się, że część założycieli jest Polakami albo z pochodzenia i tak dalej.
+Ja miałem taką świadomość i widziałem też, jak wygląda kultura pracy na Zachodzie.
+Różnie, oczywiście nie można generalizować, są naprawdę eksperci i miałem super takich Anglików, którzy bardzo zdolni
+zamiatali tematy i po drugie ta kultura dyplomacji i tak dalej, jakby inny level.
+Ale z drugiej strony na przykład patrzyłem, że zawsze właśnie w tych firmach gdzieś tam jakiś Polak sobie coś robił i on na ogół był taki, że gościu, do którego idziesz i on ci wszystko odpowie szybko, prosto, pyk, pyk, pyk, jasna, jedziemy dalej.
+I tak rzeczywiście u nas to wygląda, że u nas jest dosyć wszystko prosto, czasami też na skróty, ale niekoniecznie.
+No i co, tak w głowie mi się pojawił taki pomysł po prostu, żeby jednak spróbować się trochę inaczej, czyli ile można samemu robić.
+Ja się nie wyskaluję, ja nie będę robił tu i tu czterech projektów na raz i tak dalej.
+Spróbujmy coś zmienić, spróbujmy, no i jakby z tym pomysłem powrotu do Polski stwierdziłem po prostu, że zakładam spółkę w Polsce.
+Z nazwą, też był pierwszy temat jaka nazwa i co zrobić i już w tamtym czasie, to był 2018 rok, grudzień, gdzie założyłem spółkę.
+My się przeprowadziliśmy jakoś tam chyba w marcu 2019 roku z powrotem do Polski.
+Do Gdańska, tak?
+No to też jest ciekawe, że właśnie gdzie się wyprowadzić, tak?
+Mieszkaliśmy w Poznaniu, ja mieszkałem 5,5 roku w Poznaniu, mieszkałem w Toruniu, kolejne 4 lata.
+Chojnice z urodzenia jakby.
+Do Chojnic po Londynie nie kusiło nas, żeby wracać, bo sorry, mimo że rodzina i tak dalej, znajomi, ale jednak po prostu przyzwyczailiśmy się powiedzmy do takiego troszeczkę innego życia.
+Więc na pewno wiedzieliśmy, że to musi być większe miasto.
+Warszawa to daleko.
+To mówimy nasze, pomorskie, jedyny prosty temat, Trójmiasto, moje miasto, tak?
+Też tu nie studiowałem, miałem dużo znajomych z liceum, którzy tu studiowali, pojechali i pewnie już tutaj zostali.
+My wcześniej tu nie mieszkaliśmy, więc wiedzieliśmy, dobra, lecimy do tego Gdańska, zobaczymy jak jest.
+I rzeczywiście tutaj się wprowadziliśmy, w najlepsze mieszkanie.
+Ja nam zrobiłem takie powiedzmy ultimatum, tym firmom HSBC, że my się przeprowadzamy, możecie mnie zostawić, róbmy zdalnie, ja będę sobie przyjeżdżał.
+Ja przylatywałem raz w miesiącu na tydzień na projekt, zrobiliśmy co mieliśmy, wracałem, robiłem dalej diagramy, projektowanie i tak dalej.
+W międzyczasie, już ostatnia historia, jeśli chodzi o takie indywidualne, powiedzmy, tematy, kontrakty.
+Pojawił się projekt Jersey, Jersey Financial Services Commission, czyli to jest taka instytucja, powiedzmy, na wyspie Jersey, która jest takim, powiedzmy, rejem podatkowym,
+która jest koło Francji, przynależy jakby trochę do Wielkiej Brytanii i tam też jest duży projekt dynamiksowy.
+To jest firma, to jest miejsce, to jest taki KRS w Jersey, w którym się zakłada spółki, a dodatkowo jest też komisją takiego nadzoru finansowego,
+gdzie regulacje prowadzi tych różnych złożonych funduszy i tak dalej.
+To jest public sektor, typowo publiczny sektor, czyli jakby państwowa komórka, ale ze swoim, powiedzmy, biznesem i tak dalej.
+To jest też bardzo duże rozwiązanie, oni są bardzo mocno obsadzani w Microsoftie.
+No i dla nich to też byłem architektem, właściwie jestem dalej, co ciekawe, ale to dalej do tego dojdziemy.
+A HSBC? Przepraszam, że ci przerwę, bo podstawiłeś, w końcu już byłeś na takim etapie, że powiedziałeś, no słuchajcie, ja się przeprowadzam, co oni na to?
+No jakby ja wyczułem sytuację, że oni jednak są w jakiejś tam, moja pozycja jest dosyć dobra, nie mogli sobie pozwolić na to, żeby mnie stracić w tamtym momencie,
+więc raczej to było tak, że okej, jak będziesz robił swoją robotę, zresztą jasno powiedziałem, jeżeli nie będę wykonywał tych zadań mi powierzonych w takiej formie i z taką efektywnością, jakbym był na miejscu, no to mi podziękujecie.
+No i wykonywałem to ok, myślę, no bo później się pojawił COVID, a my przed COVIDem się wyprowadziliśmy, więc dla nas jakby nie było zmiany nagle, bo nagle się okazało, że wszyscy zdalnie mogą pracować.
+W ramach COVIDa.
+Sam zresztą dobrze wiesz.
+Tak jest.
+I co, jakby było to z Polski, było to w miarę uczężliwe, jednak to latanie raz w miesiącu na tydzień, co chwilę samoloty, za chwilę wracałeś, już hotele, co chwilę znowu rezerwacje i tak dalej.
+Zgodzili się na to, ale wiadomo, że ten model działa przez jakiś czas, a później jakoś próbują się od ciebie uniezależnić, bo są inne rozwiązania.
+Takie duże firmy nie polegają wyłącznie na jednych osobach, one zawsze mają możliwości, nie lubią w ogóle czegoś takiego jak single point of failure.
+Tak.
+Jak mają o tym świadomość, to na pewno…
+Dywersyfikują od razu.
+Tak, duże firmy konsultingowe, spoko, kontraktowców sobie dorzucą i to działa.
+Pojawiło mi się Jersey, HSBC jakoś tam powiedzmy się skończyło w pewien sposób, tak jak już wcześniej mówiliśmy, że to trwa jakiś okres, 4 lata,
+no to po tym okresie już jednak te duże projekty, co zostały już przerzucone w taką fazę business as usual, no to w tym momencie wiadomo, że po jakimś tam czasie to ci podziękują na tym levelu.
+Co innego jakbyś robił ciężką robotę w tych kamieniołomach, a co innego jak gadasz, jak ustalasz pewne założenia, tematy, projektujesz, tak jak przy projektowaniu domu.
+Tak jest, jest skończony, można jeszcze coś dobudować.
+Jakby były duże funkcjonalności, o to chodzi, jakby były ciągle duże funkcjonalności, no ale tego cashflow jest ile jest, tak.
+Oni go kładą, budżetują, później coraz mniej, żeby jednak już była ta faza BAO, no i tutaj jakby nie tłumaczy się w ten sposób.
+No i pojawił się projekt Jersey.
+Też od podstaw projekt?
+To była wczesna faza przeniesienia Dynamicsa z on-prema do clouda.
+Czyli oni byli na tej fazie, że już ileś tam firm konsultingowych mieli, zrobili, co zrobili, co mogli na tym on-premie i teraz była sytuacja, że dobra, teraz trzeba to przenieść na chmurę, no bo wszystko idzie w chmurę, lecimy z tym.
+No i ja im tam pomagałem przy przeniesieniu, przy projektowaniu i tak dalej.
+Nie, że sam jakby fizycznie robiłem, ale bardziej projektowałem właśnie jakieś tam entity-based diagrams, czyli diagramy, tłumaczenie biznesu, acceptance criteria,
+proponowanie rozwiązań, czy iść w taką stronę, czy power automate, czy tam plugin, czy funkcja azulowa i tak dalej.
+Też ciekawe, bardzo ciekawe rozwiązanie, mocno właśnie Microsoftowa firma, jeśli chodzi o kwestie Azura i o Power Platform i Dynamics.
+Tam akurat Dynamics Customer Service jest wdrożony.
+No i w tym momencie pracuję sobie już na tym projekcie.
+Pojawia się COVID, firma założona, myślimy nad nazwą, pojawia się opcja nublado, jest to trochę z hiszpańskiego, trochę z angielskiego, jest to nubla do.
+W sensie, że nubla to jest pochmurny, chmurzysty i tak dalej, chmura, a do to robić.
+Czyli robimy, jakbyś pewnie tłumaczył jeden do jeden, no to robimy jakoś tam pochmurnie czy coś, ale chodzi o to, że robimy chmurę.
+Chodziło o to, że po prostu firma jest typowo chmura, my się tam nie chcemy bawić na jakieś stare technologie, wiemy, że to wszystko idzie, zmierza w tym kierunku.
+Microsoft nas mocno zmusza do jednak brania tych chmurowych rozwiązań, więc był prosty temat, prosty przekaz.
+Będziemy przenosić firmy do chmury przy użyciu, czyli serwery lokalne do chmury, do chmury azurowej Microsoftu.
+I wiadomo, dynamiksy per platform, czyli digitalizacja procesów wewnętrznych, przy wykorzystaniu low-code, no-code, przy wykorzystaniu gotowych jakichś SAS-ów.
+Pomysł był taki, że jakieś nasze własne projekty, jakieś ewentualne dofinansowania, coś tam będziemy kręcić.
+No i jakby o co chodziło, znaczy start był taki dość śmieszny, dlatego że ja byłem cały czas na tych projektach, jako tam powiedzmy architekt,
+czy to w HSBC, czy to na Jersey'a dodatkowo, tutaj z boku sobie gdzieś tam jakąś firmę robimy organicznie.
+I wyglądało to tak, że udało się nam jakby wprowadzić jednego konsultanta właśnie do Jersey przez te kontakt relacje,
+który do dzisiaj powiedzmy tam sobie ładnie projekty realizuje, działania taki body lease, w którym pomagamy im, tam jest szersza grupa projektowa,
+no ale my im wdrażamy rozwiązania w Dynamixie, w Customer Studio, no ale też jest dużo powiem per platformowo po prostu tematów.
+Czyli są jakieś zderzenia, są jakieś cele, które musicie tam wdrożyć, mimo wszystko, mimo to, że tutaj jest firma, tam działacie też za granicą.
+Jest tego dużo na pewno na talerzu u Was.
+Tak, tak.
+Pracujecie pewnie długie godziny i wiesz, takie pytanie mi się nasuwa, dokąd zmierzacie z tym, co byście chcieli osiągnąć, wiesz,
+bo to jest też wydaje mi się, że nisza w Polsce i tego jeszcze tak, ja się przynajmniej z tym zaznajomiłem od jakichś powiedzmy dwóch lat,
+słyszałem już coś tam, ale tak dopiero od roku zacząłem intensywnie czytać, obadać temat i dla mnie to jest niesamowite,
+że możesz w bardzo krótkim czasie osiągnąć bardzo dobre rozwiązania na trudne tak naprawdę problemy.
+Zdecydowanie, główny pomysł to raz, że firma, że chciałbym w Polsce stworzyć firmę, która głównie zasilana jest polskim potencjałem intelektualnym,
+który niewątpliwie jest na każdym rogu, to widzimy po prowadzonych teraz rekrutacjach i tak dalej, że odnajdują się naprawdę fajne tematy.
+No i też potem, jak byłeś w Anglii, siedziałeś i widziałeś jak Polacy pracują, jak się odnajdują, jak są techniczni, konkretni, słowni.
+Dokładnie, przez te lata doświadczenia tam właśnie, jak to wyglądało, porównując się do niekoniecznie jakichś konkretnych innych nacji czy coś,
+ale jakby widać, że tak jak się miałem przysłowiowo, ten jedna osoba czy druga, to zawsze gdzieś tam ten Polak był,
+to mówię, no dobra, musimy spróbować to zrobić w Polsce i jakoś bardziej się wylansować.
+My nie musimy być takim nirszorem zachodu, my po prostu mamy te rzeczy sami wdrażać, mamy je od zera robić, lansować i okej, nie jesteśmy ogromną firmą.
+Problemem dla nas jest niewątpliwie to, że ciężko się walczy z dużymi korporacjami, które już są w rynku i wszystko osiągnęły i mają otwarte wszędzie drzwi do wszystkich innych firm i realizują te projekty.
+Wiesz, że jest takich firm w Polsce, które realizują technologię Dynamics Fire Platform?
+W Polsce nie, w Polsce myślę, że właśnie, bo to jest tak jak wspomniałeś, to jest cały czas nisza.
+My w Polsce okazuje się, że największy problem to jest tak naprawdę jednak znalezienie tych osób, które są w tematyce Dynamics Fire Platformowej, bo nie oszukujmy się,
+jest tyle ścieżek, taki student zagubiony, patrząc na mnogość języków, bibliotek, co by chciał robić, device'ów, możesz robić wszystko i nic.
+Dokładnie i wpaść w tą pułapkę próbowania tego, tamtego itd. i potem lata mijają i nic się nie zmienia, nie wspinasz się wyżej.
+No właśnie zaletą Microsoftu, ja to też powtarzam u nas, naszym wszystkim adeptom, że młodym, bo aha, no dobra, cofnijmy się trochę.
+Jeśli chodzi o, no i pojawił się pomysł, no dobra, to róbmy akademię, bo prawda była taka, że mieliśmy, poszukiwaliśmy ludzi juniorów po prostu na Fire Platform.
+Okazało się, że dostaliśmy po prostu taki rozrzut kompetencji, że niekoniecznie IT, jakby po prostu skądkolwiek, ale nikt nie miał.
+Po prostu dostaliśmy naprawdę, a to mówię, to było parę lat, to było pewnie rok, dwa lata temu.
+Dostaliśmy bardzo słabe CV-ki i w tym czasie też stwierdziliśmy, dobra, robimy akademię, spróbujemy przyuczyć.
+To nie jest, Fire Platform to nie jest coś tak złożonego, trochę w naszej ocenie tak się wydawało, że na to potrzeba nie wiadomo ilu lat, żeby podstawowe funkcjonalności implementować.
+No bo low-code, no-code, wiadomo, że możesz iść mocno kodersko i…
+Na dewelopera typowo, tak?
+Możesz, no, ale stwierdziliśmy, dobra, robimy tą akademię, plus, minus sześć tygodni, okazało się osiem w praktyce, ileś tam sprintów, też całą wiedzę na temat Agila, architektury,
+jak na zachodzie to wyglądało, jaka jest różnica pomiędzy naszymi polskimi projektami, w których się tam często szyje i też nie ma tej kasy, co na zachodnich projektach, gdzie oni rzeczywiście pokładają dużo kasy na starcie, na architekturę, na analizę,
+na zrozumienie tego wszystkiego konkretnie dobrze, zanim będziemy już dłubać i robić te rozwiązania, żeby później nie odkręcać tego wszystkiego.
+I jakby tu też już chciałem tą wiedzę na starcie przekazać takim młodym naszym działaczom. No i co, akademia powstała, cel był taki, że najlepsi zostają u nas w ramach organizacji.
+No i tak jak już wcześniej wspomniałem, w tym międzyczasie udało się nam pośrednio stać dostawcą dla HSBC, czyli my też mamy tam swojego kontraktowca.
+Mamy nadzieję mieć więcej. Na Jersey tak samo jesteśmy dostawcą bezpośrednim, akurat i tam realizujemy różne projekty, mamy jeszcze jakieś tam osobne projekty mniejsze, w których wdrażamy jakieś integracje przy wykorzystaniu Power Platform, Azura i tak dalej.
+No i też mamy właśnie osoby na body lisie, po prostu siedzą na kontrakcie, jakby na projekcie. No ale wiadomo, pojawił się problem teraz co z ludźmi, skąd tych ludzi wziąć.
+No i akademia była tym pomysłem, że jeżeli się nauczycie, zrobicie certyfikaty, zrozumiecie tę technologię i rzeczywiście widać będzie, że te funkcjonalności, które realizujemy będą działały i rozumiecie tematykę, no to uda się nam gdzieś Ciebie wrzucić na jeden czy na drugi projekt.
+Z jakim skutkiem? Myślę, że na starcie to jest zawsze trudny proces, żeby wiesz zacząć, rozkręcić.
+No tak, ale rozumiem, że mogą po prostu do akademii się zgłaszać ludzie, którzy mają jakieś pojęcie techniczne, ale niekoniecznie są wyspecjalizowani, szukają właśnie swojej ścieżki.
+Tak jak mówisz, Microsoft oferuje ścieżkę certyfikatów, że możesz iść sobie powoli do celu, robić certyfikat po certyfikacie i piąć się tam gdzieś tam do góry, bo w tym całym świecie IT to się muszę nam rzeczywiście zgubić.
+No i też jesteś Ty specjalista w dziedzinie Microsoftu i tych rozwiązań, także też pomagasz na pewno, tworzycie te lekcje, zadania dajecie i tak dalej.
+Zdecydowanie, mówię tutaj też w mojej ocenie te młode osoby, które wchodzą do nas mogą dosyć fajnie iść na skróty.
+W porównaniu do Ciebie to na pewno.
+No bo wiesz, nie muszę przychodzić do tego, ja wiem mniej więcej jak kierować, na czym się skupić, gdzie tutaj przysiąść, a gdzie niekoniecznie.
+Też mogę dużo tej wiedzy, doświadczenia sprzedać. Dużo firm nie będzie miało, tutaj znowu zabrzmi to może trochę cwaniacko, ale nie będzie miało takiej osoby jak ja.
+Bo nie znam osoby, która po takim wejściu na ten próg stwierdziłaby, że wraca do Polski, bo to jest też ciężki temat.
+A znasz dużo takich ludzi?
+Znam ludzi, którzy siedzieli koło mnie, ze mną, pracowali na podobnym lewelu czy dłużej. Polacy właśnie akurat mówię, bo mówię też o Polakach, którzy gdzieś tam się prężnie rozwijają i siedzą.
+Jacyś ludzie typu MVP i oni siedzą na tych projektach, na kontraktach albo dostali już permapracę dla tych korporacji, firm i tam pracują.
+Więc to nie jest tak, żeby to doświadczenie później znaleźć, złapać, to musiałbym w tych firmach gdzieś tam siedzieć.
+U nas jest inna sytuacja, bo ja stwierdziłem, że mam ten background, ale dobra, otwieramy firmę, bawimy się w coś innego i macie tę osobę tutaj na miejscu.
+Ciężko byłoby też taką osobę na pewno utrzymać w firmie, tak? Mimo, że masz dużą firmę, no to okej.
+Ale teraz utrzymaj takiego gościa, który nie będzie chciał spindoleć do USA albo gdzieś.
+Tak, jest przyzwyczajony też do stawek innych zupełnie i musiał być, wiesz. Czy u Ciebie grało jakąkolwiek rolę patriotyzm w powrocie do Polski?
+Czy kulturalne przywiązanie bardziej?
+Trochę też, na pewno, pod kątem takim, że takim dosyć czynnikiem złożonym był Brexit.
+To był moment, w którym jakby to wszystko takie było...
+Tak pomyślałem, to nie jest, że mnie w jakiś sposób zły traktowali, bo ja się obracałem w takiej, powiedzmy, klasie średniej i wyższej.
+Z włagi na wykonywane obowiązki, gdzie pracowałem, no to tam inteligentni ludzie i tak dalej, raczej otwarci, jakby nie można tego zarzucić.
+Ale jednak cała ta otoczka i to wszystko, wiadomo.
+Inna kultura.
+Zdecydowaliśmy przez to powrót mocno, że nie chcieliśmy naszego syna wychowywać w polskiej kulturze, bo to jest jednak nasza kultura i nie chcieliśmy tam udawać, że jesteśmy kimś innym.
+Nie musisz. Znamy ludzi, którzy tam mieszkają mnóstwo lat i bardzo dobrze się czują.
+Mieliśmy też takie duży znak zapytania, czy nie chcemy jednak, żeby nasz syn umiał perfekcyjnie po angielsku, bo ja już tego się nigdy nie nauczę, żeby mówić płynnie.
+Ale z akcentem.
+Ale z takim perfekcyjnym akcentem, że nie wiem, czy ty jesteś Anglik czy Polak.
+Ja może nie brzmię koniecznie jak Polak, ale brzmię jak obcokrajowiec, więc tego już się nigdy nie porzucę.
+Więc się zastanawialiśmy, czy nie chcemy jednak mu tego dać, żeby miał taką łatwość, że nie musi uczyć się tego, tak jak ja się uczyłem na przykład.
+Ale podjęliśmy decyzję, że jednak nie wiem, jakoś ciągle myśleliśmy, że skoro ten poziom tych polskich specjalistów jest na tyle wysoki, to skądś się to bierze, to nie jest znikąd.
+No okej, oni może też, wiadomo, dużo jest Polaków, którzy gdzieś na Harvardzie, na jakichś tam uczelniach wyższych robią, ale jakby też tej drogi nie zamykamy.
+Jeżeli będzie coś w tą stronę, to śmiało, zdobywaj świat, jeden czy drugi.
+No i tak podjęliśmy decyzję, że budujemy i mówię w oparciu o to, że jednak zastanawiałem się też, czy w Anglii nie otwierać biznesu, bo miałem tam właśnie ciekawe osoby, które też jakieś miały...
+Myślisz, że byłoby Ci łatwiej w Anglii?
+Pewnie pod tym kątem, że jednak doświadczeniem mam więcej lat w tej angielskiej kulturze i jakby umiejętność rozmowy z biznesem bardziej angielskim niż polskim, na pewno byłby łatwiejszy.
+Ta umiejętność już dyplomacji, to rozmawianie takie niebezpośrednie i tak dalej.
+Raczej bycia miłym, a nie, wiesz, tu jest Twoje miejsce i mówisz, Anglik na Ciebie patrzy i mówi, co on taki bezczelny albo niemiły.
+Tam jest wszystko takie bardziej kulturalne, powierzchownie, a potem jak już umiesz w tym lawirować, to ja się tego nauczyłem, więc może byłoby łatwiej.
+Ale z drugiej strony, czy łatwiej byłoby zdobyć zasoby na tyle, tak jak tutaj mamy, mamy dużą bazę studentów, uczelni typowo IT i nie tylko.
+Czy tam byłoby tak samo, konkurencja dużo większa? Ciężko powiedzieć, nie?
+Rozumiem.
+I jak widzisz przyszłość, aktualnie, jak widzisz przyszłość właśnie rozwiązań Microsoftowych w Polsce, tego całego low-code, no-code, bardzo modnego hasła,
+który ostatnio się przewija, power-upsów, dynamics. Myślisz, że jest tutaj dużo miejsca na to, na takie rozwiązania?
+Właśnie, to jest rzeczywiście chwytliwe i tak dalej. Low-code, no-code słyszymy wszędzie.
+Nie programuj, jesteś programistą, coś na takiej zasadzie.
+Dokładnie. Ja myślę, że jak najbardziej, tylko w mojej ocenie my musimy działać wspólnie. Jesteśmy partnerem Microsoftu.
+Byliśmy w Holandii i teraz się przepięliśmy już pod Polskę, żeby być już normalnie pod naszym call center.
+Że byliście partnerem w Holandii?
+Tak, bo nie widzieliśmy, czy będziemy bardziej na zachód targetować, czy jednak w Polskę, tak?
+Jakby pod tym kątem, więc podpięliśmy się, jak zakładałem firmę, to się podpięliśmy pod holenderski dystrybutor, w którym jesteśmy cały czas podpięci,
+ale generalnie kierujemy działania zdecydowanie na polskie, nie wykluczając oczywiście zachodu.
+Mamy to rozdwojenie jaźni nasza firma, że my mamy duże projekty, korporacje typu Chelsea, typu HSBC, gdzie jesteśmy na projektach.
+To są naprawdę duże działania, gdzie możemy się bardzo dużo rzeczy nauczyć. Jest mnóstwo specjalistów, gdzie nigdzie w Polsce nie znajdziesz tyle.
+Nie oszukujmy się, na największym projekcie w HSBC-ku masz najlepszych ludzi z całego świata.
+Niekoniecznie, ale bardzo dobrych i masz też dużą rotację, więc tam naprawdę jesteś w stanie się dużo rzeczy nauczyć, zobaczyć, jak się robi to po tamtej stronie.
+Tak, przede wszystkim też na niuansów na wysokim poziomie, bo to jest taka wiedza bardzo trudno dostępna.
+Tak naprawdę garstka ludzi operuje taką wiedzą i fajnie jest, według mnie, mieć kogoś, kto był tam, widział, zobaczył, posmakował, wrócił i jest w stanie opowiedzieć, jak to jest.
+Dokładnie, dokładnie. Wracając tylko do Twojego pytania, jeśli chodzi o ten low-code, no-code, jest to cały czas wielka, ogromna nisza.
+Moim zdaniem firmy nie będą się decydowały, znaczy duże firmy tak, my chcemy zmienić trochę rynek średni i mały.
+Średnia mała firma, przedsiębiorstwo. Mała w rozumieniu to nie jest, że dwie osoby.
+Dla takiej firmy, jak byśmy mieli tworzyć też oprogramowania i rzeczy i wdrażać, to pewnie nie byłoby tam zwrotu z inwestycji.
+Ale, czyli jak zaczniemy od tych dużych firm, no to w tych dużych firmach w Polsce gdzieś tam Dynamixy, Sharepointy zawsze są.
+Więc to jest naturalna kolej rzeczy, że Microsoft promuje Power Platform, low-code, no-code i tam powiedzmy moduł, nie wiem, czy taki Dynamix, czy inny.
+No to powiedzmy, że to tam będzie się działo i to jest nieuniknione.
+Jeżeli ktoś jest enterprise'owo związany z Microsoftem, no to te rozwiązania będą.
+Ale czy firmy będą się decydowały na low-code, no-code w rozumieniu Power Platform dla takich średnich firm, nie wiem, 30 stanowisk czy 100 stanowisk.
+No to moim zdaniem też dużo zależy od tego, czy te firmy będą miały, po pierwsze zrozumieją o co chodzi, że trzeba zapłacić za licencję.
+U nas jeszcze jest taki cały czas mentalność, że ja chcę raz zapłacić i mieć.
+Tak jest.
+Ja chcę zapłacić 100 tysięcy, ale to jest moje i koniec.
+I zabiorę do grobu.
+Tylko problem polega na tym, że to moje po czterech latach już jest albo niewspieralne i trzeba zapłacić drugie 100, żeby to odnowić.
+Więc jakby nie ma czegoś takiego, że to jest na zawsze.
+U nas oczywiście niestety, albo stety dla nas, jest to moim zdaniem duża perspektywa i możliwość, że właśnie firmy mają przedawnione, niewspieralne rozwiązania typu bazodanowe, serwerowe.
+Coś, co kupili właśnie lat temu i to leży tam gdzieś.
+Jakiś kobolt.
+Ktoś tam ma, w tamtej szafie jest taki serwer i on tam sobie coś robi i działa, bo działa, bo programy na tym chodzą.
+Jakieś stare, księgowe, brzydkie, okienkowe są.
+Wszyscy zadowoleni.
+Wiadomo, że zmiana zawsze coś kosztuje, ale jakby i widzę zdecydowanie ogromny potencjał, tylko kwestia jest tego przekazania wiedzy.
+Dlaczego warto w to inwestować, dlaczego to usprawnia systemy, dlaczego tamten system jest przestarzały.
+Też mówimy, że wiadomo, nie kupujemy rzeczy.
+Tak jak mówisz, płacisz 100 tysięcy i to wiecznie trwa i tak dalej.
+Ale też problem jest taki jak na przykład z Silverlightem, że była technologia i została wycofana i teraz co dalej.
+A ciekawą rzeczą jest właśnie w Microsoftie, że masz giganta za plecami, który jest z tobą i prowadzi cię certyfikatami czy rozwiązaniami właśnie przez drogę
+i rozwiązania, które się sprawdziły też w większych firmach, korporacjach, tak jak mówisz, bankach.
+Część z nich też można na pewno przenieść do średnich firm.
+Niewątpliwą zaletą w ogóle obrania tej ścieżki przez firmy, czyli inwestujmy w Power Platform jest to, że to nie jest rozwiązanie szyte, customowe na miarę.
+W Javie ktoś coś napisał i jeden gościu, Kowalski umie tam się poruszać.
+I wie co zmienić.
+I to jest spaghetti code tak zwany i nikt tego nie dotknie, bo to wybuchnie.
+Tak już kolokwialnie mówiąc.
+Więc jeżeli porównasz sobie Power Platform, w którym musisz w pewnych ramach pracować, standardach supportowalnych, to znajdziesz firmę jak nie w Polsce,
+to znajdziesz wszędzie na świecie, która jest w stanie ci to ulepszyć, zmodyfikować, przenieść i tak dalej.
+Przez to, że to jest rozwiązanie software as a service, czyli nie interesuje cię pod spodem, że tam jakiś serwer jest i on jest super bezpieczny,
+że on jest na dwóch półkulach ziemskich i w razie czego backup idzie z jednej czy z drugiej strony.
+Najwyższe standardy bezpieczeństwa tak samo, co chwilę modyfikowane, zmieniane, ulepszane, żeby podążać za brutalnym światem i rynkiem.
+Za to się płaci.
+Pod spodem siedzą konsultanci, pod spodem oczywiście jest gruby marketing, sprzedaż, który też kosztuje, ale za to trzeba płacić i konsument,
+jeżeli zrozumie to, że taki jest model, a myślę, że to idzie w tę stronę, bo patrząc na wszystkie rozwiązania typu Spotify itd.
+Oczywiście, tak.
+Mieliśmy wszyscy Winampa i to było to, że strzegnąłem sobie MP3 na lewo w skrócie, nikt nie słyszy.
+Nie?
+LimeWire.
+No i co ja, to jest moje, nie?
+No tak, tak.
+A teraz nikt nie ma nic przeciwko, że za Spotify płaci miesięcznie ileś tam, za Netflixa ileś tam, tak?
+Ktoś ci te pliki też poukłada, masz je ładnie opakowane, okładki się wyświetlają, a nie, że jak kupowałeś sobie pierwszego iPoda to tam nic nie było widać,
+tylko jakieś MP3 napisane, z jakiej strony to było pociągnięte itd.
+Także mi się wydaje, że sumą sumaru, jakbyś miał pójść, czy nawet przykład muzyki, kupić sobie tą płytę, tamtą itd.
+i słuchać tyle muzyki, ile rzeczywiście słuchasz, to byś wydał dużo więcej pieniędzy.
+I mi się wydaje, że też ten model się na tym opiera, że tak naprawdę pay as you go.
+Ile potrzebujesz, za tyle płacisz, prawda?
+Tak, no i są różne opcje oczywiście licencji itd., wiadomo, że trzeba się liczyć z kosztem dla naszej firmy, jeżeli coś wdrożamy,
+no to wiadomo, że to utrzymanie będzie kosztowało, ale wszędzie wszystkich to koniec końców będzie gdzieś tam kosztowało kogoś, tak?
+No chyba, że ktoś idzie na skróty, tak jak mówimy i jakiś ma lewe tematy, no ale my raczej myślimy, że to idzie w stronę taką,
+że każdy wie, że za dany produkt trzeba zapłacić, tak?
+I wiadomo, że ta większa część tak czy siak trafia do Microsoftu, tylko że my robiliśmy od zera aplikacje i wiemy,
+ile kosztuje utrzymanie, ile kosztuje stworzenie layoutu, utrzymanie go itd., wspieranie, rozwijanie.
+Tutaj mamy to z pudełka, tu mamy relisy dwa razy w roku przynajmniej, w którym mamy nowe funkcjonalności,
+oni weryfikują rynek, dostają feedback z wszystkich firm na świecie, tak?
+Więc konsolidują to, porównują i proponują zmiany i co chwilę coś nowego się pojawia, jakieś wtyczki, integracje natywnie.
+No jest to ogromna, to widać, my przez to, że mamy to doświadczenie i współpracujemy z tymi wielkimi firmami, to widać, co się tam dzieje.
+Wszystkie te customowe rozwiązania, gdzie były napisane przez firmę Krzak w czymś, zakupy kasy i utrzymywane jest zakupy kasy.
+Warto to powiedzieć, że zatrudnienie senior developera, który już mniej więcej ogarnia temat, to niesamowite pieniądze.
+Jak sobie ktoś przeliczy to na subskrypcję, którą ma płacić i ewentualnie firmę, która mu będzie po prostu w krótkim czasie,
+przez krótką ilość godzin dostosowywać to rozwiązanie, to jest dużo bardziej efektywne rozwiązanie finansowo.
+Zdecydowanie. Myślę, że są konkretne raporty, podsumowania i tak dalej.
+Można było to sprawdzić na liczbach, ale na pewno. No i jest to, mówię, jest to prosta, skupiamy się na biznesie,
+skupiamy się na problemie biznesowym i go adresujemy, a nie czy coś ma być zrobione w jednej funkcji czy w dwóch funkcjach,
+czy coś ma być w takiej czy innej technologii. Mamy szereg building blocksów, komponentów.
+Oczywiście tam też trzeba się zastanawiać, bo inaczej ja bym był bezrobotny jako architekt.
+Jest tam mnogość, podejść do jednego rozwiązania jest naprawdę dużo, co daje niewątpliwe możliwości, ale też pułapki.
+Też trzeba być ostrożnym co do podejmowania decyzji na wczesnym etapie tego implementacji i tak dalej.
+Tutaj odpowiedzią na to jest nasz produkt, który powstał, w sensie odpowiedzią, bo pytasz czy to się może przyjąć i tak dalej.
+Udowodniliśmy u kilku spółek w Polsce, że udało się po pierwsze nam sprzedać tę power platform, w rozumieniu power platform, że na niej coś zrobimy.
+Udało się nam przenieść system, który jest napisany, konkurencyjny system, który jest napisany majesquelu, dziwne tematy, bo mieliśmy przyjemność.
+Napisany lat temu, to jest też ta różnica. No i wiadomo, utrzymane na tej zasadzie, że jakiś tam chłopak z tej firmy zna ten produkt i tylko do niego można iść.
+Nikt inny nie jest w stanie ci pomóc, gdy masz jakieś konkretne pytania.
+Udało się nam to przenieść, z tego stworzyć produkt Ingresso, który jest właśnie takim produktem, ja to nazywam trochę CRM, trochę ERP, trochę udający Dynamicsa,
+ale tania wersja, biedna wersja. Biedna w skrócie w takim, że nie trzeba płacić tyle za licencję, bo te licencje są dużo tańsze, bo to jest przy wykorzystaniu power apps.
+I raczej dla średniego przedsiębiorcy, który jest w stanie tę pieniądze położyć, niekoniecznie chce kupować dużego ERP drugiego, bo nie ma takich potrzeb.
+My oczywiście nie jesteśmy w stanie tyle tych funkcjonalności zrobić, co będzie gotowe w Dynamicsie, np. biznes central.
+Jesteśmy w stanie, ale wiadomo, że Microsoft nie śpi, Microsoft rozbudowuje, więc tam siedzi mnóstwo ludzi, którzy rozbudowują, więc jakbyśmy mieli ten wyścig wygrać, to musielibyśmy…
+Powodzenia.
+A też trochę to byłoby bez sensu, więc mamy do rozwiązania taki powiedzmy obiekt, tam jest dokumentów, jest czyste problemy biznesowe, które były tam podane na tacy, przełożone na rozwiązanie, które praktycznie w każdym przedsiębiorstwie są.
+Czyli powiedz może pokrótce, czym jest ta aplikacja, jak działa?
+Jest to, tak jak mówiłem, mini CRM, czyli przede wszystkim masz tam swoich kontrahentów, firmy itd., dookoła tego się kręci, masz swoje kontakty, z którymi robisz interesy.
+Biznesy, tak.
+Firma produkcyjna, przykład, jedna z naszych firm, czy hotel, który ma klientów, kontrahentów.
+Pierwsza rzecz, taka funkcjonalność to jest, po pierwsze to jest akceptacja faktur kosztowych.
+Wpadają faktury kosztowe na 100 tysięcy, chcemy zakupić sprzęt XYZ i to przechodzi przez jakiś proces konfigurowalny.
+Dodatkowo jest komponent AI-owy, który czyta, zamiast wpisywać ręcznie te faktury, to on sobie czyta taki OCR, ale bardziej skomplikowany,
+lepiej działający model, który się uczy i który te pola z faktury zapisuje do systemu, dzięki czemu później możemy mieć raporty,
+ile kosztów, ile wydatków było, to się później integruje też z systemem finansowym pod spodem.
+Czyli panie po prostu zamiast księgować wpisywać wszystko ręcznie, tam z księgowości skanują sobie, czy tam robią zdjęcie, czy wysyłają maila, tak?
+Różne sposoby.
+I potem pan prezio sobie popatrzy, co się tam dzieje, jakie ma wykresiki, jak to wszystko działa i może spać ze spokojną głową.
+W skrócie tak, jest ta akceptacja, czyli nie trzeba tych faktur podpisać, bo u nas jeszcze była taka formalność, że jak ktoś generuje ci koszt w firmie, to prezes odpowiada za koszt docelowo.
+Jeżeli jest powiedzmy tylko prezes, no to musisz to klepnąć gdzieś tam, musi być ten podpis na fakturę.
+To jest jakby z adresowaniem tego problemu, że nie trzeba drukować i tak dalej. Czyli faktura digitalizowana przychodzi ci już od razu na skrzynkę pocztową,
+która jest zintegrowana z naszym Power Platform poprzez Exchange'a i tam wpada silnik, to zasysa, odpowiednio przypisuje w zależności od jaka to jest spółka,
+znajduje spółkę, znajduje firmę i później oczywiście dalej tak są systemy, na przykład jakieś finansowe i to się powiedzmy w naszym przypadku integruje z systemem finansowym,
+później już takie bardziej księgowo-finansowe.
+Z fazami danych po prostu.
+Pod spodem, dokładnie. Mamy tam różne integracje dodatkowe typu z NBP, żeby waluty przeliczać na daną datę.
+Z aktualnym kursem, tak żeby nikt nie musiał tego sprawdzać, liczyć i tak dalej.
+Z GUS-em, czyli możemy wiadomo sobie zaciągać białą listę, że możemy sprawdzić czy dany kontrahent jest legitny, jego konto jest okej, na które chcemy przelać pieniądze.
+Że to nie jest żaden oszust, nas nie zrobi wiajotek.
+Mamy pełen oczywiście audyt, dzięki wykorzystaniu platformowym, to autoboksowo sobie włączamy audyt, widzimy kto kiedy co zmieniał.
+Oczywiście mamy osobne moduły typu korespondencja, jakiś taki elektroniczny sekretariat, czyli listy księgujemy jakby powiedzmy w ramach systemu i one sobie wpadają do nas też,
+czy to z drukarki, czy to po wysłaniu na przykład.
+Ciekawe jest to, że z perspektywy przedsiębiorcy, który zarządza takim biznesem, bardzo ciekawe to jest, że on może sobie po prostu,
+jak jest dobrze zrobiona integracja, że on może po prostu część firmy korzystać z maila.
+Po prostu otwierać maila, akceptować, czytać, że nie musi mieć setki aplikacji albo rozwiązań, tu przechodzi z Excela do Worda i tak dalej,
+tylko wszystko ma w jednym miejscu i może się skupić na wizji firmy albo na pozyskaniu nowego klienta i oszczędza mu to mnóstwo czasu.
+I wydaje mi się, że część przedsiębiorców w Polsce już to powoli rozumie, aczkolwiek muszą dojrzeć do tego, że to kosztuje też i za to trzeba zapłacić.
+To wymaga ich czasu, też oczywiście staracie się ich odciążać w pewnym sensie, ale też muszą w jakiś sposób konsultować z Wami,
+czym jest ten biznes, co oni by chcieli. Też macie oczywiście jakieś gotowe rozwiązania, ale nie wszystko jest out of the box, tak jak mówisz, nie?
+Tak, my korzystamy oczywiście jak najbardziej z takich natywnych udziałów, na przykład przy tym korespondencji,
+no to może przyjść list do firmy, ale może przyjść w załączniku w mailu.
+No i na przykład tutaj wykorzystujemy po prostu out of the boxowo integrację z Outlookiem, sobie wrzucasz, robisz w Outlooku, wrzuci do mojego systemu,
+wrzucasz do systemu, podbinasz to pod jakieś tam firmę czy w zależności od tego, czego list dotyczy i to wszystko się fajnie wrzuca do systemu.
+Oczywiście mamy tam security model zaimplementowany, że widzisz tylko rzeczy ze swojej spółki, nie widzisz z innej.
+Dodatkowo jakieś rzeczy są bardziej wrażliwe, no to w ogóle ich nie widzisz.
+Menedżerowie widzą więcej, prezesi i tak dalej.
+A że miałeś z tym duże doświadczenie w KSWC to…
+Trochę, tak. To było bardzo proste na kolanie, szybko można było zaprojektować, zdecydowanie, ale…
+Taka jest różnica między tymi systemami?
+Tak, to jest przepaść. Biorąc pod uwagę ile tam ludzi nad tym siedziało, jak każde państwo, tutaj mamy jakieś tam parę spółek,
+mamy moduł wielu spółkowości, że jeżeli jesteś przedsiębiorcą, który ma kilka spółek, to je możesz trzymać w jednym systemie.
+Nie musisz mieć osobne systemy, tylko widzisz i wtedy masz widok na przykład całego podsumowania swojego holding.
+Czyli masz na przykład cztery spółki, jesteś prezesem i możesz obsługiwać swoją firmę z maila, teoretycznie, czy praktycznie też.
+Z maila to bardziej, mówię raz, że to jest mail, ale nie zapominajmy o Dynamixie, o apce, że to jest mobilna apka.
+Oczywiście mail jak najbardziej, śmiało wchodź jak potrzebujesz, ale chodzi nam o to, żeby jednak wchodzić do apki ingreso,
+która jest jakby nakładką na platformę. Mamy apkę, wchodzę sobie w nią i widzę wszystko.
+Widzę raporty, widzę moje umowy, urlopy, wnioski, widzę korespondencję, czyli z klientami, co się działo, ktoś mi coś wysłał,
+jakaś sprawa sądowa, cokolwiek, umowy podpięte.
+Skupiamy się tu oczywiście, wyszliśmy od tego modułu bardziej kosztowo, integracją z finansowymi systemami, czyli kosztowo faktury,
+ale teraz idziemy trochę bardziej w stronę, no dobra, przedsiębiorstwo, to potrzebujecie listy, macie, nie trzymajcie ich w szufladach,
+bo weź je teraz odnajdź. U nas wchodzisz z góry, searcha, pyk, pisze jaki kontent był, AI czy w ogóle ten moduł też ma AI podpiętego,
+że on robi nam podsumowanie krótkie z listu, czyli bierze te flaki z listu i je wrzuca w takim edytowanym tekście,
+że dzięki temu możemy to wyszukiwać.
+Aż jak każdy z nas dostał list z urzędu, to wie, o czym mowa.
+Wiesz co, dałbyś radę mi polać, bo ja mogę, chociaż masz ten sam problem teoretycznie, ale...
+Damy radę.
+Dziękuję.
+No właśnie chciałem powiedzieć, że każdy z nas dostał jakiś list z urzędu i wie czasami, jak to jest wyczytać z tego jakikolwiek sens.
+Dokładnie. No i wracając do tych listów, też często trafię do szuflady, nie wiemy, czy musimy jakąś akcję z nim wykonać,
+więc tam są podpowiadacze, kiedy na przykład ma termin do ukończenia go, że masz dwa tygodnie,
+due date na zrobienie coś z nim, w skrócie. Możesz sobie napisać opis, dodać notatki i tak dalej, że musimy wysłać odpowiedź,
+czyli jakieś prawne rzeczy, gdzie ważne są, czyli takie moduły, powiedzmy, uropy, wnioski.
+Mamy swoją firmę, w której też już zaczynamy mieć coraz więcej tych ludzi i coraz ciężej je zapanować.
+Na początku się wydawało, co on nie robi, wszystko jest w mojej głowie i wiemy, kto ile potrzebuje.
+Za chwilę się okazuje, że nie, musimy mieć gdzieś to przechowywane.
+Ktoś idzie na urlop, chce iść na urlop, dobra, ale czy jest jakaś inna osoba, która już na tym urlopie nie jest, która będzie kolidować.
+To jest taki chief operacyjny trochę dla firmy w postaci apki.
+Dokładnie, to jest tak jakby spojrzenie trochę z perspektywy raz własnego przedsiębiorstwa, z drugiej strony słuchanie potrzeb klientów i wdrażanie tych modułów.
+Będziemy za chwilę przechodzić na marketplace'a właśnie z nim, bo z ingreso na marketplace'a Microsoftowego w takim modelu transakcyjnym.
+Mam nadzieję, że będzie można sobie jako firma kupić i ewentualnie od nas dodatkowo wziąć jakieś godziny wsparcia.
+Będziemy mogli też oczywiście rozszerzać.
+Też nie wiemy do końca, jak to się sprawdzi, czy to jest produkt ten, ale jakby on też pokazuje możliwości Power Platform w skrócie.
+Że my byliśmy w stanie przez jakiś tam czas, oczywiście dłubaliśmy to, nie ukrywam i tych osób trochę tam było zaangażowanych w projekt.
+Trzeba było też często podejmować niełatwe decyzje, czy idziemy w tę stronę, czy w tamtą.
+Jeżeli chodzi nawet architektonicznie, mimo że to się wydaje, że to jest małe rozwiązanie, ale jednak zawsze te problemy się pojawiają.
+Nie wiemy, czy to się sprawdzi, czy to będzie to i super jesteśmy, nie oszukiwałbym się, że jesteśmy super przekonani, że to musi lecieć wszędzie.
+Ale jakby to też pokazuje, że jest to rozwiązanie, jutro możemy zrobić inne rozwiązanie.
+Tylko czy Ty chcesz, żebyśmy robili dla Ciebie inne zupełnie rozwiązanie i później będziemy musieli osobno Cię wspierać,
+czy jednak wolisz iść w ten produkt, który szerzej zbieramy wiedzę z rynku i wiemy, jakie są szersze potrzeby i się dostosowujesz do produktu.
+My możemy zrobić jakiś dodatkowy moduł, jeżeli uznamy go za słuszny i stosowny dla szerszego odbiorcy,
+ale nie będziemy się bawić w takie szycie, że szyjemy tu, szyjemy tam, wszystko na miarę.
+Tak, tym bardziej, że większość biznesów, mechanizm działania ma bardzo podobny, przynajmniej strukturalnie,
+ale jak rozumiem są pewne możliwości customizacji tej aplikacji, że każdy może to jednak trochę tam podszyć pod siebie i nie potrzebuje do tego ekipy deweloperów.
+Zdecydowanie jest to możliwe. Co ważne, znowu Microsoft i podejście do wdrażania zmian i prowadzenia tych pipeline'ów,
+że jest ten cały application lifecycle management, który pozwala Ci na tworzenie solucji i masz podstawową solucję, a możesz mieć solucję plus.
+Dlatego klienta na przykład możemy zaproponować, dobra, Wy macie na tyle różne potrzeby od produktu, że produkt mamy,
+ale dodatkowo macie tam jeszcze coś innego, z którego nikt inny z tego nie będzie korzystał, ale że mamy platformę szeroko adoptowalną i rozszerzalną,
+no to jedziemy i są też te możliwości, więc tu widzimy dużą szansę, możliwość i potencjał i też szybkość.
+My jednak tego czasu musieliśmy poświęcić, żeby to stworzyć, więc jakby poszczególne firmy by potrzebowały podobnych wymagań, no to jednak to jest koszt na start.
+Jak już mamy ten produkt, on jest zrobiony, on jest testowany na taką skalę, że jakby wiemy jak wyglądają wdrażania, że te testy różnie.
+Wagi.
+Dokładnie, później 6 miesięcy. U nas też było 6 miesięcy jakby stabilizacji takiej ciągłej, że co chwilę coś wpadało, co chwilę jeszcze się pojawiają pewne niuanse,
+zawsze będą się powtarzały, no bo robimy jakieś modyfikacje, no ale jest to jednak bardziej stabilny produkt niż takie rozwiązanie typowo wyszyte, stworzone na miarę.
+Powiedz mi jeszcze trochę o tym, dlaczego Microsoft, bo ja to zawsze byłem zwolennikiem, wiesz.
+Gorszych rozwiązań.
+Gorszych rozwiązań.
+Apple'a i tak dalej, bardzo mi się podobał ich właśnie UI design i też zawsze zajmowałem się w dużej mierze i wideo i grafiką i zawsze uderzały do mnie bardziej ich produkty, a ty byłeś zawsze człowiek Microsoft.
+Ja nie byłem nigdy taki cool, więc wiesz, wybrałem po prostu tą brudną stronę Windows 9.5, DOS.
+Dokładnie.
+Serio, całkiem serio, to na pewno trochę w przypadku, no bo jednak każdy jest, tak jak wiesz, zagubiony w technologii.
+Ja może dlatego, że miałem do czynienia trochę z tym biznesem tak jakby od zera, w sensie jak przed studiami, wiesz, tak jak ci wspominałem u mojego taty, który był przedsiębiorcą,
+wiesz, już tam coś robiłem, wiedziałem, co to jest biznes i wiedziałem, używaliśmy Ofisa, a nie coś, mieliśmy Windowsa, mieliśmy serwer tam.
+I jakby naturalnie to było to, tak? No wiadomo, że można pomyśleć, no dobra, Google Cloud Service, jakby lećmy w co innego, zobaczmy.
+No w tym czasie w sumie Google się mocno rozwinęło, prawda, na tym rynku, jak stworzyli swoją chmurę.
+Bardzo mocno, Amazon tak samo jakby jest silny, ale przez to, że ja cały czas w tych takich technologiach, też przez to, że trafiłem do firmy Gold Partner Microsoftu na samym starcie
+i tam zacząłem w tych aplikacjach back office'owych działać, przez to, że nie wiem, w ASP.NET robiliśmy jakieś tam rzeczy, przez to, że to wszystko stało na serwerach Microsoftowych,
+aktualne maszyny i tak dalej. Naturalnie, przez to, że się sam zajarałem i sprzedawałem Windows Phone'a wszystkim w rodzinie, w zasadzie co za gościu, przecież to jest gniot.
+No ale umiem zrobić tam apkę, więc wiesz, więc jedziemy z tym. Więc na pewno jakiś taki pewnie przypadek, ale też jakby to podejście, że jednak ja traktuję
+Apple'a czy tam, wiesz, te rzeczy właśnie typowo bardziej takie digital kontent, nie wiem jak to nazwać, graficzne bardziej, bardziej cool.
+Microsoft jest bardziej enterprise i mamy wirtualną maszynę i koniec. Pewnie dlatego, ale jakby na przestrzeni lat to się mocno zmieniło, bo oni już nie są tacy, wiesz, koporni, drewniani.
+Od czasu, na przykład mnie to uderzyło po Windowsie 10, zauważyłem, że zaczęli bardzo dużo rzeczy kopiować z macOSa i dodawać.
+Właśnie też Windows 11, niesamowity system, bardzo mi się podoba, bardzo dużo rozwiązań wprowadzili, których po prostu wcześniej tam brakowało.
+Nie wiem, czy to jest związane z odejściem Biliego na drugi plan, czy możliwe, ale też nigdy nie siedziałem tak głęboko w tej technologii, żeby ocenić, czy tam się rzeczywiście dużo zmieniło właśnie w kwestii dynamiksa biznesowej i może właśnie powiedziałbyś coś na ten temat.
+Tutaj zdecydowana jest zmiana. Widać ten manewr ruchu, ale to każda z konkurencji też idzie w stronę chmurową.
+To wszystko w tę stronę zmierza. Jest dużo większy nacisk i nakład na user interface. Nie jest to wszystko takie brzydkie i toporne jak w Outlooku 10 lat temu, że to musiało być brzydkie.
+Te okienka Windowsowe musiały być brzydkie, bo nie mogły być ładne, nie mogły być zaokrąglone albo musiały być takie brutalne.
+Serowe.
+Dokładnie, więc widać, że jest składany inny nacisk. Też pewnie świadomość usera jest inna. Każdy wie, że konkurencja ma tak przecież, to czemu to jest takie brzydkie, to nie możesz być takie brzydkie.
+Więc tak to wygląda, myślę. Spójrzmy teraz z inwestycji typu OpenAI, co zrobił Microsoft i gdzie jest, jak uderzył.
+Pięknie to zrobili, naprawdę. I to jak wprowadzają teraz co-pilota, mają wprowadzić niedługo do Excela, Worda, Ofisa całego.
+Dlatego znowu, patrząc na to, gdzie ten low-code, gdzie ten platform się znajdzie. Pomyślimy, że szerzej dookoła tego platformu mamy M365, mamy Microsoft Suite, w którym mamy te wszystkie Excele, Outlooki, Teamsy.
+Teamsy też super.
+Nasz produkt Ingresso działa na Teamsach. Mamy wtyczkę, mamy apkę normalnie, że tylko po prostu się instaluje i nie trzeba wychodzić z Teamsów i jesteś w Ingresso.
+Jakby to jest tak wszystko kompatybilne razem ze sobą, w tym całym bakowisowym ekosystemie, dołączając teraz do tego OpenAI.
+OpenAI jest tak, że w Azure mamy go, więc możemy sobie tworzyć swój AI-owy ekosystem, możemy korzystać ze swoich danych.
+Oni bardzo duży nacisk kładą, w mojej ocenie, porównując konkurencję do tego, gdzie te dane są, w jaki sposób one są przechowywane i dają pełną dokumentację, że ty wiesz co się z tymi danymi dzieje.
+Czyli ty wiesz, że one nie opuszczają twojego tenanta, że one są w tych barierach, że możesz go zablokować, że tylko ty to widzisz.
+Możesz to zrobić szyfrowane na zasadzie swoimi kluczami i nikt tego nie dotyka, nie może tego dotknąć.
+Nie wiem też do końca, nie mam czasu na to, żeby poszerzać wiedzę pod kątem Google Cloud czy Amazon.
+Mi się wydaje, że ktokolwiek się zetknął z AWS wie ile tam jest skomplikowanych różnych małych aplikacji, każda jest do czegoś innego i to mi się podoba.
+Jak ostatnio miałem styczność z całym Power Platform, że bazy danych są według mnie dużo bardziej czytelne i dużo łatwiejsze w obsłudze w porównaniu do konkurencji.
+Mamy tabelki, klikamy tabelki, pod spodem co tam jest, jak to jest przełożone na SQL czy na Blobstory czy na cokolwiek innego nas nie obchodzi.
+Te dane po prostu sobie trzeba mieć też wiedzę i jak mówimy o małym rozwiązaniu, to możemy sobie to po prostu wyklikać i mamy i spełnia wymagania.
+Oczywiście my celujemy jednak bardziej takie rozwiązania nie super wielkie, ale jednak wielkie robimy dla wielkich, ale wiadomo, że nie będziemy jakiegoś super wielkiego rozwiązania robić dla średniej firmy w Polsce, bo to się nie da, nikt ci za to nie zapłaci.
+Powiedz może jeszcze, bo mnie to mega ciekawi, co z tym copilotem, jaka jest przyszłość, czy niektóre zawody teraz zostaną zastąpione w najbliższym czasie, bo to jest jednak przerażające.
+Wpisujesz prompta, nie wiem mam 3-4 zdania, czy jak już umiesz bardziej wyspecjalizować, wyspecyfikować swojego prompta, to jeszcze masz lepsze osiągi często.
+I teraz czy niektórzy ludzie stracą robotę, czy po prostu będą 10 razy bardziej wydajni dzięki temu?
+Spójrzmy na to z naszej perspektywy, gdzie my siedzimy, czyli idealnie jesteśmy w Power Platform, jesteśmy w ofisie, w skrócie w Microsoft 365, w którym dostajemy copilota, czyli jakby w punkt.
+Którzy nie wiedzą, to ma działać tak, że po prostu wpisujesz sobie prompta, zrób mi tabelę taką i taką, zrób mi wykres taki i taki i wszystko się dzieje w przeciągu 15 sekund, masz gotowe tabele na bazie jakiegoś pliku.
+Pewne zawody na pewno naturalnie będą wygasane, bo nie oszukujmy się, jeżeli ktoś coś powielał wielokrotnie, co za nas zrobi automat i to zrobi 10 razy szybciej i 10 razy bardziej kreatywnie i zróżnicowanie, to kto będzie chciał dalej utrzymywać takie stanowisko?
+To po prostu będzie trzeba na pewno, te pewne stanowiska pójdą trochę, ewoluują w mojej ocenie, no bo czy marketingowiec, czy programista będzie operatorem.
+Juniora, po prostu ma przy sobie juniora.
+Kilkaset juniorów i jeszcze doświadczonego gościa, który jest w stanie wyciągnąć jakieś takie dane ciekawe, mogę się go zapytać o coś i tak dalej, mogę z nim prowadzić debatę.
+Myślę, że to da jakby w naszej platformie, w naszym powiedzmy tutaj podwórku, to przyspieszy znacznie, już przyspiesza, bo to nie jest, że my mówimy o przyszłości, tylko rzeczywiście to już działa.
+Możesz, już są wtyczki do Power Automata, masz na czat GPT wtyczkę i pyk i do widzenia flow, gotowy.
+Sam jeszcze nie wrzucałem bardziej tak, wiesz, na zasadzie, ja sam też nie tworzę tych flowów, więc nie muszę robić, ale sprowadza się to do tego, że rzeczywiście mówisz, słuchaj napisz mi flow, który będzie, nie wiem, zamieniał tabelę taką, czy taką, czy nie wiem, wrzucał dane, wyrzucał i on ci po prostu napisze ten kawałek
+deklaratywnego, wiesz, flowa i sobie go testujesz, zobaczysz, z dużym prawdopodobieństwem coś nie będzie działało, bo wiemy jak to działa, to nie jest tak, że wiesz, że to jest idealne albo coś, ale to ci daje dużo szybciej jakieś prompty, odpowiedzi, w którą stronę iść ewentualnie, żeby, wiesz, skracać strasznie czas.
+Duży ryzyko jest pewnie dla juniorów, że nie będą ci potrzebni juniorzy, bo po co, jak mam przecież AI, to jest mój junior, mogę go tak traktować, bo mogę go traktować dwojako, ale jeżeli będę go traktował, że słuchaj, zrób mi to, to to, to ci zrobi.
+My już w Power Platform wiemy, jak to ma działać. Ma to działać tak, że mówisz dokładnie mu, słuchaj, chcę system Customer Service, który będzie miał pięć tabel, nawet nie musisz mówić tabel, tylko mówisz mu business case'a i on ci to zrobi. Jeżeli masz już wiedzę i wiesz, czego oczekujesz, to zamiast to ręcznie klikać, to on mi to zrobił. Ja tylko mówię mu, zmień mi kolumnetą na tą, dorzuć mi sample data, wrzuca ci.
+Na to potrzebne były dni. Ja teraz to robię przy wrzuceniu promta i on mi zwraca już w solucji temat.
+Co mi się bardzo podoba właśnie, że więcej jest w tym wszystkim myślenia, takiego właśnie powolnego myślenia i planowania wszystkiego, niż szukania i takiej bezmyślnej roboty. I właśnie mam tutaj taki cytat a propos tego. To jest cytat Abrahama Lincolna, który mówi
+Give me six hours to chop down a tree and I will spend the first four sharpening the axe. I jestem ciekaw właśnie jak ty się do tego odnosisz jako programista, jako deweloper i architekt.
+Tak naprawdę najważniejsze jest to, żebyś zrozumiał ten problem, przemyślał jak to ma być zrobione, w którą stronę, jak wygląda dalsza faza tego rozwiązania, czy na pewno zanim już usiądziesz i zaczniesz robić, to po prostu musisz przemyśleć to, przeanalizować.
+W kontekście A.I. tak samo, szybko możesz wszystko mieć, a co z tego, że masz 100 rozwiązań, musisz się zastanowić, dlaczego to wyszło tak, a nie inaczej. Możesz to też tune'ować.
+No tak, bo A.I. ci wypluje 100 stron gotowych odpowiedzi i nagle sobie uzmysławiasz, że po prostu żyjemy w nawale informacji, czy to w telefonach, w mediach, w telewizji i tak dalej, czy nawet gotowych rozwiązań, czy też frameworków. Można robić wszystko na każdy sposób. Rozwiązań jest mnóstwo i właśnie problem jest w tym, żeby wybrać to właściwe.
+I dla Ciebie właściwym jest Microsoft, Nooblado?
+No zdecydowanie, zdecydowanie. Rozwiązań właściwych jest sporo. Ja uważam, że na rozwiązanie tego samego problemu i tak będzie zawsze wiele narzędzi i pewnie wiele jest właściwych.
+To nie jest tak, że my się nie oszukujemy. Ja doświadczenia wiem, w HSBC miało wszystkie możliwe platformy tylko po to, żeby po pierwsze zdywersyfikować, po drugie mieć pewnie lepsze oferty, po trzecie mieć różny stack i wybór i dostosowanie i możliwości, wachlarz szeroki, nie tylko skupiasz się na jednym i tym.
+To może to jest wielka organizacja. W normalnym świecie chcesz mieć rozwiązanie gotowe, które będzie stabilne, które możesz rozszerzać, w którym masz pewność, że jak firma wygaśnie, Nooblado czy inna, to ja dalej mam produkt i ja wiem co z nim robić.
+Ale że co, że możesz zadzwonić do Microsofta i powiedzieć, no słuchajcie mam tu taki problem, była tu firma, która mi zamontowała rozwiązanie i teraz szukam po prostu nowej firmy i oni kogoś polecą?
+To jest w ramach partnerstwa, oni mają szereg dystrybutorów, partnerów, tak jak my jesteśmy Cloud Service Provider, to takich firm jest oczywiście ileś na świecie i dystrybutorów jest na świecie.
+Więc jeżeli kierujesz nawet zapytanie do Microsofta bezpośrednio, mówiąc, że masz Dynamicsa powiedzmy, a firma się odwróciła do Ciebie tyłem i powiedziała, że sorry, ale ja Cię już nie wspieram, bo nie układa się tam, no to prosty temat, dzwonimy, wysyłamy etykietę, wysyłają wachlarz, zresztą sami mogą sobie znaleźć te firmy, lokalnie czy bardziej globalnie, które się tym zajmują, w jakich specjalizacjach się zajmują i dostają firmy, podpływamy rozmowy,
+czy ta firma trafia do naszych serc czy nie i jedziemy z tym.
+To się nauczyłem w takim HSBC, jak oni działają, że duży gracz, który wie, że on musi mieć plan A, plan B, jak ten nie wypali, to jeszcze mam C, musi mieć możliwość tej negocjacji i tak dalej.
+Dla firm jest też ważne, że wiedzą, że produkty, które mają, one będą wspieralne, utrzymywalne i będą mogli znaleźć osoby, patrząc na firmę, no okej, my możemy istnieć jak najdłużej, ale też chodzi o to, żeby konsultanci chcieli przychodzić do tej branży.
+Całe dziedziny. Dziedziny niszowe i tak dalej. Widać, że rozwija się to, że wchodzi teraz AI, który jest wiadomo lotny i wszyscy o nim mówią i tak dalej, a on jest u nas, on od nas, jakby od Microsoftu wychodzi w skrócie, no to wiesz, że jesteś w dobrym miejscu, to raczej nie stawiasz sobie pytania, czy to było niszowe, ale czy ten, no nie, bo za chwilę będziesz rzeczywiście miał możliwości, oni idą w tą stronę, żeby najlepiej biznes mógł realizować, dlatego o to chodzi, że możesz mieć ludzi.
+Sami dla siebie w sensie, tak?
+No, sami dla siebie, taki self-maintenance, wiesz, wiadomo, że mogą sobie w ramach tej platformy, chociaż mówię, to pewnie długa droga w mojej ocenie, bo samo...
+Dużo niuansów, bo może to wyglądać na początku, że to jest proste i łatwe i tak dalej, później dochodzą różne konkretne przypadki i się sobie człowiek uświadamia tak naprawdę ile nie wie.
+I też dokładnie, wiesz, to też chodzi znowu o kasę, jeżeli ty masz te narzędzia, a ty się w tym dobrze poruszasz, no to zapłacisz, bo to jest taniej, koniec końców i tak, niż samemu byś te kompetencje budował.
+No tak.
+My mamy, wiesz, ludzi dzisiaj ileś, jutro mamy jeszcze więcej, mamy różnych i nie zastąpisz tego w firmie jakiejś jednej, wiesz, zachęć kogoś, żeby przyjdzie na jakieś małe rozwiązanie, gdzie nie ma takiego rozwoju.
+Nie ma, wiesz, my się zajmujemy, wiadomo, nie tylko Power Platform, nie tylko Dynamixem, ale też Azure'owo, też robimy jakieś tam rozwiązania API-owe, integracyjne,
+czyli wiesz, jeżeli ktoś naprawdę jest uparty i chce być coderem i siedzieć przy linijkach kodu, why not, wchodzisz i działasz, ale znowu możemy przerzucać,
+a mówię, jeżeli byłoby to w przypadku firmy, gdzie wiesz, ma lokalnie, u siebie wewnętrznie, no to ta osoba w końcu będzie już znudzona.
+To czas najwyższy, czas najwyższy już przejść na chmurę, na nowe rozwiązania, bo potem są inne firmy, które działają dużo wydajniej, często dzięki takim rozwiązaniom, no i też koszta.
+Moim zdaniem koszta są dosyć stosunkowo niskie, jak jest dobrze skonfigurowany program, platforma, no to efektywność właśnie dzięki użyciu teraz, już dzisiaj AI, zysk jest niesamowity z tego, czasowy przynajmniej, bo kto ci…
+Czy się przekłada na…
+Tak, na finanse, oczywiście, że tak. Jeszcze takie pytanko, powiedz mi, czy jesteś otwarty na jakieś współpracy z innymi firmami, czy się hermetycznie zamykacie?
+Nie, zdecydowanie nie. Jesteśmy w jakim jesteśmy punkcie, jeśli chodzi o znowu platform Dynamics Azure. Konkurencja jest ogromna, jeśli chodzi o inne produkty. Konkurencję w rozumieniu Numblado nie traktuje innego partnera, czy innego dystrybutora, który robi nasze rozwiązania, tylko Google, tylko Amazon.
+Nie wchodźcie w to, to jest gorsze, rozumiesz?
+A jest?
+Pewnie nie, to jest kwestia, tą robotę robi Microsoft, tą robotę robi Amazon, to oni lasują, to oni robią tą grubą, ciężką robotę marketingową i te firmy decydentów przekonują do rozwiązań.
+Wszedłeś już w tę rzekę, no to ciężko ci jest z niej wyjść w skrócie. Jak przez lata Microsoft czy Amazon opakowuje te firmy, to później już naprawdę jest ciężka decyzja, żeby te miliony zainwestowane przerzucać teraz na coś innego, bo nie szykując się, ta konkurencja dogania, wiesz, tu masz takie, tu masz podobne, mówimy tutaj o OpenAI, a tu masz Barda w Google.
+Wiesz, tu masz Google Sheet, a tu masz Ofisa.
+Ja nie uważam, więc z mojego punktu widzenia konkurencja to jest rozumienie, jeżeli ktoś wybrał coś osobnego, customowego, czemu nie wziął Power Platform, skoro potrzebował piętnastu tabel i jakiś tam workflow.
+Czemu wziął, wiesz, jakiś inny low-code, no-code, których jest pełno znowu też na rynku. To jest dla mnie rozumienie konkurencji, a wszystko w ramach co się dzieje w Microsoftu to jest dla nas partnership, to jest słuchajcie, idźmy razem, edukujmy biznes, edukujmy razem, wygrywajmy razem w skrócie.
+Bo też często tak jest, że firmy, my sami się z tym złożyliśmy, jeżeli nie wygramy czegoś, to oni wybiorą produkt niekoniecznie Power Platform, niekoniecznie Microsoft, oni wezmą produkt, wiesz, custom i oni znowu z niego nigdy nie wyjdą.
+Jeżeli wejdą w Power Platform, czy wejdą w Dynamics, czy wejdą w coś takiego, no to wiadomo, że to będziemy mieli, otrzymywali, więc my jako firma, jakby każda z tych firm, z tych partnerów jako cały ten ekosystem Microsoftowy będziemy mieli możliwości rozwijania tych aplikacji itd.,
+więc dlatego prowadziliśmy kilka rozmów z różnymi partnerami, czy dystrybutorami, jeśli chodzi właśnie o takie partnerstwo bardziej, żeby dopełnić kompetencje, jeżeli jedni się zajmują, my też nie chcemy się zajmować wszystkim, to nie chodzi o to, że my będziemy dobrze od wszystkiego.
+My chcemy wykorzystać zdecydowanie ten stack Power Platformowy model driven plus Dynamics plus Azure jako infrastruktura i tak naprawdę na tym się skupiamy, my wiesz, nie będziemy jakoś specjalnie teraz się szarpać, że będziemy ekspertami od wizualizacji w Power BI-u czy jakieś inne tematy, po prostu dosyć w miarę wąsko.
+Jeżeli brakuje nam kompetencji, czy nawet nie tyle brakuje, co mamy konsultantów dostępnych, bo nie są obecni na jakimś projekcie, to możemy wchodzić razem, wdrażać te rozwiązania z jakimiś partnerami, bądź odwrotnie, jeżeli mamy zapotrzebowanie z zachodu jakieś ogromne, a sami nie mamy tyle przerobów, to jak najbardziej będziemy zachęcać partnerów do działania razem.
+W zasadzie na świeżo podpisaliśmy umowę z naszym partnerem Developico, firma fajna, taka z Warszawy, fajnie jakby lansująca low-code, no-code i powiedzmy edukująca rynek, dosyć dobrze pracująca razem z Microsoftem w tej materii.
+Z nimi podpisaliśmy umowę i rzeczywiście mamy tam jakieś razem realizacje, wrzucamy powiedzmy naszych ekspertów, jeżeli będzie potrzeba, to też mamy drzwi otwarte, żeby do nas, że tak powiem mogli nas zasilić, jeżeli będzie większy projekt, więc wygląda to fajnie.
+A powiedz mi jeszcze, bo można tak pomyśleć, że wiesz, że masz rozwiązania Microsoftu, tutaj masz ażur, tutaj masz Dynamics, tu masz Model Driven, tu masz Canvas i tak dalej i ludzie sobie myślą często, no dobra, a ja bym chciał, żeby to wyglądało trochę inaczej, żeby niekoniecznie było to, co mi Microsoft daje, tylko bym chciał, już mam swoją wizję w głowie, chciałbym, żeby apka wyglądała tak, a nie inaczej, działała tak, a nie inaczej
+i myślę, że często ktoś może pomyśleć, że nie ma takiej opcji, dostajesz to, co daje ci Microsoft i tyle i koniec.
+Powiedz mi, w tej perspektywie jaka jest możliwość customowania wszystkiego, zmiany, co możesz zrobić?
+Mieliśmy już wiele takich przypadków, że biznes nie kupował UI'a, nie wiem, power platformowego i mówi, słuchajcie, czy tam powiedzmy Dynamics'owego i mówi, dla nas to się nie wpisuje, bo osobami decydującymi byli ludzie, którzy bardziej się zajmowali UI'em i user interface, wiesz, geek'i, że tam klik musi być tu i ma być mniej klików i tak dalej.
+No i w takim wypadku są też opcje, bo Data Wares może służyć wyłącznie, albo nie wyłącznie, ale dla większości jako baza na przykład.
+Możesz mieć go po prostu pod spodem bazy danych, która wiesz, że jest zadbana pod kątem backup'owo, dostępności, wiesz, na najwyższym standardzie, security, zunifikowane w całym ekosystemie,
+a front-end na przykład budujesz sobie totalnie, nie wiem, możesz sobie portal zrobić w HTML5 i tyle i robisz, co chcesz.
+Tylko pytanie, no mówię, no to trzeba też pamiętać o tym, że klientowi, koniec końców, temu klientowi będziemy oferować produkt na przykład, z którego by nie korzystali, za który muszą płacić, więc trzeba się dobrze zastanowić, czy to jest na pewno dobre rozwiązanie.
+Czyli nie ma takiego, wiesz, prostej odpowiedzi, ale możesz powiedzieć, no dobra, nie chcecie, to może być też aplikacja mobilna, typowo natywna, nie wiem, napisana, czy tam, wiesz, cross platform, jakiś flutter czy coś.
+Piszesz, dodatkowo masz API w środku i też gadające z back-endem.
+Tylko to mówię, zawsze pojawia się pytanie, czy jakaś część funkcjonalności, czy jakaś część tego biznesu będzie jednak korzystać z tych funkcjonalności power platformowych, czy tylko mówimy o bazie, bo kiedyś też spotykałem się z takimi rozwiązaniami, że w zasadzie olewali całą warstwę UI-ową Dynamicsa i po prostu było wszystko w HTML-u.
+No ale wtedy się zastanawiasz, no dobra, to po co płacić tyle za licencję, wiesz, za Dynamicsa, jak tak naprawdę zbudowałeś customa obok, a to masz tylko bazę danych. No to ja Ci zrobię bazę danych w Azure, platformę ze serwis, robimy czy to NoSQL, czy typowo MS SQL.
+Tabelę Ci wyklikam, tak samo, wiesz, jakimś, jakby to nie jest żaden problem, uskryptujemy to wszystko, ustawimy, wiesz, backupy, availability i tak dalej. I po co Ci w takim razie platforma, nie? Platforma jako, wiesz, power-ups powiedzmy, tak?
+Tak, ale wchodzisz w taką pułapkę znowu customizacji, że musisz to wiecznie customować i jak na przykład wychodzi, nie wiem, na przykład update model Drivena, to on już nie będzie się Ciebie dotyczył i nie będziesz miał funkcjonalności ich nowych, które wymyślili, które sprzężyli za Ciebie, że zrobili tak naprawdę całą ciężką robotę, heavy lifting za Ciebie.
+Tak, dokładnie, no bo to już nie jest stricte model SaaSowy, tylko już przechodzisz właśnie level niżej, nie? Czyli na przykład platforma ze serwis, czyli nie interesuje Cię infrastruktura, ale ciągle platforma, czyli jakby masz tego, powiedzmy bazę i wiesz, że masz do niej dostęp, no i co na przykład UI, robisz tę, wiesz, warstwę prezentacji i robisz ręcznie w czymś tam, no i co, nic nie masz, tak? Nie masz searcha, wiesz, tu masz darmowego searcha, który, wiesz, naprawdę jest fajnie konfigurowany.
+Do takich podstawowych, backendowych, back office'owych działań nie potrzeba nic więcej, tak? Wiesz, no można się kłócić, że nie wiem, ten UI nie spełnia moich oczekiwań i tak dalej, ale on też się zmienia, oni też go dostosowują, przyspieszają, wiesz, dużo było zmian, jak porównam sobie wersję z CRM 3.0 do tej wersji, to wiesz, w CRM 3.0 nie było nawet relacji many to many.
+Jakby tam trzeba było tworzyć zawsze tabelę osobno, nie można było sobie złączyć dwóch tabel razem, żeby, wiesz, jakby to jest cały czas powtórzenie.
+Najważniejsza zaleta tego jest taka, że jeżeli później się spotkasz gdzieś indziej z produktem właśnie tego rozwiązania, czy pójdziesz do innej firmy, czy pracownicy pójdą do innej firmy, to oni wiedzą jak sobie go korzystać.
+Największe ryzyko jest z tym zawsze softem, jeżeli to jest taki bespoke, że ja się tu nauczyłem i ci ludzie tracą czas. Spójrzmy sobie na biznes, załóżmy zatrudniam w bankoficie 30 ludzi i ja mam Dynamixa.
+No dobra, 50 ludzi. I oni z dużym prawdopodobieństwem już gdzieś pracowali na Dynamiksie. Oni wchodząc już są gotowi, oni wiedzą, to okej, zmieniła się tabela, klikam.
+Ale ja już nie muszę przechodzić procesu treningu całego dla jakiegoś nowego systemu, który w ogóle jest z czapy, ktoś kiedyś napisał, nikt nigdy wcześniej nie używał.
+Tutaj migrując pracowników nawet, jakby oszczędzasz zdecydowanie czas na adopcji tego rozwiązania, no bo wiesz jak operujesz w nim, jak klikasz.
+Czy ktoś będzie mógł sobie niedługo wpisać w CV, że operował model Drivenem i wie czym to jest i tak dalej, na przykład załóżmy księgowy?
+Dobre pytanie, myślę, że zdecydowanie.
+Bo Excel oczywiście, cały office, każdy wpisuje.
+Zdecydowanie, no jakby powiedział, że Dynamiksa ogarnia. Wiesz, jeżeli wchodzisz do dużej firmy, w której jest Dynamiks, to jest pierwszy pewnie punkt, czy kiedykolwiek coś z nim robiłeś,
+no bo wiesz, że musisz go wiedzieć gdzie kliknąć, gdzie wejść, to nie jest wiadomo, jest intuicyjne, no ale to wszystko sprowadza się do jakiejś tam znajomości produktu,
+że gdzie kliknąć, co tam, że wiem gdzie znaleźć informacje tak naprawdę, żeby jak najszybciej, żeby ten system jednak, bo to po to się robi, żeby usprawniać te wewnętrzne procesy,
+jak najszybciej odnajdywać informacje, wiedzieć co się dzieje z klientem, wiedzieć co się dzieje w ramach organizacji, poza organizacją ewentualnie, w zależności od use case'ów jakie implementujesz.
+Czyli to się znowu pojawia gigant, Microsoft za nami stoi, czuwa, patrzy, rozwija, a my jesteśmy po prostu messengerami.
+Nie oszukujmy się, co my byśmy mogli mając dziesięciu konsultantów wielkiego stworzyć.
+Ok, marketingowo mógłbyś oszukiwać, że zrobiłeś piękny produkt, ale wiadomo co jest pod spodem, bo my wiemy ile czasu potrzeba na stworzenie, wiesz, głupiej jakiejś tam małej integracji,
+czy zachowania standardu bezpieczeństwa i tak dalej. To jakby porównując to, no to żadne te produkty, które ja widziałem teraz w Polsce, wracając do Polski i jakby wdrażając tego naszego ingreso
+i patrząc jakie systemy korzystają firmy i my na przykład utrzymujemy w Azurze Symfonię, duży ERP, ma różne moduły.
+Jakby ja patrzę jak to jest napisane, tak, to jest naprawdę stary twór, wiesz, to są okienka ciężkie, my to utrzymujemy na platformie azurowej, gdzie mamy SQLa hostowanego tam gdzieś,
+mamy frontend tu, to jest ładnie dostępne, zdalnie, pięknie i tak dalej, ale też widzieliśmy, bo musieliśmy się integrować na przykład, to widzieliśmy jak API są stworzone, jak są bazy danych, jaka struktura jest bazy danych,
+to człowiek się naprawdę łapie za głowę. Na przykład też często jest problem z tym, że masz kolejny login, no bo nie masz tam single sign-on, że możesz wykorzystać sobie swój, tylko masz osobny login.
+No właśnie, to jest też ciekawe, że ktokolwiek korzysta z aplikacji Microsoftu może wpisać po prostu jeden login, jedno hasło i ma dostęp do wszystkiego, nie musi skakać pomiędzy jednym a drugim.
+Może z perspektywy większości ludzi, którzy się po prostu gdzieś logują i wiedzą, że dla nich to nie jest na przykład duży ciężar, no to jest to duży ciężar.
+No jest, znaczy to jest duży ciężar to raz, dwa to jest podwyższone ryzyko, bo jak masz jedno, bo to nie chodzi o to, że najlepsze jest to w tym, że nie, że musimy się wszędzie logować, tylko w całym tym ekosystemie Microsoftowym zalogujesz się raz i on jest po prostu ja otwieram przeglądarki sobie i otwieram sobie Dataverse'a czy tam otwieram Office'a, Excel'a, to wszędzie ja jestem i nie muszę tego już podawać,
+bo kredensiale są skieszowane, ja to ja i sobie działam i tam nie ma ryzyka, że ja muszę pamiętać, że ja spisuję gdzieś to zapisane mam, kopiuję, a w tym mam drugie, a potem masz reguły wygasania haseł tutaj trzy miesiące, tam miesiąc i już się zaczynasz zapętlać.
+No bo tak jest często, że potem jak masz te rozwiązania rzeczywiście obce, to potem tu masz hasła jakieś proste, żeby pamiętać, to proste łatwo przejąć i tracimy dane.
+No tak i też się nie krzaczy na przykład, jak masz na przykład w firmie jakieś dochodzi do momentu, że właśnie login wygaśnie i nagle wygasa login na 30 kompach i jest panika w firmie, nie wiadomo co zrobić, cały dzień mija, przychodzi tak przysłowiowy informatyk, naprawić wszystko i wszystko zrobić, a firma w tym momencie traci kupę czasu, a co za tym idzie pieniądze, bo to są robocze godziny.
+Zdecydowanie, to jest kolejna jakaś tam powiedzmy zaleta.
+Wiadomo, że te rozwiązania customowe też można korzystać, jeżeli się zdecydujemy na, teraz to się nazywa Entra, Microsoft Entra, a wcześniej Active Directory, czyli jakby ten identyfikator czy mój username, ta baza usera, to można sobie skonfigurować to z rozwiązaniami jakichkolwiek,
+ale to jest kwestia czy dane rozwiązanie wspiera taką integrację z jednym identity w skrócie.
+Czy może mógłbyś pokrótce powiedzieć czym to się, bo my tak tu operujemy Azure, Power Apps, Dynamics, a nie każdy widzi różnicę, nie każdy wie czym to się różni, co jest dla kogo i co ktokolwiek byłby zainteresowany współpracą z twoją firmą, miałby na myśli, czyli czy Dynamics, czy Azure, czy Power Apps, czy Canvas.
+Spoko, to zaczniemy może od Azura w takim razie.
+Azure to jest chmura, infrastruktura w chmurze w skrócie, infrastruktura w chmurze, czyli mamy tutaj jakieś computing, obliczeniowe komponenty, czyli możemy mieć coś co nam przeliczy, coś co nam coś zintegruje.
+Czyli działa non stop.
+No coś tam się dzieje, kupujemy powiedzmy jakiś komponent, który płacimy za użycie i tak dalej, może to brzmi trochę bardzo high level.
+Mamy też na tej infrastrukturze chmurowej mamy oczywiście tematy typu storage, czyli jakieś tam kontenery na zasadzie do przechowywania danych w skrócie, czyli mamy też oczywiście wirtualne maszyny, czyli nie musimy naszego serwera mieć lokalnie tutaj postawionego,
+tylko budujemy takiego tenanta, to się nazywa w Microsoftzie w Azure, w którym tworzymy profil jakby naszego klienta i tam zaczynamy dodawać różne usługi typu właśnie wirtualna maszyna, baza danych i to w różnym modelu.
+Tam mamy Infrastructure as a Service bądź Platformę as a Service i sobie tam je możemy ładnie podłączać, konfigurować, backupy danych, jakieś usługi typu Data Warehouse, czyli do jakichś dużych danych, big data.
+Mamy usługi od zwykłych przechowywania plików po prostu, na przykład korzystamy też mocno z Azure jako integracji, jako warstwy integracyjnej, czyli tam możemy też tworzyć takie trochę low code, no code rozwiązania, żeby integrować różne systemy i jakby API pod kątem zabezpieczeń.
+Security też jest tam, Defender, też teraz ładnie lecą jeśli chodzi o ranking, jakby biorąc licencję M365 w pakiecie tam Business Premium no to mamy naprawdę spoko antywira, jakby kiedyś trzeba było dodatkowo kupować, teraz to już wygląda tak, że w zasadzie bierzemy tą wersję Business Premium i mamy w pakiecie mnóstwo jakichś tam filtrów, rozwiązań, podpowiadaczy, audytów.
+To jest Azure, czyli jak my to widzimy biznesowo.
+No właśnie, bo żeby ktoś mógł sobie tak może lajk jakiś uzmysłowić, czym jest ten Azure, po co mu to jest, żeby nie trzymać po prostu serwera w piwnicy?
+Dokładnie, no dokładnie, czyli nie wiem, mam swój serwer, na którymś coś mam.
+Czyli jest gdzieś tam po prostu w Stanach czy w Europie?
+W Polsce też jest.
+I jest też w Polsce, tak? I tam sobie wszystko pięknie, ładnie działa. A gdzie to jest?
+Oni Ci takiej dokładnej lokalizacji nie podadzą, ale jest w Polsce pod Warszawą chyba gdzieś i jeszcze są jakieś dwa data center zawsze i one ze sobą są spięte tak, że mogą sobie te dane trzymać jakby tu i tu,
+że jak jeden pada to drugi jest dostępny, żeby mieć stały dostęp.
+Co jest znowu jakby patrząc, czy warto Microsoft, czy warto te technologie, czy warto Azure, no to wcześniej był problem i przeszkoda, że chmury nie było w Polsce fizycznych danych.
+My przechodząc HSBC i złożoność tematów, jeśli chodzi o data residency, czyli gdzie dane mogą spoczywać i co jest zgodne z prawem, jeżeli dane są wrażliwe,
+no to w Polsce też pewnie często pojawiłby się problem, że słuchajcie, fizycznie te dane siedzą w Holandii, co mi się nie podoba, niezgodne z prawem.
+Więc teraz jest już zaadresowany ten problem, jest w Polsce, czyli jakbyśmy odcięli w skrócie internety, no to te dane sobie siedzą tu.
+Więc na tych dyskach rzeczywiście są. Czy one są zaszyfrowane i tak dalej, to jest druga kwestia, ale są i mamy do nich dostęp, to są nasze dane, czyli fizycznie one spoczywają.
+Ale tak dla biznesu w skrócie oznacza to tyle, mam swerwer, na którym mam, nie wiem, czy to backupy, czy to dane, czy jakaś strona wisi, czy to jakiś system jest hostowany, nie wiem, do hotelu obsługi,
+do fabryki, która ma jakiś system ERP, zarządzania projektami, cokolwiek i to siedzi na tej maszynie fizycznej, to my mówimy, przechodzimy do Azure,
+robimy inwentaryzację tego softu, sprawdzamy co tam jest, jakie są wymagania, jakie mam propozycje pokazać, ile to będzie kosztowało miesięcznie plus minus.
+Tworzymy to w chmurze, utrzymujemy, mamy tam w tym momencie jakieś aktywowane automatyczne backupy, snapshoty, że możemy odtworzyć logi, alerty,
+czyli wiemy co się dzieje, jakieś notyfikacje co do zagrożeń ewentualnych, jakichś szkodliwych działań w czasie rzeczywistym, też przy wykorzystaniu,
+Microsoft fajnie to teraz robi, przy wykorzystaniu jakichś AI, jakichś patternów, sprawdza czy coś mi wygląda, więc wysoki poziom bezpieczeństwa.
+Tak naprawdę nie zajmujemy się już później tym serwerem, ten serwer znika, do widzenia, sprzedajemy go i jak chce się przepiąć i chce przenieść się do innego miejsca
+to ja się przepinam fizycznie z rzeczami, ale serwer cały czas jest dostępny.
+Ukraina żyje dzięki temu, że oni chyba w bardzo dużej mierze właśnie weszli na Azura i Polska utrzymuje dużo i public cały przeszedł jakby na Azura i ona jest w Polsce.
+Siedzi, także oni funkcjonują, normalne takie aktywności też dzięki chmurze, bo jednak data center byłby pewnie pierwszym targetem Rosji.
+Rozwalić i jak nie masz banków, nie masz niczego, wszystko może być w chmurze, więc nawet ryzyko tego typu jest minimalizowane.
+No i każdy może przyjść tak naprawdę do Ciebie i się podpiąć też pod tą technologię.
+I jeżeli czujemy się zagrożeni, że w Polsce te dane nie chciałbym, żeby były trzymane, robimy przepinkę do US, do widzenia i dane już siedzą tam.
+Czyli nawet jakby tutaj coś się wydarzyło nie po naszej myśli to mamy dane tam.
+Zresztą zawsze jest opcja tego geo, że możesz mieć redundancję pomiędzy kontynentami, czyli de facto trzymane są tu i na innym kontynencie, żeby nawet minimalizować takie ryzyko.
+Już nie mówiąc o tym, że fizycznie serwer gdzieś siedzi i po prostu Ci się budynek spali i danych nie odzyskamy.
+Nie szukajmy tutaj jakichś wielkich czarnych scenariuszy.
+Po prostu będzie komputerek i został zalany i na tyle niefortunnie zalany, że procesor się spalił i spaliła Ci się płyta główna, dysk nie do odzyskania.
+Wiadomo, że się ludzie zajmują odzyskiwaniem tego, ale jest to ciężkie.
+Oni dają gwarancję, jeżeli masz to zabezpieczone, masz to...
+W sensie Microsoft daje gwarancję na wszystkie Twoje dane, które tam przechowujesz.
+Odpowiedzialność spoczywa na nich, a nie, że ktoś nie wyłączył światła w piwnicy.
+Oczywiście tam dochodzą tematy, jak to wiadomo, zawsze wygląda prawnie i niuanse, że musi być jakiś zachowany poziom bezpieczeństwa,
+bo jeżeli firma, która by utrzymywała to nie w sposób zamierzony i rekomendowany, nie spełnialiby standardów,
+mieliby otwarte hasło zapisane gdzieś tam i ktoś to usunął wszystko i wywalił wszystko,
+to mogą też powiedzieć, że słuchajcie, ale zawsze stoi gdzieś tam ten Microsoft.
+Raz, że dystrybutor nasz, czyli też duża firma, a dwa, że Microsoft, który jest w stanie nam pomóc.
+Możemy być mniejsi, a mierzyć wysoko w skrócie.
+To ażur, a teraz przejdźmy do Dynamics.
+Dynamics to różne apki.
+Mamy Dynamics typowo finansowo lub ERP-owy, główny podział jest na te z rodziny ERP-ów w skrócie
+i CRM-owych, czyli bardziej Customer Relationship Management.
+I teraz obecnie dokonywana jest mocna unifikacja, bo te ERP-owe rozwiązania, czyli w skrócie, kto używa ERP-ów,
+finansowy moduł, ale też fabryki, często produkcje, supply chain, czyli jakieś tam projekty, tam są też moduły CRM-owe,
+ale Microsoft zauważył, że trochę chyba bez sensu tak mi to wygląda, że po pierwsze to jest trochę starej technologii,
+nie tak do końca eleganckiej, ale seksownej, jak jest Power Platform i Dynamics bardziej od strony CRM-owej,
+stąd ta specjalizacja jest taka, że nie ma aż tyle tych specjalistów z tej strony ERP-a, więc Microsoft trochę zaczyna to unifikować wszystko.
+Dynamics już jest obecnie na jednej platformie, że możesz sobie tworzyć środowiska i to dla CRM-owego i ERP-owego,
+czego wcześniej nie było, to były dwa osoby nabyte, mimo że dwa się nazywały Dynamics.
+Czyli pierwszym ruchem było, nazywamy to Dynamics, jedno jest na przykład Finance and Operations, a drugie jest For Sales.
+To były jakby dwa zupełnie inne technologicznie produkty. Co jakby się teraz zmienia?
+Masz to?
+Wezmę.
+Nie jest to łatwe, ale się da.
+Jeżeli skupimy się, ten model ERP, czyli powiedzmy tańsza wersja, taka jest biznes central, to to znowu tak jak wcześniej Ci mówiłem,
+nasz ingreso powstał i tam są też takie moduły typu, jakiś tam moduł znajdziesz pewnie i częściowo HR-owy, czyli tak jakby każda firma trochę większa,
+która chce widzieć swoje przedsiębiorstwo z lotu ptaka, czyli koszty, zamówienia, ewentualnie produkty, sklep załóżmy, który ma swój magazyn,
+czyli moduł magazynowy ma to w jednym systemie w skrócie i do tego jest taki biznes central.
+I to wisi też na ażur, tak?
+To wszystko jest na infrastrukturze azurowej, jeżeli mówimy o rozwiązaniu tym chmurowym i co?
+No i kupujemy licencję per user i mamy szereg modułów dostępnych, które sobie aktywujemy po kolei, czyli jeżeli wystawiasz faktury,
+twoja firma wystawia faktury na podstawie produktów, które produkujesz gdzieś tam albo bierzesz skądś, to możesz to wszystko ustawić,
+czyli możesz ustawić sobie vendorów, masz dostawców, odbiorców, masz ludzi, klientów, masz deale potencjalne,
+czyli masz też moduł taki trochę CRM-owy, gdzie możesz twoje opportunities, czyli leady trzymać i nimi zarządzać i mieć do tego widok,
+widzieć jak to wygląda pipeline, no co jeszcze?
+Mi to bardzo przypomina właśnie Model Driven i Power Apps.
+Czy jest jakaś fundamentalna różnica między jednym a drugim?
+Jeszcze tylko dokończę Ci, bo zdążyłem zamknąć temat tego ERPA powiedzmy, czyli Business Central i Finance Operations i tam różne jeszcze są moduły,
+ale jest ten Dynamics powiedzmy for Sales, czy Customer Service, który realizowaliśmy tam dla Jersey i realizujemy obecnie i dla HSBC i wiele innych rzeczy,
+innych banków, to są moduły takie typowo CRM-owe, w którym właśnie masz głównie leady, w tym salesie masz zarządzanie leadami, dealami,
+zamówieniami ewentualnie i jakaś dalsza integracja tam z kolejnymi systemami już takimi, w którym się dokonuje tych transakcji,
+jakimiś tam księgowymi i tak dalej, no i on do tego służy.
+Tam chodzi o to też, żeby mieć możliwość i dostęp, jakieś są wtyczki AI-owe, na przykład jakieś tam moduły, które pozwalają Ci na spojrzenie na swoją relację z klientem,
+sprawdzenie osób decyzyjnych, zobaczyć z kim musisz gadać, jakie odbyłeś rozmowy, czy np. podpowiada Ci system, że słuchaj Ty powinieneś z nimi zagadać,
+bo tam jest potencjalnie deal do zrobienia, jakby Microsoft nad tym pracuje cały czas z produktem i rozszerza funkcjonalności.
+Znowu z customer service, to jest taki CRM, ale bardziej od strony wsparcia klienta, czyli jeżeli my na przykład jesteśmy Nublado i mamy klientów i oni mają jakieś problemy z naszym produktem,
+czyli problemy to oni obecnie wrzucaliby na maile, na skrzynkę i słuchaj, pomoc ma opłat Nublado.pl, mam problem, to można zautomatyzować poprzez system Dynamics i customer service,
+wchodzą sobie takie zapytania, powiedzmy, czy to bugi, czy coś, wchodzi to do systemu i to mamy wszystko w jednym systemie, czyli wiemy ile było problemów,
+ile to nas kosztowało czasu zarządzić tym z punktu widzenia organizacji, to jest raczej produkt dla dużych firm.
+Czyli ile pracowników byś tak powiedział?
+Myślę, że to nawet nie chodzi o tyle pracowników, ile masz np. case'ów, zapytań itd., bo chodzi o to, żeby to wszystko zautomatyzować.
+Nie zrobiłbyś sobie Dynamics'a, gdybyś miał dwóch klientów i pięciu ludzi, bo mógłbyś sobie to wdrożyć, ale co z tego, że będziesz testował pięć case'ów tworzonych.
+Jeżeli masz umowy podpisane z firmami, że ty musisz im rozwiązać problem w ciągu dwóch godzin, to jeżeli nie masz systemu, to jak to jesteś w stanie zweryfikować?
+To chodzi o to, że wtedy tworzysz system i widzisz, że jest SLA i zegar tyka ci, widzisz, że została ci godzina, musisz odpowiedzieć, czemu gościu nie odpowiedział.
+Odpowiedzialność wtedy widać wszystko na talerzu, to jest wszystko w systemie i to masz ten Dynamics.
+Tam są konkretne określone moduły, raz, że są różne appsy, czyli sales i customer service.
+W ramach tych dwóch rozwiązań mamy różne moduły dostępne, jakieś tabele już gotowe, funkcjonalności, jakiś proces end-to-end teoretycznie dostosowany do potrzeb szerszej grupy odbiorców,
+której tak trzeba oczywiście dostosowywać, customizować zawsze w jakiś sposób mniej lub bardziej inwazyjny.
+I później masz Power Platform, to jest jakby znowu, jeśli się śmiejesz, to takie marketingowe odejście, był Dynamics, był CRM, więc oni teraz stwierdzili,
+dobra, Power Platform, czyli zrobimy coś, właściwie nie każdy chce Dynamicsa i oni pewnie zauważyli, Microsoft zauważył, że wiele firm,
+których ja również pracowałem albo dla których robiłem jakieś tam rozwiązania, nie korzystały z funkcjonalności Dynamicsa.
+Czyli zbyt obszerny, zbyt dużo funkcjonalności miał, nie potrzebowały tego.
+Bardziej nawet podobało się im to, że jak łatwo się tam dostosowuje i tworzy nowe rzeczy, jak łatwo jest ta baza danych i po prostu sobie tabelę tworzę i mam.
+Mam założone indeksy, mam wyszukiwania, mam podstawową platformę, taka która się opiera na danych i mogłem sobie tworzyć co chciałem.
+Więc oni pewnie w odpowiedzi na zachowania i jak rynek np. adoptuje to rozwiązanie zauważyli, że ja niekoniecznie jestem zainteresowany jakimiś konkretnym salesem, appsem,
+bo te funkcjonalności mnie nie interesują, bo nasz model, proces zupełnie inaczej wygląda.
+Więc pewnie odpowiedzią na te potrzeby było właśnie, no to macie Power Platform, nas to tyle już nie kosztuje, nie musimy się bawić i tworzyć nowe jakieś tam funkcjonalności,
+typu konkretnie jakieś procesy, tylko robimy coś co jest otwartą platformą, rozszerzalną, gdzie każde swoje mini firma, biznesowe potrzeby ma, nie wiem,
+moduł od zarządzania pokojami w firmie, jesteś w stanie sobie parę godzin wyklikać, mamy to.
+Wiesz, że jutro będę miał gościa, który może to wspierać, bo to jest szeroko znana platforma, to nie jest na świecie.
+Wiadomo, w Polsce jeszcze to jest cały czas na takim pewnie raczkującym poziomie w mojej ocenie, ale to musi iść.
+Wiemy jak wygląda na zachodzie, jak właśnie pozbywają się firmy tych rozwiązań typowo customowych i zastępują je Power Platform, więc to jest to.
+Mówiłeś o Canvas, Canvas jest niczym innym jak tylko, ja to nazywam po prostu innym interfejsem, inną warstwą prezentacji, która daje trochę więcej możliwości,
+z której możesz się wpiąć do czegokolwiek, możesz się wpiąć do Dataverse'a, możesz się wpiąć do Sharepoint'a, możesz się wpiąć do innych, po prostu jakby innych backendów, innych danych, modeli danych.
+I tyle, Canvas to jest po prostu jakby twoja Canva, na niej sobie rysujesz i okej, wezmę sobie source z tego, source z tamtego i tworzysz jakieś pejże.
+Tak, co ciekawe można też to zastąpić, bo to jest taka wersja dość podstawowa, kanwasy w sensie i często na przykład firmy potrafią dobudowywać własny frontend i budować na nim cokolwiek sobie chcą, tak jak mówiliśmy wcześniej.
+Czyli tak podsumowując Azure to bazy danych, tak w skrócie.
+I komputery tylko w chmurze, moje komputery, zamiast jakby komputer firmowy, wirtualna maszyna, do której ja się tam loguję i tam mam na przykład zainstalowane swoje narzędzia do pracy.
+Nie muszę mieć fizycznie na kompie, tylko ja się loguję do tej chmury azurowej i tam jest mój dostęp do firmowy powiedzmy.
+A czy można powiedzieć, że w sumie Power Apps i Model Driven to jest dziecko Dynamicsa?
+Że wywodzi się po prostu od Dynamicsa w tej mierze i jest takim uproszczoną wersją jego?
+Ja bym się zastanowił też nad tym, co to jest Dynamics w ogóle, bo to trochę jest kierowane znowu moim zdaniem marketingiem mocno.
+Czyli jakby spojrzysz, był CRM, tak naprawdę to jest dzieckiem CRM-a.
+Ten CRM był przeniesiony, zrebrandowany na Dynamics.
+Potem powstał ten Dynamics Sales i Dynamics tam powiedzmy, czyli te apki teoretycznie, które skupiają się na pewnych potrzebach biznesowych, konkretnych.
+To jest do sprzedaży, to jest do wsparcia klienta, to jest tam do czegoś.
+I Power Platform korzysta dokładnie jak kiedyś CRM była baza, czy Power Platform.
+Power Platform jako szerzej to wiadomo, że masz i Power Apps, masz Dataverse, czyli tego CRM-a.
+Więc jakby jest to, bo ty pytałeś o Power Apps czy Power Platform, bo już trochę się zakręciłem szczerze mówiąc.
+Czekaj, nie wiem teraz.
+Właśnie, jakby to są też inne wiesz.
+No to może powiedz od razu jaka jest różnica między jednym i drugim.
+No dobra, no to Power Platform to jest ta cała platforma zbiórczego, wchodzi Power Apps, a Power Apps to jest albo Canva, albo Model Driven.
+Dataverse, czyli dane, czyli ten CRM historycznie, tylko że on też sam nie działa.
+No dobra, w skrócie CRM z API, czyli mogę do tego gadać pod spodem od strony kodu.
+Mamy Power Automate, czyli taki workflow, orkiestracja, automatyzacja.
+I co tam mamy jeszcze? Virtual Boty, jakieś tam dodatki.
+Mamy AI Buildera, ale nie wiem czy on jest w ramach...
+Tak, on jest AI Builder, to też jest już teraz jako Power Platform, ale też nad tym ciężko nadążyć, bo to jest kreowane moim zdaniem, jakby to widać, to się zmienia, to jest rebranding.
+Wiesz, wczoraj było Dataverse, słuchaj, był Dynamics, za chwilę zrobili z tego Dataverse i czytaliśmy artykuły Dynamics i popatrzysz Dataverse.
+Używane jako synonim, ale niekoniecznie, jakby to jest złożone, to jest pewnie na osobny...
+Pewnie tak, bo technologia się prężnie rozwija w dzisiejszych czasach.
+Mnie ciekawi właśnie, czy będziemy mieć taką przyszłość niedługo w Polsce, gdzie będziesz wpisywał sobie Power Platform w CV, że umiesz obsługiwać i idziesz od firmy do firmy i każda firma ma to rozwiązanie praktycznie,
+bo wydaje mi się, że gdyby nie było takiej możliwości, to byś pewnie Nubladu nie zakładał.
+No tak, myślę, że tak to może wyglądać docelowo, że rzeczywiście gdzieś tam zawsze każda firma jakaś będzie średnia, która ma rozwiązania Microsoftowe,
+będzie miała u siebie Power Platform zaadoptowane i jakieś tam funkcjonalności będą na tym latały, więc każdy będzie wiedział, że jak notyfikacje dostaję, to wiem,
+że coś jest dostępne z tego poziomu, ale też z tego poziomu, czy z takiego urządzenia, mogę to w Teamsach zobaczyć i tak dalej, możesz mieć te notyfikacje.
+Więc zdecydowanie taki jest plan, żeby jednak uświadomić klienta tutaj w Polsce, ale nie tylko, że jest coś takiego i te rzeczy, które masz obecnie fizycznie na półkach,
+nie wiem, ster te kontraktów, po co masz te kontrakty fizycznie, skoro nie musisz mieć je zgodnie z prawem już, to sobie je podpisz elektronicznie i zasadzamy je gdzieś tam i mamy je w chmurze,
+czy to na Sharepoint, czy to w chmurze i nie martwisz się, że mi się spali szafa, a zresztą jak z tego skorzystać, sam wiesz.
+No nie korzysta nikt.
+Masz umowy, no to ja nie wiem nawet jak je odszukać, a chodzi o to, że na to możesz położyć na przykład Azure Cognitive Services, gdzie to jest ta złożona wyszukiwarka z integracją,
+co możesz później podpiąć pod AIa i pod to podpinasz AIa i później on tą bazę ma, wiedzę ma na wyciągnięcie ręki, ten AI model ma twoje dane, twoje kontrakty, twoje wszystko,
+możesz ograniczyć dostęp, możesz, fajnie to słyszę, jak Microsoft będzie to udostępniał, że to nie będzie tak, że ktoś sobie robi prompta, bo podaj mi ile firma zarobiła w zeszłym roku,
+ja jako nikt z firmy jestem w stanie tej informacji uzyskać, nie, tam będziesz mógł sobie to poklasyfikować, ustawić kto do czego ma, jakiego zbioru ma dostęp, kto może o co zapytać w skrócie i dostać na to odpowiedź,
+więc jakby patrząc z tej perspektywy, no to sobie wyobraź, masz cały, dajesz mądremu komuś, AIowi dostęp do swoich danych i teraz wiesz, mówisz, no dobra zaproponuj mi, co ja tutaj źle robię, nie wiem, strategię marketingową,
+no tu masz cały mój content, no weź powiedz tutaj, czemu mamy takie brzydkie grafiki, jak mamy obecnie, weź mi tutaj coś ładniej zrób albo nie wiem.
+Szereg możliwości jest niesamowity, nawet bardzo mi się podoba też integracja, czy właśnie z teamsami, bo dużo ludzi też spędza czas na pisaniu, po prostu wiesz, opisywanie bieżących sytuacji w firmie i nagle może sobie otworzyć inne okno i napisać instrukcję do AI,
+może, nie wiem, ściągnąć jakieś dokumenty nie wychodząc z aplikacji, bo to jest też duży plus jeśli chodzi o produktywność, bo wiadomo jak każdy z nas usiądzie do pracy i nagle ma 15 aplikacji odpalonych, no to mózg się szybko męczy i szybko się wypala, a jak możemy pewne procesy zautomatyzować i używać właśnie czy takiego czatu zwykłego, no to jest to pewna innowacja, przynajmniej z mojej perspektywy.
+Zdecydowanie, to też jest kwestia ewangelizacji tych firm, tych ludzi decyzyjnych, żeby zrozumieli co to w ogóle daje. Jedno to jest coś stworzyć fajnego, potem to wdrożyć gdzieś tam, żeby ktoś to chciał, ale później żeby też to zaadoptować i z tego korzystać tak jak to ma możliwości, bo my też się zderzamy często z barierą biznesu,
+że niekoniecznie te fajne rzeczy się akurat tak fajnie korzysta, bo po co mi to, bo przecież ja tego nie potrzebuję, a potem musisz tworzyć tę potrzebę często.
+W jakim sensie tworzyć potrzebę, że po prostu podajesz biznes case komuś, że to jest dla Ciebie po prostu bardziej opłacalne i możesz osiągnąć dużo więcej niższym kosztem czasowym?
+Tradycyjnie jak się podchodziło do softu, to się myślało, że przecież skoro Ty jesteś IT, programista, no to ja muszę mieć wymagania biznesowe, to daj mi wymagania biznesowe i ja je implementuję.
+I to był człowiek, wiesz, programista, który gdzieś tam w koncie to napisał i koniec. Ale biznes musiał drajwować, innowacje i tak dalej, potrzeby, a wiesz, a tutaj my się zderzamy właśnie, to jest to, że jeżeli masz te softskille i wiesz jak technologia to Ci daje,
+ale dodatkowo rozumiesz ten biznes, to jesteś w stanie mu stworzyć tę potrzebę. No jak? Przecież Ty nie rozumiesz, że będziesz mógł sobie to wszystko wyszukać, wiesz, moduł korespondencji czy moduł, że ja mogę to wyszukać.
+No weź teraz mi przejrzyj 100 listów po kolei z szafki, nawet jak masz ładnie ułożone, gdzie ja coś miałem, tak?
+Tak.
+A weź teraz do tego dołożyć jeszcze AI, który to skonsumuje i powie mi, weź mi wypluj ostatnie eventy z kimś tam.
+Tak jest.
+Nie muszę tego nawet szukać, nie muszę, wiesz, jakby, no to o tym mówię, że tą potrzebę, ale to trzeba pokazać, że takie coś w ogóle jest, wiesz, to znowu ten agile, to demo, to zaangażowanie tych firm, żeby oni ze sobą byli.
+Oczywiście to kosztuje, no bo nikt nie będzie tego robił za friko, tak? My nie będziemy tego na siłę komuś wciskać i najlepiej za darmo, a w końcu i tak nie będziemy z tego korzystać.
+I o to chodzi. My też szukamy jednak tych ludzi, którzy tą innowację, wiesz, łykają i się tym w skrócie jarają, bo potem jest łatwiej, nie?
+Ale też jakby po naszej stronie jednak jest dużo, żeby pokazać, zidentyfikować ten problem, pokazać jakie jest dla niego rozwiązanie i potem, słuchajcie, korzystajcie z tego, nie?
+Czy przeżyłeś pewien szok biznesowo-kulturowy po powrocie do Polski?
+Oj tak, zdecydowanie, zdecydowanie. No jest inny dialog już, o którym wcześniej wspominałem, nie? Na zasadzie jakby ta dyplomacja angielska jest na zupełnie innym poziomie, tak?
+Wersus Polska, jakby w Polsce jest wszystko takie, z punktu widzenia angielskiego, wydawałoby się, nie wiem, często aroganckie albo, wiesz, takie niemiłe.
+Tu jest twoje miejsce, gościu, nie? W szeregu. Często, nie zawsze, to oczywiście też znowu generalizuję mocno i upraszczam, ale to na pewno.
+Na pewno to, że tam jest wyższa świadomość tego, że tak naprawdę za te wszystkie pierwsze prace, które z tym, wiesz, z tym twoim cytatem, że wiesz, że trzeba sobie przygotować ten grunt.
+Tak, naostrzyć siekierę.
+Naostrzyć tę siekierę, ten toporek.
+I spędzić tak naprawdę więcej czasu nad tym.
+To jest kosztowne, a on za to nic nie ma, on ma cały czas ten toporek.
+Tak jest.
+On mówi, kurde, no przecież, a co ty chcesz mnie zabić, wiesz? Na zasadzie jakby, i tu się odwołuję do analizy, do zrozumienia, do wyciągnięcia ich za język, tak?
+Że jak mamy dostęp do tego biznesu, to nie będzie tak, że my od razu im damy, no tu masz model driven i wow, funky i będziesz sobie śmigał.
+Właśnie jeszcze bardziej tam się kładzie i powinno się kłaść ten nacisk na to, żeby dogłębnie zrozumieć, o co im chodzi.
+Czy na pewno o to ci chodzi, o czym mówisz, bo ty mówisz mi trochę dziwnie, niejednoznacznie, tam na pewno, i wiesz, dociskasz te soki i widzisz, aaa, widzisz, i tutaj jest drugie dno.
+To zobacz, to jak jest drugie dno, to znaczy, że my możemy to zrobić, aaa, no dobra, i wiesz.
+A za to nie chcą, widzę, aż tak płacić, jakby wiesz, średni taki konsument to on myśli, że wiesz, jak ja płacę, żądam, mam.
+Jestem królem.
+No wiesz, jakby to mi się należy i koniec, no przecież jak spłacimy, no to przecież, wiesz, a tu czasami też jest tak, że wiesz, może się okazać docelowo,
+i to też nie chciałbym super oszukiwać, że wiesz, spędzisz dwa, trzy tygodnie i powiesz, sorry, wy albo nie rozumiecie jeszcze, gdzie jesteście i co wy chcecie,
+żeby podjąć tą właściwą decyzję, czy na pewno chcecie to, co mówimy, to też jest druga rzecz, ale już za to musisz zapłacić.
+I wiesz, i tu jest problem. W Anglii to było logiczne, tak, tam robiłeś pre-sale, czy POC, czy tego typu rozwiązania, po prostu, no,
+się brało ludzi, konsultantów na dwa, trzy, wiesz, dwóch, trzech konsultantów na okres kilku tygodni na przykład i od razu było wiadomo, że kasę,
+no, ale na końcu powstaje jakiś artefakt, czy to analiza, czy to architektura, jakieś, wiesz, coś namacalnego, to jest twoje, dostajesz i to możesz później przekazać innej firmie i powiedzieć,
+słuchajcie, zróbcie mi to, tak, albo to są owoce pracy, więc jest to inaczej. Też często mówię, ta różnica pomiędzy tym, że tam ten model subskrypcji już istnieje tyle lat
+i tam nikt nie korzystał z jakichś szemranych lewych ofisów, wiesz, tak jak u nas, to u nas dopiero jakby ludzie rozumieją, ok, dobra, to zapłacimy te 20 zł za usera, ok, ale najlepiej ten
+najbasicowy, najtańszy pakiet, wiesz, no, to jest ta różnica, nie, to jest ta bariera, a już nie mówiąc potem, jak mówimy o rozwiązaniach, które już więcej kosztują, gdzie tych godzin pracy,
+później naszych konsultantów, specjalistów jest potrzeba znacznie większa, co się przekłada na jakieś tam koszta miesięczne, no to w tym momencie robi się, wiesz, albo głupie serwery,
+które ktoś myśli, że wydał te 200 tysięcy na serwer, na jego implementację, wdrożenie i później ktoś i tak musi to utrzymywać i jak nie będzie później miał znowu upgrade'a, to się okaże, że ten serwer jest do kosza,
+bo przecież ta płyta główna w końcu już nie będzie rozszerzalna, bo tak działa rynek, że zmieniają się interfejsy i wcześniej był USB taki, a jutro będzie inny, więc…
+Tak, ludzie, mi się wydaje, że też powoli dojrzewają do czegoś takiego i powoli widzą tą zmianę, każdy widzi, że po prostu ma telefon, ale już za trzy lata ten telefon muli, czy komputer muli i tak dalej i zaczynają…
+Dotyka to ich, nie, jakby na takim…
+Tak, zaczyna ich to dotykać i zaczynają kumać. Mówi, kurde, teraz trzeba, albo robisz, nie ma czegoś takiego, że nie robisz i możesz siedzieć na Bahamach.
+Bo raz wydałem i mam.
+Tak, bo raz wydałem i mam. No dobrze, chyba będziemy kończyć.
+Spoko.
+Bo już jest zmęczenie pewnego materiału.
+O, jest, jest, jest, trochę mieniało i może widać, będzie to na materiale.
+No wyciągnęliśmy z ciebie dzisiaj dużo, nie?
+To twoja zasługa, nie? To wiesz, ja tylko opowiadałem. Ciężko ci było słuchać, więc współczuję.
+Dobrze, dobrze, dobrze się rozmawia.
+Spoko.
+Jeszcze mi się wydaje, że dużo takich rozmów przed nami i będziemy to kontynuować.
+Jak to mówią pierwsze koty za płoty?
+Pierwszy temat, myślę, że…
+Wyczerpany.
+Tak.
+Chociaż trochę, bo wiadomo, o tym można mówić nieskończoność.
+Spoko.
+No to super, dzięki.
+Dziękuję.
