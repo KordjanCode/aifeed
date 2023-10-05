@@ -1,0 +1,2075 @@
+1
+00:00:00,000 --> 00:00:09,000
+Chciałbym po prostu zacząć od tego, żeś mi opowiedział trochę o tym, jak zaczęła się w ogóle twoja przygoda w IT.
+
+2
+00:00:09,000 --> 00:00:15,000
+Jak to się wszystko zaczęło, czy to się zaczęło na studiach, czy przed studiami. Chciałbym pójść daleko.
+
+3
+00:00:15,000 --> 00:00:20,000
+Spoko, spoko. Możemy spróbować.
+
+4
+00:00:20,000 --> 00:00:24,000
+To jest w sumie dość ciekawa historia z mojego punktu widzenia, ale pewnie nie tylko.
+
+5
+00:00:24,000 --> 00:00:33,000
+Jak spojrzę sobie historycznie, jak to poszło, bo ja w zasadzie trochę robiłem, pomagałem mojemu tacie.
+
+6
+00:00:33,000 --> 00:00:42,000
+On miał firmę, telewizję kablową i tam sobie z nim jakieś małe rzeczy typu graficzne, bardziej tam tematy.
+
+7
+00:00:42,000 --> 00:00:48,000
+Ale ja byłem, nie wiem ile miałem lat, może naście. Także to była pierwsza przygoda oczywiście z grami.
+
+8
+00:00:48,000 --> 00:00:50,000
+A na jakim sofcie to było wtedy?
+
+9
+00:00:50,000 --> 00:01:02,000
+To był Star Office. Był za darmo, więc oczywiście jak to w Polsce w tych latach odległych każdy uwielbiał ten darmowy soft.
+
+10
+00:01:02,000 --> 00:01:07,000
+Także robiliśmy tam cuda, jakieś prezentacje. To było na zasadzie, że do reklam.
+
+11
+00:01:07,000 --> 00:01:17,000
+Wiesz jak puszczają tam te reklamy i po prostu jakaś firma XYZ i tam dzisiaj promocja tego i tak dalej.
+
+12
+00:01:17,000 --> 00:01:21,000
+Czyli twoje materiały były już na kanałach, normalnie w telewizji?
+
+13
+00:01:21,000 --> 00:01:32,000
+Tak, w telewizji kablowej lokalnej w Chojnicach. Tam nie było sporo klientów, ale rzeczywiście one wpadały.
+
+14
+00:01:32,000 --> 00:01:46,000
+To była taka amatorszczyzna, bo ja nie byłem grafikiem. To na zasadzie było po prostu zmontować parę zdjęć, coś tam niby obrobić, jakiś dorzucić tekst i tyle.
+
+15
+00:01:46,000 --> 00:01:52,000
+Ale powiedzmy, że to jest jakiś tam początek, poza oczywiście grami.
+
+16
+00:01:52,000 --> 00:02:00,000
+Wiadomo, moja mama mi kupiła kompa jak miałem powiedzmy 8 lat i od tego czasu jakby gierki i te sprawy.
+
+17
+00:02:00,000 --> 00:02:04,000
+To była główna metoda na spożytkowanie komputera.
+
+18
+00:02:04,000 --> 00:02:12,000
+Niestety u nas w szkole ani podstawowej, można powiedzieć nawet w liceum, my nie mieliśmy programowania.
+
+19
+00:02:12,000 --> 00:02:18,000
+To jest w ogóle tragiczne, że nie ukierunkowali w takim mieście jak Chojnice.
+
+20
+00:02:18,000 --> 00:02:25,000
+Ja pamiętam jak poszedłem później na studia, to wszyscy już tam, kurde, każdy język C, C++ i tak dalej.
+
+21
+00:02:25,000 --> 00:02:30,000
+A ja, kurde, 3 worda znałem i to było wszystko.
+
+22
+00:02:30,000 --> 00:02:33,000
+Więc to było też ciekawe.
+
+23
+00:02:33,000 --> 00:02:42,000
+No i powiedzmy, że od tego czasu jakby byłem przy kompach, tam mówię bardziej półkomercyjnie, coś tam za to zawsze dostałem.
+
+24
+00:02:42,000 --> 00:02:53,000
+Ale tak naprawdę przygoda to były studia. Na studia poszedłem na Politechnikę, na informatykę, na Politechnikę Poznańską.
+
+25
+00:02:54,000 --> 00:03:08,000
+I idąc tam, jakby wiedząc, znając miejsce w szeregu, że ja nie jestem programista, ja nie jestem gościu, który, wiesz, robił tam lata i kurcze, kodził i sobie jakieś tam gierki na boku i inne rzeczy tworzył.
+
+26
+00:03:08,000 --> 00:03:13,000
+To ja mówiłem, że nie, to pewnie nie będzie dla mnie, ja muszę bardziej od strony jakby podejść.
+
+27
+00:03:13,000 --> 00:03:22,000
+Ja sobie wybrałem networking i robiłem tam CCNA, jest taki, powiedzmy, droga certyfikująca.
+
+28
+00:03:22,000 --> 00:03:25,000
+Generalnie urządzenia Cisco i networking.
+
+29
+00:03:25,000 --> 00:03:27,000
+Aha, czyli zarządzanie siecią, tak?
+
+30
+00:03:27,000 --> 00:03:34,000
+Takie zarządzanie siecią, myślałem, że to jest w miarę łatwiejszy temat dla mnie, bo to też było z sieciami z kablówką jakby.
+
+31
+00:03:34,000 --> 00:03:41,000
+Mój ojciec miał kablówkę, więc jakby po drodze to było, że to są sieci, kabluwa, no to sieci, no dobra, no to będę sieci.
+
+32
+00:03:41,000 --> 00:03:45,000
+W domu też miałem LAN-a, jak graliśmy w CS-ach, to musiałeś złączyć te kompki.
+
+33
+00:03:46,000 --> 00:03:49,000
+Wydawało mi się, że to też taka w miarę łatwa droga.
+
+34
+00:03:51,000 --> 00:03:59,000
+I co najlepsze, okazało się, że powiedzmy zacząłem te studia, studia się okazały dosyć ciężkie.
+
+35
+00:03:59,000 --> 00:04:05,000
+Na dziennych tam powiedzmy na Polibudzie dla mnie to był strzał w kolano, jednak te programistyczne tematy były, ich było dosyć dużo,
+
+36
+00:04:05,000 --> 00:04:12,000
+a ja cały czas z uporem maniaka, że to nie dla mnie, więc ja w ogóle programować nie mogę i nie chcę,
+
+37
+00:04:12,000 --> 00:04:17,000
+bo ja będę po prostu robić co innego, bo pewnie jest, wiadomo w IT jest tyle rzeczy, że nie muszę tego robić.
+
+38
+00:04:17,000 --> 00:04:19,000
+Pisaliście C++-a na kartkach papieru?
+
+39
+00:04:19,000 --> 00:04:24,000
+No tam Pascala bardziej jeszcze, także hardcore taki konkretny.
+
+40
+00:04:26,000 --> 00:04:27,000
+No i zawaliłem studia.
+
+41
+00:04:27,000 --> 00:04:34,000
+Jakby udało mi się na drugi rok wskoczyć, trochę tam pojawiła się obecna moja żona,
+
+42
+00:04:34,000 --> 00:04:39,000
+wcześniej dziewczyna, gdzie dużo bywałem w Toruniu zamiast w Poznaniu na zajęciach,
+
+43
+00:04:39,000 --> 00:04:46,000
+także trochę było odskoczni i rozrywkowy tryb życia i generalnie stwierdziłem, że...
+
+44
+00:04:46,000 --> 00:04:54,000
+No i nie robiłem tego programowania i tak powoli się zaczęło robić coraz gorzej, coraz gorzej, coraz gorzej i się ucięło tak naprawdę.
+
+45
+00:04:54,000 --> 00:04:56,000
+Musiałem przerwać studia, bo...
+
+46
+00:04:56,000 --> 00:04:57,000
+Na drugim roku, tak?
+
+47
+00:04:57,000 --> 00:05:05,000
+Na drugim roku, tak. Dokładnie miałem, bo myślałem, że uda mi się wskoczyć na drugi rok mając jakieś tam tu czwórka, tam coś,
+
+48
+00:05:05,000 --> 00:05:07,000
+tam jakieś oceny, że mnie przepuszczą.
+
+49
+00:05:07,000 --> 00:05:11,000
+Okazało się, że nie miałem tyle punktów, co było wymagane. Gościu jest out.
+
+50
+00:05:11,000 --> 00:05:22,000
+No i później wyjechałem sobie na sezonową pracę do Anglii, na truskaweczki.
+
+51
+00:05:22,000 --> 00:05:26,000
+Piękna praca, która uczy charakteru.
+
+52
+00:05:26,000 --> 00:05:27,000
+Charakteru uczy, na pewno.
+
+53
+00:05:27,000 --> 00:05:29,000
+Wiesz, niskie zbieranie i tak dalej.
+
+54
+00:05:30,000 --> 00:05:31,000
+Pojechaliśmy tam.
+
+55
+00:05:31,000 --> 00:05:37,000
+No i tam ja wiedziałem, jakby miałem świadomość, że wyjeżdżam tylko na sezonowe i zacznę po prostu jeszcze raz od pierwszego roku.
+
+56
+00:05:37,000 --> 00:05:40,000
+Myślałem, że zacznę od drugiego, nie udało się, więc musiałem zacząć od pierwszego roku.
+
+57
+00:05:40,000 --> 00:05:42,000
+Miałem proste dłuższą przerwę.
+
+58
+00:05:42,000 --> 00:05:48,000
+W tym czasie robiłem jeszcze certyfikat właśnie CCNA w Toruniu, czyli tam cztery semestry całe.
+
+59
+00:05:48,000 --> 00:05:55,000
+To był taki porządny jakby kurs, można powiedzieć, przygotowujący do tych narzędzi tam Cisco i dookoła.
+
+60
+00:05:55,000 --> 00:05:56,000
+Online, tak?
+
+61
+00:05:56,000 --> 00:05:59,000
+Nie, nie, to było w ogóle na Uniwerku w Toruniu.
+
+62
+00:06:02,000 --> 00:06:03,000
+Mamy czas, tak?
+
+63
+00:06:05,000 --> 00:06:06,000
+Tak, tak.
+
+64
+00:06:06,000 --> 00:06:08,000
+Nie, nie, opowiadaj, właśnie to jest ciekawe.
+
+65
+00:06:08,000 --> 00:06:12,000
+Dobra, nie wiem właśnie jak mogę daleko pływać, ale też mi się wydaje, że to jest...
+
+66
+00:06:12,000 --> 00:06:14,000
+Właśnie super, bo każdy ma, widzisz, inną drogę.
+
+67
+00:06:14,000 --> 00:06:21,000
+Ja też się bujałem od studiów do studiów i właśnie super jest to usłyszeć z twojej perspektywy, jak u ciebie to się rozwijało.
+
+68
+00:06:22,000 --> 00:06:30,000
+No bo też może fajnie jakby, nie wiem, dojdziemy trochę dalej jakby, gdzie teraz jesteśmy i przez co przeszedłem,
+
+69
+00:06:30,000 --> 00:06:38,000
+to też będzie widać, że wiadomo, że to nie jest tak, że nie wiem, musisz być jakimś powiedzmy na danym etapie życia Ekstra Liga,
+
+70
+00:06:38,000 --> 00:06:46,000
+że wiesz, że jesteś najlepszym programistą w drużynie i wiadomo, że ten gościu będzie mistrzem i wiadomo.
+
+71
+00:06:47,000 --> 00:06:54,000
+Tak, bo ja też jak przeszedłem na pierwszy rok studiów programowania, to sami spoceńcy byli tak zwani.
+
+72
+00:06:54,000 --> 00:07:02,000
+Po prostu gościu trzepał już po trzech miesiącach na programowanie i już oddawał jakąś grę na projekt.
+
+73
+00:07:02,000 --> 00:07:07,000
+A ja tam wiesz, ledwo kumałem podstawy, bo tak samo nie miałem programowania na zajęciach.
+
+74
+00:07:07,000 --> 00:07:15,000
+U nas w szkole informatyka to był Paint, może trochę Worda i CS GO, czy tam CS 1.6 wtedy.
+
+75
+00:07:15,000 --> 00:07:22,000
+I to było wszystko. Także fajnie właśnie, że opowiadasz o tym i mówisz, że ta droga nie jest taka prosta,
+
+76
+00:07:22,000 --> 00:07:27,000
+jak każdy sobie wyobraża, że wiesz, że musisz być od razu techniczny, od razu nastawiony na to,
+
+77
+00:07:27,000 --> 00:07:33,000
+że będziesz informatykiem, programistą, tylko to nie jest takie proste. Są wzloty i upadki.
+
+78
+00:07:33,000 --> 00:07:39,000
+Wiadomo, że musisz być ostro determinowany na przestrzeni. To jest taki maraton.
+
+79
+00:07:39,000 --> 00:07:44,000
+To nie jest, że jakaś jedna twoja błędna decyzja zaważy o tym losie.
+
+80
+00:07:44,000 --> 00:07:49,000
+No wiadomo, właśnie tutaj idąc dalej, teraz jak poszedłem, mieliśmy tę pracę sezonową.
+
+81
+00:07:49,000 --> 00:07:55,000
+W jakiś sposób mnie tam złapali, wyłapali, że trochę miałem lepszy ten angielski niż reszta.
+
+82
+00:07:55,000 --> 00:08:01,000
+Na tych truskawkach poziom nie był za wysoki, więc miałem pole do popisu.
+
+83
+00:08:01,000 --> 00:08:06,000
+Mimo, że nie był tu jakiś tam poziom nie wiadomo jaki, to jest też najlepsze,
+
+84
+00:08:06,000 --> 00:08:12,000
+bo ja angielski też miałem trochę jakby na zasadzie, a może nie trzeba w latach,
+
+85
+00:08:12,000 --> 00:08:17,000
+kiedy ja tam powiedzmy byłem na pierwszym podstawówce.
+
+86
+00:08:17,000 --> 00:08:20,000
+No i to był też zaniedbany temat, ale jakby sobie go nadrobiłem,
+
+87
+00:08:20,000 --> 00:08:24,000
+bo wiedziałem, że trzeba będzie może spróbować tej Anglii.
+
+88
+00:08:24,000 --> 00:08:34,000
+No i na tych truskawkach mnie wyłapali do firmy, to była tak zwana Agencja Pośrednictwa Pracy,
+
+89
+00:08:34,000 --> 00:08:38,000
+którzy szukali na truskawki, szukali na tego typu prace, na takie prace sezonowe.
+
+90
+00:08:38,000 --> 00:08:42,000
+No i mnie tam wyłapali, nagle musiałem się przebrać z krótkich spodanek na garnitu,
+
+91
+00:08:42,000 --> 00:08:49,000
+pierwsze zakupy na zasadzie, dobra jedźmy najtańsze, co będzie ubrane pięknie, mogę wchodzić do biura.
+
+92
+00:08:49,000 --> 00:08:52,000
+Przeszedłem jakieś tam trzy dni próbne, powiedzieli okej, dawaj.
+
+93
+00:08:52,000 --> 00:08:59,000
+No i zamiast w zasadzie robić na tych truskawkach, ja już po jakimś tam półtora miesiąca
+
+94
+00:08:59,000 --> 00:09:11,000
+robiłem w tym biurze i tak naprawdę tam była sytuacja, że zostawili mi propozycję,
+
+95
+00:09:11,000 --> 00:09:15,000
+czy chcę zostać u nich, dostanę tam powiedzmy podwyżkę i mogę się rozwijać.
+
+96
+00:09:15,000 --> 00:09:20,000
+No jakby Agencja Pośrednictwa Pracy, ludzie pracujący tam wiem, że dobrze też zarabiają,
+
+97
+00:09:20,000 --> 00:09:23,000
+oni mają marże, oni mają, dobrze sobie żyją.
+
+98
+00:09:23,000 --> 00:09:33,000
+Widać to nawet na przykładzie IT, jak fajnie ludzie, którzy siedzą z tym, jest ich profesją, zawód.
+
+99
+00:09:33,000 --> 00:09:36,000
+A ile miałeś lat wtedy?
+
+100
+00:09:36,000 --> 00:09:40,000
+Kurczę, pewnie z 19, 20, coś takiego.
+
+101
+00:09:40,000 --> 00:09:44,000
+I jakie to były wtedy pieniądze?
+
+102
+00:09:44,000 --> 00:09:50,000
+No zarabiałem lepiej niż na truskawkach, a na truskawkach szło też dobrze zarobić.
+
+103
+00:09:50,000 --> 00:09:58,000
+Pamiętam, że na truskawkach w takim najlepszym piku można było zebrać 60-70 funtów dziennie.
+
+104
+00:09:58,000 --> 00:10:01,000
+No to wtedy też była kasa.
+
+105
+00:10:01,000 --> 00:10:08,000
+No to było fajnie, przyjeżdżałeś i mogłeś sobie fajnie tam coś zakupić takiego konkretnego po tym.
+
+106
+00:10:08,000 --> 00:10:16,000
+Mimo, że tam trzeba było też oczywiście wydać te pieniądze na utrzymanie, ale jakby relatywnie to była spoko kasa.
+
+107
+00:10:16,000 --> 00:10:19,000
+No i ta zachęta była jednak.
+
+108
+00:10:19,000 --> 00:10:32,000
+W zasadzie teraz mi oferują podwyżkę, praca w biurze, gdzie mi się powiedzmy średnio śniło po siedzeniu w truskawkach uwalony po kolana.
+
+109
+00:10:32,000 --> 00:10:39,000
+No ale jakby trochę przez wzgląd na właśnie jakby, wiedziałem, że tą IT chciałbym jeszcze spróbować zrobić.
+
+110
+00:10:39,000 --> 00:10:41,000
+Mówię, narobić się jeszcze zdążymy.
+
+111
+00:10:41,000 --> 00:10:45,000
+Jak będę chciał pracować gdziekolwiek, to będzie na to jeszcze czas.
+
+112
+00:10:45,000 --> 00:10:49,000
+I wróciłem jeszcze raz na studia, na to samo studia.
+
+113
+00:10:49,000 --> 00:10:56,000
+To było jakoś chyba na pierwszy rok, ale udawało mi się tam od razu pewne rzeczy pozaliczać.
+
+114
+00:10:56,000 --> 00:11:03,000
+Jak miałem czwórkę i wyżej z niektórych przedmiotów, a były też takie przedmioty, to po prostu profesorowie czy tam doktorzy się zgadzali na zasadzie
+
+115
+00:11:03,000 --> 00:11:09,000
+dobra, przypiszemy Ci i nie musiałem chodzić, ale robiłem to z CCNA.
+
+116
+00:11:09,000 --> 00:11:11,000
+Ale wróciłeś do Poznania?
+
+117
+00:11:11,000 --> 00:11:18,000
+Do Poznania i tam już miałem troszeczkę inny jakiś taki błysk na zasadzie nie, nie, nie.
+
+118
+00:11:18,000 --> 00:11:23,000
+Ja nie chcę być już, ja już tam nie chcę przejść tak po lewej stronie z kumplami.
+
+119
+00:11:23,000 --> 00:11:28,000
+Coś tam tylko mówię dobra, ja spróbuję, czy programowanie to jednak może jest dla mnie.
+
+120
+00:11:28,000 --> 00:11:31,000
+Miałem taką książkę C-Sharpa, taką grubą Biblię.
+
+121
+00:11:31,000 --> 00:11:34,000
+Nie wiem ile tam pięćset, osiemset stron.
+
+122
+00:11:34,000 --> 00:11:41,000
+I ja sobie ją już zacząłem wcześniej dziergać i tak po kolei jakieś tam modułki, coś sobie zacząłem pokodzić.
+
+123
+00:11:41,000 --> 00:11:43,000
+To był C-Sharp, tak.
+
+124
+00:11:43,000 --> 00:11:45,000
+I zaczęło mi to wychodzić, nie.
+
+125
+00:11:45,000 --> 00:11:55,000
+I zajarałem się tym, że ty patrz, tutaj coś napiszesz, jakieś trzyniki i nagle z tego wychodzi, nie wiem, jakieś tam coś się rusza, coś tam się oblicza itd.
+
+126
+00:11:55,000 --> 00:11:57,000
+Pamiętasz swój pierwszy projekt?
+
+127
+00:11:58,000 --> 00:12:06,000
+Projekt, taki projekt, no nie chciałbym o nim nawet rozmawiać, bo tam były takie zboczone projekty, ja bym to nazwał, na studiach.
+
+128
+00:12:06,000 --> 00:12:14,000
+Że jakiś tam łazik, kurde, w sensie, na zasadzie oni to nazywali łazik, ale to chodziło o to, że jakieś, po prostu jakaś szachownica na zasadzie,
+
+129
+00:12:14,000 --> 00:12:23,000
+że tam przechodziły, jedynki zera się zamieniały i to było trzeba kolorować i to po prostu sobie tam chodził w ramach jakiegoś kwadratu.
+
+130
+00:12:23,000 --> 00:12:25,000
+Typowo techniczne sprawy.
+
+131
+00:12:25,000 --> 00:12:34,000
+Tak, techniczne, one miały jakieś oczywiście podstawy matematyczne itd., których nie potrafiłbym powiedzieć, bo jakby bardziej do tego podszedłem praktycznie.
+
+132
+00:12:34,000 --> 00:12:37,000
+Zrób to i do widzenia.
+
+133
+00:12:37,000 --> 00:12:45,000
+Ale tam już jakby udało mi się przez to, że trochę zacząłem tego programowania, to też podpiąłem się trochę pod takich lepszych ludzi.
+
+134
+00:12:45,000 --> 00:12:54,000
+Ja byłem lepszy z punktu widzenia, którzy robili tę robotę, no bo wiadomo, że na studiach wszędzie w szkole będziesz miał ludzi, którzy wolą kamieniami rzucać i się bawić,
+
+135
+00:12:54,000 --> 00:12:57,000
+a drudzy, którzy będą jednak coś tam się uczyć i wydaje się, że...
+
+136
+00:12:57,000 --> 00:13:02,000
+No i to drugie podejście już miałem takie, nie, nie, dobra, teraz wybierzemy to trochę inaczej.
+
+137
+00:13:02,000 --> 00:13:06,000
+No jakoś się udało, że się spasowaliśmy z kumplami.
+
+138
+00:13:06,000 --> 00:13:16,000
+Pamiętam taki Floras, który był, zapierdzielał naprawdę dobrze, programował fajnie i jakby z nim później też robiliśmy te projekty razem
+
+139
+00:13:16,000 --> 00:13:23,000
+i to nie było na zasadzie, że dobra, ty zrób, a ja się dołączę, bo można tak przejść, tylko już było na zasadzie, nie, nie, ja też chcę swoje rzeczy
+
+140
+00:13:23,000 --> 00:13:28,000
+i ja też chcę się włączać, no i nie ukrywam, było już dużo łatwiej.
+
+141
+00:13:28,000 --> 00:13:35,000
+Na tych studiach było tak, że po prostu miałeś jakiś projekt, zrobiliśmy jakiś większy projekt, który można było później lansować, trochę podopinać moduły
+
+142
+00:13:35,000 --> 00:13:39,000
+i on podpasił ci pod jakąś logikę albo inne przedmioty, nie.
+
+143
+00:13:39,000 --> 00:13:47,000
+No i tyle, no i później już nie było sytuacji, w której byłem, nie byłem nigdy, nie powiedziałbym, że nigdy nie byłem jakimś tam wyróżniającym się, wiesz,
+
+144
+00:13:47,000 --> 00:13:51,000
+programistą, który jakby jest na czele i będzie olimpiady zdobywał, nie.
+
+145
+00:13:51,000 --> 00:14:00,000
+Nie ma, nie ma opcji, tylko że z punktu widzenia teraz już, z perspektywy czasu widzę, że to też nie jest najważniejsze, nie, że jak masz,
+
+146
+00:14:00,000 --> 00:14:07,000
+jak jesteś bardziej cross-functional, że jesteś w stanie, na przykład ja jestem dobry pod kątem tych kwestii biznesowych, zrozumienia biznesu i tak dalej,
+
+147
+00:14:07,000 --> 00:14:14,000
+to nierzadko jest ważniejsze niż po prostu płynąć, specjalizować się tylko wąsko, wiesz, ja jestem techniczny guru i...
+
+148
+00:14:14,000 --> 00:14:15,000
+Oczywiście.
+
+149
+00:14:15,000 --> 00:14:21,000
+Bo to też trzeba przełożyć na świat, to też trzeba umieć zrozumieć te problemy biznesowe i tak dalej.
+
+150
+00:14:21,000 --> 00:14:33,000
+No i tyle, no studia powiedzmy, już na trzecim roku studiów złapałem pracę w takiej dziwnej firmie w Poznaniu, w dziwnej w sensie, bardzo małej firmie,
+
+151
+00:14:33,000 --> 00:14:37,000
+w jakiejś kamienicy przy Jeżycach.
+
+152
+00:14:37,000 --> 00:14:38,000
+Polski startup.
+
+153
+00:14:38,000 --> 00:14:50,000
+Polski startup, dokładnie. Rzeczywiście ciekawy, bo właściciel miał duży projekt, on dostał Rossmana i robiliśmy,
+
+154
+00:14:50,000 --> 00:15:01,000
+no dosłownie nas było trzech plus minus i dostaliśmy projekt na zasadzie całym portal Rossmana zrobić na nowo, gdzie Rossman już wtedy był w miarę rozdmuchany,
+
+155
+00:15:01,000 --> 00:15:08,000
+ale no wiadomo, teraz to już poszedł totalnie. No i trzeba było zrobić cały portal tam, czyli te moduły tam urody i tak dalej.
+
+156
+00:15:08,000 --> 00:15:17,000
+To było na SP.net i tam miałem szczęście, że trafiłem do takiego zarąbistego, doświadczonego łebka, taki Łukasz Ola Jarczuk,
+
+157
+00:15:17,000 --> 00:15:27,000
+który teraz jest też co-founderem chyba albo po prostu jest wspólnikiem w jakichś firmach, które robią apki mobilne w Poznaniu.
+
+158
+00:15:27,000 --> 00:15:35,000
+No gościu taki po prostu, który jakby był idealnym mentorem na zasadzie, że wiesz, robiłeś, po łapkach dostałeś, tutaj nie, tu rób tak i tak dalej.
+
+159
+00:15:35,000 --> 00:15:49,000
+No ja swoje rzeczy tam powiedzmy wykonywałem i ta praca się fajnie tam powiedzmy jakoś szła do przodu i to był rok, gdzie spędziłem u nich jakieś frameworki,
+
+160
+00:15:49,000 --> 00:15:57,000
+potem robiliśmy dotknętni Łuka, jakieś technologie zupełnie inne. Patrzę na czas, teraz jeszcze spokojnie.
+
+161
+00:15:57,000 --> 00:16:11,000
+Na spokojnie, na spokojnie, ja tylko tutaj tak trochę kontroluję, żebyśmy wiesz dzisiaj się wyrobili, ale ja bardzo się cieszę, że o tym mówisz i właśnie opowiadasz o tych,
+
+162
+00:16:11,000 --> 00:16:19,000
+właśnie, że ta droga, bo każdy mi się wydaje jak idzie na studia, to myśli sobie, że wszystko musi być, wiesz, ornuk niemiecki, wszystko musi być zrobione krok po kroku,
+
+163
+00:16:19,000 --> 00:16:32,000
+muszę mieć same piątki, szóstki, żeby być tą osobą, która później będzie stawiać jakieś zaawansowane systemy, a liczą się też właśnie te miękkie umiejętności
+
+164
+00:16:32,000 --> 00:16:46,000
+i później właśnie też na drodze programisty, to kto wie, czy nie liczą się trochę bardziej, właśnie, bo część jest ludzi, którzy nie potrafią kompletnie zrozumieć czym jest ten biznes i na czym on polega,
+
+165
+00:16:46,000 --> 00:16:50,000
+ale potrafią trzaskać niesamowicie techniczne aspekty takich projektów.
+
+166
+00:16:50,000 --> 00:17:06,000
+No, to jest na pewno prawda. To widać jakby, mówię, po latach tam funkcjonowania, zresztą jakby patrząc teraz na te nowe technologie, wiesz, AI i tak dalej, że zaraz w zasadzie te soft skills będą ważniejsze niż wyrycie.
+
+167
+00:17:06,000 --> 00:17:08,000
+To jest ciekawe.
+
+168
+00:17:09,000 --> 00:17:21,000
+Nie wiesz, no ci programiści, jakby myślisz, że programista, taki lajk, który nie wie co robi programista, myśli, że programista tu siedzi, on te wyniki kodu sam gdzieś tam czaruje i tak dalej.
+
+169
+00:17:21,000 --> 00:17:35,000
+A wiadomo, że chodzi przeglądarka stale, wykorzystywane są gotowce, forum otwierane, 10 forum, szukamy tego, pokaż jak zrobić parsowanie, jak zrobić tamto i po prostu wyciągasz gotowce i później to się modyfikuje.
+
+170
+00:17:36,000 --> 00:17:48,000
+Jak wiemy, nie za chwilę już jesteśmy w stanie z tego korzystać, po prostu pytając naszego starszego wujka Jaja, słuchaj, daj mi tutaj parsowanie w javascriptzie takie i takie.
+
+171
+00:17:48,000 --> 00:17:58,000
+Jak widzisz, po prostu je obrobisz sobie, to jest bardziej obróbka ze skrawaniem, a nie pełne mużdżenie, jak to od zera napisać.
+
+172
+00:17:58,000 --> 00:18:13,000
+No wiadomo, to nie jest tak jak na studiach, że na studiach musisz na egzaminie tu i teraz wiedzieć to z bańki i napisać to jak mówisz, wiesz, linijki kodu na papierze, że wiesz, że to umiesz, tylko musisz umieć się odszukać tym wszystkim, co jest ciekawe.
+
+173
+00:18:13,000 --> 00:18:17,000
+I co, startup w Poznaniu, tak? I później co dalej?
+
+174
+00:18:17,000 --> 00:18:24,000
+No i później to był Poznań, to były czasy Poznania, ale oczywiście też Toruń przez względ na moją ówczesną dziewczynę, teraz żonę.
+
+175
+00:18:24,000 --> 00:18:31,000
+Mieliśmy, było to takie rozdarcie pomiędzy właśnie Poznaniem a Toruniem ciągle.
+
+176
+00:18:31,000 --> 00:18:45,000
+Koniec już studiów, właściwie inżynierka, wymyśliłem sobie z kumplem jakiś fajny projekt, że robimy system rezerwacji miejsc w restauracji, w Silverlight'cie w ogóle, technologia, która umarła.
+
+177
+00:18:45,000 --> 00:18:53,000
+Ale oczywiście tam już jakby na tym etapie było, już wiedziałem, że to będzie Microsoft, że to będzie C Sharp, że to będzie Visual Studio, to nie będzie Eclipse, to nie będzie Java.
+
+178
+00:18:53,000 --> 00:19:09,000
+Może mieliśmy, ja wszystkie przedmioty nawet, które mieliśmy, jakieś tam rzeczy robiłem, bo mieliśmy pamiętam jedną panią doktor Cybulkę, która jakby z tego co kojarzę chciała mocno javowe tematy, więc tam jakby robiliśmy.
+
+179
+00:19:09,000 --> 00:19:26,000
+Poza tym, nie, to było wszystko jakby już Microsoft, wiedziałem, podobało mi się to właśnie, że to wykorzystanie biznesu, jakby umiejętności i rozumienia biznesu, przełożenie tego, to nie jest takie gołe, to jest wszystko Enterprise, Corporate i tak dalej.
+
+180
+00:19:26,000 --> 00:19:46,000
+Więc jakby na szczęście udało mi się tam zahaczyć. No Silverlight właśnie, to było ciekawe, że technologia, która powstawała, ona była na rozwiązania mobilne, na weby też, ale robiło się tak jak Adobe, jakieś tam animacje i tak dalej, to była odpowiedź Microsoftu.
+
+181
+00:19:47,000 --> 00:20:03,000
+Po czasie okazało się, że to nie był trafny wybór, ale Silverlight pozwolił mi raz, znaczy obroniłem, zdałem egzamin tam inżynierski, dostałem dobrą, niesłabą cenę, doktor promotor bardzo podobało mu się nasze rozwiązanie.
+
+182
+00:20:03,000 --> 00:20:28,000
+Oczywiście nie było produkcyjnie gotowe, ale dużo dopowiedzieliśmy, sprzedaliśmy i co? Na tym Silverlightowym doświadczeniu plus ASP.NET, IT.NET Nuke, Rosemary i tak dalej, to udało mi się znaleźć pracę w firmie, to była firma Jade, ówcześnie się nazywała, taki Gold Partner Microsoftu z Torunia.
+
+183
+00:20:28,000 --> 00:20:29,000
+Jade.
+
+184
+00:20:29,000 --> 00:20:30,000
+Jade.
+
+185
+00:20:30,000 --> 00:20:31,000
+To nie jest jak do Jade.
+
+186
+00:20:31,000 --> 00:21:00,000
+Nie, to było nazwisk dwóch założycieli i później drugi właściciel firmy jakoś się wycofał i wszedł na jego miejsce inny, w ogóle fajna firma, generalnie to była firma i to była też ciężka decyzja, czy ja chcę się przenosić z Poznania do Torunia, jakby Poznań trochę miasto doznań, duże miasto, sam zresztą wiesz.
+
+187
+00:21:01,000 --> 00:21:02,000
+Tak, wiem.
+
+188
+00:21:03,000 --> 00:21:04,000
+I jakby...
+
+189
+00:21:04,000 --> 00:21:05,000
+Bud da bar?
+
+190
+00:21:05,000 --> 00:21:06,000
+Tak.
+
+191
+00:21:06,000 --> 00:21:30,000
+I po prostu tam jakby wydawało mi się, że nie, nie, ja chcę w dużym mieście, ja nie chcę, po prostu podobało mi się tam życie, jakbym mógł jeszcze dobrze tam pracować, tylko mówię, tamtą firmę obecną, którą miałem, ona się trochę kończyła, już było widać, że tam się sypało strasznie, bo oni dostali za duży projekt na skalę i tak dalej, oni się po prostu wysypali.
+
+192
+00:21:30,000 --> 00:21:41,000
+No i w tym czasie dostałem tę ofertę w Toruniu i stwierdziłem w sumie, że czemu nie, przenosimy się do Torunia, będzie bliżej, nie będę musiał tyle kursować.
+
+193
+00:21:41,000 --> 00:22:01,000
+Firma wydawała się być fajna, mówię, Gold Partner Microsoftu, szeroki front plans, oni mieli zdobyty bardzo fajnie rynek, jeśli chodzi o klientów dużych, bo tam były Orange'e, tam były jakieś tam firmy farmaceutyczne, największe, ówczesne, Marsy jakieś, te od Batonów i tak dalej.
+
+194
+00:22:01,000 --> 00:22:04,000
+Bo Marsę pamiętam, jak mówiłeś.
+
+195
+00:22:05,000 --> 00:22:14,000
+Ciekawe, w ogóle nie wiedziałem, że Mars był właścicielem Snickersa, że to z Marsa wychodziło wszystko, Milky Way i tak dalej.
+
+196
+00:22:14,000 --> 00:22:16,000
+Ja myślałem, że na odwrót.
+
+197
+00:22:16,000 --> 00:22:21,000
+Ja też myślałem, że Snickers jednak wygrywa, a to okazuje się, że jednak nie.
+
+198
+00:22:21,000 --> 00:22:37,000
+Tam zacząłem pracować, też znowu trafiłem w fajnych ludzi na tamtym lata, jak teraz patrzę, że ta polska siła się śmieje zawsze, że naprawdę tam był, nie wiem, po pierwsze właściciele, super, Michał i Rafał,
+
+199
+00:22:38,000 --> 00:22:44,000
+jakby mocno charyzmatyczni, ogarnięci, tam wiesz, pływali po tym całym świecie.
+
+200
+00:22:44,000 --> 00:22:50,000
+Firma Scala, mniej więcej 50 osób w tamtym czasie w Toruniu.
+
+201
+00:22:50,000 --> 00:22:52,000
+Fajne biuro, fajni ludzie.
+
+202
+00:22:52,000 --> 00:23:00,000
+Ja w ogóle zacząłem jakoś w Silverlight, teoretycznie. Robiłem jakieś mobilki na Windows Phone'a.
+
+203
+00:23:00,000 --> 00:23:03,000
+Starego dobrego Windows Phone'a.
+
+204
+00:23:03,000 --> 00:23:14,000
+Starego dobrego i lansowałem go też, mówię, że to jest telefon, który wyprzedzi iPhone'y i w ogóle, że sam miałem zresztą na swoje potrzeby i też po to, żeby trochę testować te apki.
+
+205
+00:23:14,000 --> 00:23:17,000
+To były czasy Windows 8 wtedy?
+
+206
+00:23:17,000 --> 00:23:18,000
+To jeszcze wcześniej było.
+
+207
+00:23:18,000 --> 00:23:19,000
+A jeszcze wcześniej?
+
+208
+00:23:19,000 --> 00:23:20,000
+Tak, tak.
+
+209
+00:23:20,000 --> 00:23:22,000
+To była chyba jeszcze siódemka, mi się wydaje.
+
+210
+00:23:22,000 --> 00:23:24,000
+No, no, no.
+
+211
+00:23:24,000 --> 00:23:27,000
+I co, robiłeś tam aplikacje na Windows Phone'a?
+
+212
+00:23:27,000 --> 00:23:37,000
+No, jakieś tam parę aplikacji, oni na Marketplace chcieli wchodzić, bo była jakaś tam pula, jakaś chęć sprawdzenia, czy może to jest, skoro to była firma Microsoftowa,
+
+213
+00:23:37,000 --> 00:23:41,000
+pewnie Microsoft mówił, nie, nie, musimy tu mieć Marketplace zrobiony, róbcie apki.
+
+214
+00:23:41,000 --> 00:23:49,000
+Robiliśmy jakieś tam dziwne gierki, bardziej gierki na zasadzie, że tam jakieś, już też nie pamiętam dokładnie, jakie to były apki.
+
+215
+00:23:49,000 --> 00:24:02,000
+Ale szybko okazało się, że to nie idzie w dobrą stronę, że ta inwestycja jednak się nie zwróci, więc stwierdzili, że mnie wrzucą na CRM'a na początku.
+
+216
+00:24:02,000 --> 00:24:12,000
+Wersja jakaś czwórka Dynamics, to się nie nazywało Dynamics, to się nazywało Microsoft CRM po prostu chyba, jeszcze ówcześnie.
+
+217
+00:24:13,000 --> 00:24:25,000
+Wersja numer cztery i to było też w sumie dziwnie zrobione, wszystko bez szczegółów, ale generalnie dużo było SQL'a, transakcji, procedury składowalne.
+
+218
+00:24:25,000 --> 00:24:30,000
+To był taki dziwny system, który robiliśmy właśnie dla też jakiegoś dużego klienta.
+
+219
+00:24:30,000 --> 00:24:36,000
+To było bardzo dużo napisane w bazie danych, co już teraz się nie robi, nawet wcześniej się pewnie nie robiło.
+
+220
+00:24:36,000 --> 00:24:42,000
+Ale ja byłem świeżak, wchodzisz, tutaj masz seniorów, oni mówią co robimy, jedziemy z tym.
+
+221
+00:24:42,000 --> 00:24:51,000
+Tak zrobiliśmy, realizowaliśmy te tematy i tam później skakałem pomiędzy, tak naprawdę przez te trzy lata plus, czy cztery nawet,
+
+222
+00:24:51,000 --> 00:24:58,000
+programistycznie pomiędzy CRM'em, SharePoint'em, tym Silverlight'em na samym starcie.
+
+223
+00:24:58,000 --> 00:25:09,000
+Później mieliśmy javascriptowe tematy, jakieś Knockout.js, framework. Robiliśmy portale dla jakichś wyszukiwarek linii, nie wyszukiwania linii, tylko lotów.
+
+224
+00:25:09,000 --> 00:25:14,000
+Jakiś taki portal duży, w którym też był napisany frontend i backend. My robiliśmy dużo frontend.
+
+225
+00:25:14,000 --> 00:25:17,000
+Właściwie robiliśmy obie części, tylko inny kolega był.
+
+226
+00:25:17,000 --> 00:25:24,000
+Mówię, no też miałem właśnie fajnie, że ja tam trafiłem na takich spoko mentorów, bym powiedział taki Bartas, który był bardziej UI'owy.
+
+227
+00:25:24,000 --> 00:25:32,000
+On miał zdolności tam usability, interface i tak dalej i u niego byłem, pod jego wodzą byłem właśnie w tym Windows Phone'ie.
+
+228
+00:25:32,000 --> 00:25:41,000
+A później przeszliśmy, jak już tam się okazało, że to nie jest dobry kierunek, no to bardziej właśnie te portale, jakieś user journeys i tak dalej.
+
+229
+00:25:41,000 --> 00:25:52,000
+No i też taki, nie wiem, pamiętam Sławek, zawsze się śmiejesz, to był mój guru taki programistyczny, który po prostu siedział na suchoweczkach i tam naparzał.
+
+230
+00:25:52,000 --> 00:26:01,000
+Był naprawdę ogarnięty, zresztą na dzisiaj jest, ale fajnie było, że można było się dużo tego nauczyć.
+
+231
+00:26:01,000 --> 00:26:09,000
+No i te lata tam mijały, ja trochę zostawałem promowany, moja chęć, głód, ja chcę więcej, ja chcę więcej.
+
+232
+00:26:09,000 --> 00:26:19,000
+Raz, że kasy, dwa, że robiłem mnóstwo rzeczy, bo robiliśmy ASP.netowe rzeczy, javascriptowe, sharepointowe.
+
+233
+00:26:19,000 --> 00:26:29,000
+W takiej konsultingowej miałem możliwość spojrzenia na cały to spektrum Microsoftowego ekosystemu i to przełożyć z dużych, ogromnych firm.
+
+234
+00:26:30,000 --> 00:26:34,000
+Nie pamiętam z głowy, że tak powiem, CV, ale my naprawdę robiliśmy ciekawe rzeczy.
+
+235
+00:26:34,000 --> 00:26:39,000
+No i tam później zostałem aż promowany do tzw. architekta.
+
+236
+00:26:39,000 --> 00:26:43,000
+Czyli ile lat minęło od studiów?
+
+237
+00:26:43,000 --> 00:26:48,000
+Studiów, no to rok miałem tam 4-5 lat.
+
+238
+00:26:48,000 --> 00:26:56,000
+Czyli tak, czyli po pięciu latach takiego bardziej kręcenia się i brania odpowiedzialności na siebie większej i poznawania ludzi,
+
+239
+00:26:57,000 --> 00:27:02,000
+no twój awans był dużo bardziej owocny niż jakbyś poszedł powiedzmy klasyczną drogą programisty.
+
+240
+00:27:02,000 --> 00:27:07,000
+Gdzieś w jakiejś firmie został zatrudniony, trzymał się jej, kurczował.
+
+241
+00:27:07,000 --> 00:27:19,000
+Zdecydowanie, bo patrzę nawet teraz jak nam wpadają CV-ki, że niektórzy ludzie po 5-6 lat są, po prostu są, programują cały czas.
+
+242
+00:27:19,000 --> 00:27:28,000
+Jest senior jakiś tam deweloper tu czy tu i tak wygląda ta ścieżka, że oczywiście rozwija się w różnych technologiach i tak dalej.
+
+243
+00:27:28,000 --> 00:27:39,000
+Nic nie ujmując jakby tak, no bo nie każdy chce mieć więcej do czynienia z biznesem, co jest często trudniejsze niż po prostu zaszywam się w pokoju,
+
+244
+00:27:39,000 --> 00:27:46,000
+zrobię swoje user stories jedno, drugie, dziesiąte, skodzę, job done i tyle.
+
+245
+00:27:47,000 --> 00:27:55,000
+Najważniejsze jest to, żebym miał jak najmniej tych bugów i tyle, że się nie dogadał analityk z architektem, z biznesem i vice versa,
+
+246
+00:27:55,000 --> 00:27:58,000
+no to nie dotyczy tak do końca.
+
+247
+00:27:58,000 --> 00:28:08,000
+Więc na pewno to, że to jednak była ta droga programistyczna, ta droga Microsoftowa, która jest bardziej taka enterprise'owa
+
+248
+00:28:08,000 --> 00:28:15,000
+i też jednak, że ja tam się dosyć ostro poświęciłem, nie ukrywam, że jakby certyfikowałem się też mocno.
+
+249
+00:28:15,000 --> 00:28:21,000
+Właśnie Microsoft ma te fajne ścieżki, że możesz sobie te certyfikaty robić, one teraz się wydają takie bezsensowne,
+
+250
+00:28:21,000 --> 00:28:26,000
+a dla mnie to był taki badge, że wiesz, że zrobiłem to i dostaję puchar i po prostu sobie go odrukuję i mówię,
+
+251
+00:28:26,000 --> 00:28:32,000
+wow, mam, jestem jakiś tam associate developer, solution expert i tak dalej.
+
+252
+00:28:33,000 --> 00:28:38,000
+I to było fajne, oczywiście dla konsultingu to też było dobrze, bo Microsoft to promuje, więc to ręka rękę myje,
+
+253
+00:28:38,000 --> 00:28:44,000
+ale sam jakby wiedziałem, że ja to robię, później mówię, później poszło to bardziej już taki pre-sale,
+
+254
+00:28:44,000 --> 00:28:52,000
+bo mam te umiejętności, co mówię, miękkie i sprzedażowe i bardziej biznesowo, analityczne i tak dalej,
+
+255
+00:28:52,000 --> 00:28:56,000
+co pozwoliło mi na to, żeby na przykład być bliżej sprzedaży,
+
+256
+00:28:57,000 --> 00:29:05,000
+czyli mieliśmy te deale o jakichś takich dużych tematach, nie wiem, Orange powiedzmy robił jakąś ogromną farmę sharepointową
+
+257
+00:29:05,000 --> 00:29:13,000
+i tam trzeba było zrobić architekturę, zaproponować jakieś kurde searche, to jeszcze nie było chmurowe, to było wszystko…
+
+258
+00:29:13,000 --> 00:29:18,000
+Czyli jesteś już architektem, pracujesz dalej dla tej samej firmy, czy to już jest jakaś nowa firma?
+
+259
+00:29:18,000 --> 00:29:26,000
+Cały czas dla tej samej właśnie, tam jeszcze powiedzmy na tej pozycji architekta byłem myślę,
+
+260
+00:29:26,000 --> 00:29:31,000
+też nie pamiętam dokładnie, na link nie wyszłoby sprawdzić, ale powiedzmy plus minus rok,
+
+261
+00:29:31,000 --> 00:29:41,000
+więc rzeczywiście tam się realizowałem, tylko mówię, ja tam miałem części jakby obowiązków związane tak stricte,
+
+262
+00:29:41,000 --> 00:29:46,000
+teraz patrzę jako architekt, ale też duża część była cały czas programistycznych po prostu,
+
+263
+00:29:46,000 --> 00:29:51,000
+to były mocno hands on tak zwane, czyli po prostu siedziałem i kodziłem, czy ten jeden projekt, czy drugi,
+
+264
+00:29:51,000 --> 00:30:00,000
+ale miałem też część obowiązków właśnie wynikających z tej roli, tworzenie jakichś tam diagramów, projektowania, zaproponowania,
+
+265
+00:30:00,000 --> 00:30:08,000
+jakieś napisania, jak przygotowywaliśmy ofertowania tematów do klienta, trzeba było wycenić mniej więcej,
+
+266
+00:30:08,000 --> 00:30:20,000
+czyli też wyceny, ile plus minus wyjdzie 100 koła, czy milion. Wszędzie też jakby małym druczkiem trzeba zawsze pamiętać o tym,
+
+267
+00:30:20,000 --> 00:30:27,000
+że jeżeli to, jeżeli tamto, jeżeli tamto, jeżeli tamto, jeżeli tamto, bo jeżeli te warunki nie są spełnione,
+
+268
+00:30:27,000 --> 00:30:32,000
+no to może wyjść razy dziesięć. Tak mniej więcej to wyglądało.
+
+269
+00:30:33,000 --> 00:30:42,000
+No wartość na pewno dla biznesu jest ogromna takiej osoby, która jest właśnie biznesowo zorientowana i programistycznie zorientowana
+
+270
+00:30:42,000 --> 00:30:53,000
+i no to jest ciekawe bardzo, co mówisz. Powiedz mi, byłeś architektem w Polsce i potem co dalej? Za granicę już jechałeś?
+
+271
+00:30:53,000 --> 00:31:02,000
+No właśnie i tutaj oczywiście firma Jade, a tam jeszcze się pojawił taki wątek, że firma Jade została, oni sprzedali tę firmę.
+
+272
+00:31:02,000 --> 00:31:16,000
+Kupowała to firma, firma na początku jakaś AMG, tak się nazywała, nie z Mercedesem, ale to była firma, która była z Łodzi, jakieś tam 700 ludzi.
+
+273
+00:31:16,000 --> 00:31:24,000
+Za chwilę to AMG było wykupione przez Bulla francuskiego, który miał, nie wiem, 5000 konsultantów, a za chwilę ten Bull cały był zjedzony przez Atosa,
+
+274
+00:31:24,000 --> 00:31:35,000
+który ma, nie wiem, 150 tysięcy konsultantów, grubas. I tam było właśnie tak, że nagle się stała taka wielka korpa, co mi się bardzo nie podobało.
+
+275
+00:31:35,000 --> 00:31:45,000
+Można byłoby o tym gadać i płynąć. To jest też jeden z powodów, dla których pewnie tu siedzimy i gadamy,
+
+276
+00:31:45,000 --> 00:31:55,000
+bo ja otwierając firmę Nublado myślałem o tym, żeby nie iść w tę stronę korporacyjną.
+
+277
+00:31:55,000 --> 00:32:05,000
+Ja wiem, że to jest pewnie takie tanie, cheesy, że myśl, że pewnie koniec końców w jakiś sposób to się tam w tym kierunku i tak idzie,
+
+278
+00:32:05,000 --> 00:32:13,000
+że jeżeli jest ten rozwój i tak dalej, ta firma rośnie, rośnie, rośnie, w pewnym momencie już się niestety trzeba godzić na te korporacyjne tematy,
+
+279
+00:32:13,000 --> 00:32:15,000
+ale jak mówię, to jest pewnie osobny wątek.
+
+280
+00:32:15,000 --> 00:32:25,000
+Powiem Ci szczerze, że ja jako nowy nabytek Nublado, to zupełnie mogę to potwierdzić, że to jest prawda,
+
+281
+00:32:25,000 --> 00:32:36,000
+że nawet jak ja pracowałem wcześniej w zupełnie innych firmach, to dużo bardziej rygor pracy był zdecydowanie większy
+
+282
+00:32:37,000 --> 00:32:43,000
+i pole do popisu na tle kreatywnym było zdecydowanie mniejsze.
+
+283
+00:32:43,000 --> 00:32:51,000
+Jesteśmy wszyscy ludźmi i powinniśmy też wychodzić z takiego założenia według mnie i nawzajem siebie rozumieć.
+
+284
+00:32:51,000 --> 00:33:02,000
+I to mi się bardzo podoba u Ciebie w firmie i naprawdę to jest świetna rzecz, bo uważam, że jak mamy przestrzeń do robienia rzeczy,
+
+285
+00:33:02,000 --> 00:33:11,000
+nie tylko trzaskamy jakieś taski bezmyślnie, to jesteśmy w stanie osiągnąć dziesięciokrotnie większe rezultaty w dużo krótszym czasie,
+
+286
+00:33:11,000 --> 00:33:20,000
+bo nasz właśnie to się mówi slow mind, działa dużo lepiej, jesteśmy w stanie lepiej przemyśleć pewne rzeczy i mieć po prostu zdecydowanie lepsze rezultaty.
+
+287
+00:33:20,000 --> 00:33:22,000
+Także to jest świetna część Twojej firmy.
+
+288
+00:33:22,000 --> 00:33:24,000
+Super, dzięki. Cieszę się, że...
+
+289
+00:33:24,000 --> 00:33:27,000
+Znaczy też pewnie dlatego tutaj jesteśmy, nie?
+
+290
+00:33:27,000 --> 00:33:39,000
+Bo jakby, wiesz, wcześniej nie miałem żadnych przyjemności z kamerą oprócz może wesela i paru innych eventów, na których średnio wypadłem,
+
+291
+00:33:39,000 --> 00:33:51,000
+ale jakby tutaj też szacun, że widzisz, pojawiasz się, mówimy, dobra, co byś chciał, co trzeba zmienić, co trzeba zrobić i idziemy i wdrażamy te tematy, tak?
+
+292
+00:33:51,000 --> 00:33:56,000
+Tak, opowiadamy właśnie historię Nublandu, jak to się zaczęło od początku.
+
+293
+00:33:56,000 --> 00:34:02,000
+To jest też super właśnie, że można po prostu o tym powiedzieć. Ja to niejednokrotnie opowiadałem różnym ludziom, tak?
+
+294
+00:34:02,000 --> 00:34:14,000
+Bo to wiadomo, rodzinie, przyjaciołom, znajomym te rzeczy się opowiada, ale to gdzieś tam zostaje w głowach i później, nie wiem, idziesz do firm i chcesz im coś powiedzieć,
+
+295
+00:34:14,000 --> 00:34:22,000
+to tak naprawdę musiałbyś to od nowa mówić, nikt nie ma na to czasu, chęci i tak dalej, więc myślę, że to jest spoko pomysł.
+
+296
+00:34:22,000 --> 00:34:26,000
+Zresztą sprawdzony, tak? To nie jest, że my tutaj coś odkrywamy na nowo.
+
+297
+00:34:26,000 --> 00:34:27,000
+Tak jest.
+
+298
+00:34:27,000 --> 00:34:30,000
+Więc wiadomo, ale dobra.
+
+299
+00:34:30,000 --> 00:34:33,000
+Skończyłeś na Atosie, tak?
+
+300
+00:34:33,000 --> 00:34:34,000
+Dokładnie.
+
+301
+00:34:34,000 --> 00:34:46,000
+Zrobiło się corpo. Ja mimo moich wielokrotnych tutaj odkrywam podwyżek i tych upgrade'ów, jeżeli chodzi o…
+
+302
+00:34:46,000 --> 00:34:55,000
+Tak naprawdę patrząc z perspektywy widzę, że tam przeskoczyłem też pewnie niektórych, którzy byli po prostu dobrymi, zajebistymi programistami, tak?
+
+303
+00:34:56,000 --> 00:35:02,000
+I oni nie mieli takiego drive'a, że wiesz, ciągła zmiana, ciągle, dobra, ja zrobię, co chcecie, dwa certy? Dobra, zrobię wam te dwa certy.
+
+304
+00:35:02,000 --> 00:35:07,000
+Chcecie to? Dobra, dużego klienta musisz ogarnąć sam? Ok, ogarniam go, tak?
+
+305
+00:35:07,000 --> 00:35:17,000
+Jedziemy do Warszawy i siadamy tam z ludźmi, wiesz, z jakimiś tam dyrektorami różnych działów i proponujemy tu rozwiązania, próbujemy to sprzedać.
+
+306
+00:35:17,000 --> 00:35:23,000
+Myślę, że z dobrym skutkiem, jakby potwierdzeniem tego były jednak moje tam, powiedzmy, promocje, ale mi było ciągle mało, nie?
+
+307
+00:35:23,000 --> 00:35:40,000
+Na zasadzie, że ja mówię, kurczę, no i poszedłem do właśnie tych moich kolegów, właścicieli, bo tam był też super stosunek taki na ty, to nie było na zasadzie, wiesz, szefie, coś tam, tylko super imprezy w ogóle, super vibe i tak dalej.
+
+308
+00:35:41,000 --> 00:35:53,000
+Chciałbym też jakby to w mojej firmie zaszczepić i mieć. U nas jest trochę, powiedzmy, trudniej, bo my pracujemy mocno zdalnie, więc to jest duża przeszkoda, ale to też jest coś, co można byłoby sobie pogadać dłużej.
+
+309
+00:35:55,000 --> 00:36:02,000
+I ja mówię, nie, ja chcę coś robić zagranicznego. No i jak się pojawiła KORPA, to rzeczywiście mieliśmy jakieś duże projekty francuskie.
+
+310
+00:36:03,000 --> 00:36:14,000
+Na przykład francuski, czy to był chyba francuski, albo szwajcarski, Schneider, taka firma, która łącza wszystko, elektrownie, jakieś sprzęty i tak dalej. Robiliśmy im jakiegoś wielkiego SharePointa, ale to był bardziej support.
+
+311
+00:36:15,000 --> 00:36:26,000
+Do nas padały takie, my byliśmy takim near-shore'em, nie offshore'em jeszcze, ale praktycznie traktowanym, jak wiesz, tutaj jakiś task, proszę, pyk, masz tu opis, jedziesz.
+
+312
+00:36:26,000 --> 00:36:30,000
+Nikogo nie znasz, nic, nie wiesz, ciśniesz go, no i dobra, tam szukasz, zrobiłeś.
+
+313
+00:36:31,000 --> 00:36:43,000
+Jakby to już nie był ten, nie czułeś tego drive'a, że wiesz, że ty byłeś na jakimś spotkaniu, z kimś tam gadałeś, coś zrobiłeś, tylko to było na zasadzie, że wiesz, tam jakieś taski też, że taki bardziej model się zrobił supportowy.
+
+314
+00:36:44,000 --> 00:36:52,000
+Oczywiście były też przestrzenie na nowych klientów i tak dalej, to się działo, ale trochę jakby się zajarałem przez to, że trochę pewnie byłem w tej Anglii,
+
+315
+00:36:53,000 --> 00:37:06,000
+czyli miałem taką myśl, że coś trzeba byłoby może na zachodzie zobaczyć, czy nie jest inaczej, no i tam mocno ich ścisnąłem, żebyśmy coś spróbowali, czy mają jakiś projekt, niech mnie gdzieś wyszlą, no i wysłali mnie do Brukseli w ogóle.
+
+316
+00:37:06,000 --> 00:37:14,000
+Też taka ciekawa przygoda niedługa, na jakiś projekt sharepointowy miałem zrobić, tam dobra, mówiłeś, skończ gadać, jeźdź do tej Brukseli.
+
+317
+00:37:15,000 --> 00:37:22,000
+Czyli twoja inicjatywa, tak? Wziąłeś po prostu stery i mówisz, ja chcę gdzieś jechać, chcę zobaczyć coś nowego, a nie tutaj wiecznie to samo klepać.
+
+318
+00:37:23,000 --> 00:37:31,000
+Dokładnie, mówię, muszę coś zobaczyć, czy u tego sąsiada ta trawka jest taka inna, no i nie ukrywam, że wiadomo, jest inna, tak wszystko jest takie świeże na starcie,
+
+319
+00:37:31,000 --> 00:37:43,000
+że wjeżdżasz tam u nas w tej Polsce, w tej Polsce, jestem z powrotem, zaraz się dowiemy, ale generalnie takie było moje patrzenie, że chcę zobaczyć, jak to wygląda gdzie indziej.
+
+320
+00:37:44,000 --> 00:37:54,000
+Spędzałem na ten projekt trzy tygodnie, to było takie życie bardziej w hotelu, później sterowałem ten projekt trochę z Polski, już nie było potrzeby, jeszcze raz może tam pojechałem na jakiś tydzień czy coś i tyle.
+
+321
+00:37:55,000 --> 00:38:02,000
+No i też ciekawie w tej Brukseli, że się dowiedziałem, że w sumie to jest taka trochę Francja, trochę Holandia.
+
+322
+00:38:03,000 --> 00:38:10,000
+Mówię, bagietki jedliśmy, te lunche w ogóle, mówię, fajnie, kurczę, wszyscy wychodzą, nie tak jak u nas, że tam w tym biurze wszyscy zaszyci.
+
+323
+00:38:11,000 --> 00:38:13,000
+Tak, trochę inna kultura pracy na zachodzie.
+
+324
+00:38:14,000 --> 00:38:18,000
+Lunch sztywno, trzynasta, dwunasta, nie ma zmiłuj, musi być.
+
+325
+00:38:19,000 --> 00:38:26,000
+Dwie godziny nawet może być, mieliśmy taką opcję, kiedyś ci koledzy mówią, dobra jedziemy na lunch, ale musimy autem, bo to jest daleko.
+
+326
+00:38:27,000 --> 00:38:36,000
+Ja mówię, ale jak, wprzedamy na auto, jedziemy, godzinę czy pół, czy czterdzieści minut powiedzmy się jechało do tego miejsca, gdzieś tam poza Brukselą wysiadamy,
+
+327
+00:38:37,000 --> 00:38:45,000
+czy tam powiedzmy jeszcze Bruksela to może była, ale generalnie jakaś taka mała restauracja i tam normalnie godzinę, restauracja, lampka, wina, druka, siedzimy.
+
+328
+00:38:46,000 --> 00:38:49,000
+Dwie godziny minęły, wracamy do biura, mówimy, dobra, teraz trzeba coś robić.
+
+329
+00:38:50,000 --> 00:38:52,000
+To jest szok kulturowy.
+
+330
+00:38:53,000 --> 00:39:02,000
+Było to naprawdę ciekawe, w ogóle ten francuski język i tak dalej, ja tam po angielsku próbowałem, ale tam była tragedia z angielskim.
+
+331
+00:39:03,000 --> 00:39:14,000
+Akurat gościu, z którego ja zbierałem wymagania i z którym bezpośrednio pracowałem, to on był straszny z angielskiego, ale próbował na wszystkie możliwe sposoby.
+
+332
+00:39:15,000 --> 00:39:19,000
+Był super człowiek, generalnie widać było, że się starał, ale nie było łatwo.
+
+333
+00:39:20,000 --> 00:39:28,000
+No i co, wróciłem, tam znowu jakby mi jest wszystko tak jakoś, nie wiem, nie mogę mu siedzieć na tyłku.
+
+334
+00:39:29,000 --> 00:39:36,000
+No już posmakowałeś, jak jest na zachodzie, zobaczyłeś coś innego, widzisz, że się da, że możesz wyjechać, że są różne opcje.
+
+335
+00:39:37,000 --> 00:39:45,000
+Dokładnie, było tak, że tu niby z drugiej strony mówisz firma, kariera, widzisz, że się jakoś tam pniesz, w dobrym kierunku to zmierza.
+
+336
+00:39:46,000 --> 00:39:56,000
+No i co, już była sytuacja, w której my planujemy, to było też najśmieszniejsze, planujemy z Martą ślub.
+
+337
+00:39:57,000 --> 00:40:07,000
+Ja stwierdziłem, że poszukam, spróbuję coś znaleźć na zachodzie, nie myślałem, że mi się uda, stwierdziłem w tamtym momencie, że szukam czegoś na zachodzie.
+
+338
+00:40:07,000 --> 00:40:17,000
+No i oczywiście target był w zasadzie Londyn, w sensie UK i tak naprawdę tylko UK, ale przez przypadek wpadła mi firma z Irlandii.
+
+339
+00:40:18,000 --> 00:40:23,000
+A jak szukałeś, jak znalazłeś, usiadłeś do kompa, jakaś agencja, jak to wyglądało wtedy?
+
+340
+00:40:23,000 --> 00:40:42,000
+Wiesz, sam pracowałem w agencji, oczywiście pośrednictwa pracy, czyli jakby wiedziałem, więc co, generalnie to były portale jakieś, było takie coś jak CW Jobs, CoUK chyba?
+
+341
+00:40:42,000 --> 00:40:43,000
+Tak.
+
+342
+00:40:43,000 --> 00:40:44,000
+Znasz?
+
+343
+00:40:44,000 --> 00:40:45,000
+Znasz.
+
+344
+00:40:45,000 --> 00:40:56,000
+Brzydka strona strasznie, ale kurczę miała najlepsze oferty, w sensie takim, że miała od razu kontrakty, było widać na talerzu ile płacą i tam patrzyłem te dniówki i mówię, wow, to jest szokers.
+
+345
+00:40:56,000 --> 00:40:57,000
+Zupełnie inna kasa.
+
+346
+00:40:58,000 --> 00:41:13,000
+Mówisz do Funi, wiesz, dla takiego świeżaka jak ja w tamtym czasie, mimo że niemało zarabiałem w Polsce, nie oszukujmy się, ale cały czas mówię, nie, nie, ja chcę to zobaczyć, ja chcę pójść na swoje.
+
+347
+00:41:14,000 --> 00:41:32,000
+No i co, tam była sytuacja, w której odezwała się firma, miałem rozmowę z jakimś tam practice managerem z CRM-a i odezwała się firma, wcześniej się nazywała jeszcze Codec DSS, to był Gold Partner Microsoftu.
+
+348
+00:41:33,000 --> 00:41:45,000
+Przeszedłem rozmowę, powiedzieli, stary, dawaj, przenoś się do nas, a ja mówię, ale jak, słuchajcie, jak ja mam się teraz przenieść, wiesz, to nie były jeszcze czasy zdalne, to było wszystko na miejscu, większość na miejscu.
+
+349
+00:41:46,000 --> 00:41:58,000
+Trzeba było, no i ja byłem, w sumie co, parę tygodni, nie parę tygodni, no parę tygodni przed ślubem, mocno zaawansowany już temat, no ale mówimy, nie, dostałem jakąś ofertę taką, nie do odrzucenia,
+
+350
+00:41:59,000 --> 00:42:19,000
+poszedłem do moich, niestety właścicieli są ciężką informacją, że słuchajcie, jakby ja wiem, że dostałem co chciałem, lubię to wszystko fajnie i tak dalej, ale po prostu nie mogę, muszę uciec, muszę zobaczyć, tak, jak nie zobaczę to nie wyjadę,
+
+351
+00:42:19,000 --> 00:42:37,000
+po prostu będę siedział i zostanę w Toruniu, czy nie wiem, wybierzemy jakieś inne miasto, ale generalnie już będzie koniec, no i co, decyzja została podjęta, samolot, hotel, na początku miałem hotel przez pierwszy miesiąc chyba w Dublinie i tam się zaczęła przygoda.
+
+352
+00:42:38,000 --> 00:42:50,000
+Czyli wyjechałeś do Dublina, dostałeś nową pracę u nich, dobrze płatną, byłeś zadowolony, nowa przygoda, nowy rozdział, co dalej?
+
+353
+00:42:50,000 --> 00:43:17,000
+Dokładnie, dokładnie, no i tam też znowu firma podobna do tej, co w Polsce, tylko trochę większa, oczywiście Irlandia, czyli najpierw zderzyć się znowu z kulturą, z językiem w ogóle, jakby nadrobić ten temat, że mówić po tych rzeczach funkcjonalnych i tak dalej, które rozmawialiśmy w Polsce i mimo, że mieliśmy zagranicznych klientów i często było to po angielsku, no ale tam jednak stale rozmawiać, siedzieć w biurze z ludźmi, którzy tylko mówią tym pięknym akcentem irlandzkim.
+
+354
+00:43:17,000 --> 00:43:24,000
+Irlandzki jest bardzo charakterystyczny i może nie aż taki zły jak szkocki, ale też jest mocny.
+
+355
+00:43:24,000 --> 00:43:39,000
+Sam wiesz, też można by było poopowiadać, no ale ogólnie były naprawdę znowu fajne projekty, znowu bardzo dobry prospekt, jeśli chodzi o firmę, bo widać było, że oni byli na fali wzrostu.
+
+356
+00:43:39,000 --> 00:44:00,000
+Oni mieli super klientów dużych, mieli tam powiedzmy Generali, tą firmę ubezpieczeniową pod Dublinem, mieliśmy tam Ministry of Defense Irland, jakieś projekty, mieliśmy Cork Council, czyli rada miasta Cork.
+
+357
+00:44:01,000 --> 00:44:14,000
+Tam w ogóle mieli akcent tak poryty, że ja byłem tam po prostu przestraszony, czy ja w ogóle coś rozumiem. Wiesz, na zasadzie wiedziałem co mam zrobić, bo tam robiliśmy jakiś liter fine system, to było wszystko CRM-owe.
+
+358
+00:44:14,000 --> 00:44:33,000
+Oni oczywiście mieli i SharePointy i tam inne rzeczy, ale generalnie CRM. Dynamics w tamtym już czasie, to było głównie 2011, ale robiliśmy migracje z trójki, jakieś jeszcze w ogóle masakra stare takie rozwiązania, migrowaliśmy je na nowsze rzeczy.
+
+359
+00:44:33,000 --> 00:44:49,000
+No i tam było już typowo, było kilka tych klientów, później już jak wszedłem na Generali, to tam siedziałem i tam się rozwijałem, tam mieliśmy dosyć dużą implementację i tam sobie leciałem z tym.
+
+360
+00:44:50,000 --> 00:45:12,000
+No i było super niby, ale ciągle był, nie wiem, jakoś Dublin, jakaś kolejna wyspa, wyspa za wyspą i mówię, w tym czasie chyba moja mama już była w Anglii, więc jakby cały czas myśleliśmy, nie, nie, to musi być jednak UK, Anglia, bo ja mówię o Dublin, czyli Republic of Ireland, nie Irlandia Północna.
+
+361
+00:45:13,000 --> 00:45:32,000
+Więc jakby cały czas nas to trochę tam kierowało, no i co, wróciłem oczywiście na wesele, nie miałem jego zdolnych, zdolnie, także pojawiłem się, pojawiliśmy się i później już z żoną stwierdziliśmy, że się przeprowadzamy, tam poszukaliśmy mieszkania, ogólnie hardcore było znalezienie mieszkania, jak w Londynie się wydaje, że jest ciężko znaleźć mieszkanie.
+
+362
+00:45:32,000 --> 00:45:33,000
+A, czyli do Londynu, tak?
+
+363
+00:45:34,000 --> 00:45:50,000
+No nie, nie, wróciliśmy właśnie do Irlandii, tylko że ja już wiesz, z hotelu musiałem raczej się wynieść, mieszkanie znaleźć, a to było strasznie ciężkie, z moim jakby, wiesz, z moją historią, bo wiesz sam, jak wyglądało znalezienie mieszkania, jeżeli nie masz historii, nie masz referencji.
+
+364
+00:45:50,000 --> 00:46:12,000
+Musisz mieć jakąś agencję, która za ciebie potwierdzi, albo w ogóle kiedyś to było jeszcze trudniejsze wtedy, bo mi się wydaje, że to z biegiem czasu tych agencji coraz więcej wpłynęło na powierzchnię i sami wyłapywali takie rzeczy na Facebooku, na grupach facebookowych, ale w tamtych czasach rzeczywiście tego jeszcze nie było, nie? Pierwsze mieszkanie zdobyć to był wyczyn.
+
+365
+00:46:12,000 --> 00:46:31,000
+No mówię, masakra, tam castingi, wiesz, stali ludzie. Wziąłem jakieś takie straszne mieszkanie, straszne, że myślałem, że nie przeżyję tego, jak Marta to zobaczyła, ale generalnie tam mieszkaliśmy, później znaleźliśmy jakieś tam inne mieszkanie, udało się nam wcisnąć przez firmę.
+
+366
+00:46:31,000 --> 00:46:51,000
+Pracowaliśmy, ja sobie pracowałem, pracowałem, pracowałem i co? Okazało się, że Marta znalazła pracę w Londynie w konsulacie, więc mieliśmy możliwość i zastanawialiśmy się, czy się nie przenieść po prostu.
+
+367
+00:46:51,000 --> 00:47:11,000
+Powiedziałem, że już z doświadczeniem moim nie ma możliwości, żebym ja sobie w Londynie czegoś nie znalazł, więc podjęliśmy decyzję, że się przenosimy do Londynu, co będzie bliżej, jak mama gdzieś tam w Gloucester, w Straude w zasadzie i to będzie po drodze bardziej, jedna wyspa mniej.
+
+368
+00:47:11,000 --> 00:47:23,000
+Mieliśmy też auto, przejażdżka, autem zapakowanym całym, jak ludzie z trzeciego świata na promie przewaleni, po prostu hardcore.
+
+369
+00:47:23,000 --> 00:47:34,000
+Przenieśliśmy się do Londynu, ja już w tym czasie zdążyłem połapać sobie pracę dla dużego konsultanta, znowu jakiejś tam konsultingowej dużej firmy, która się nazywała Cyber.
+
+370
+00:47:35,000 --> 00:47:40,000
+I oni mieli trochę dziwne jakieś sytuacje, że mieli taki super monopol na Dynamicsa.
+
+371
+00:47:40,000 --> 00:47:44,000
+I byli w sumie najwięksi w UK, jeśli chodzi o obstawienie Dynamicsów.
+
+372
+00:47:44,000 --> 00:47:48,000
+Oni robili najwięcej banków, jakichś tam tematów.
+
+373
+00:47:48,000 --> 00:47:50,000
+Monopol na całą Anglię praktycznie.
+
+374
+00:47:50,000 --> 00:47:51,000
+Tak.
+
+375
+00:47:51,000 --> 00:47:59,000
+Dziwnie, bo ja też wpadłem, i to było też takie dziwne, że łatwo jest znaleźć w firmie takiej konsultingowej ci pracę, bo oni mają wiele projektów.
+
+376
+00:47:59,000 --> 00:48:05,000
+Więc ja przyjeżdżając tam, obsadzili mnie na projekt, to był prywatny bank, Seahorse Bank.
+
+377
+00:48:05,000 --> 00:48:16,000
+Chyba drugi czy trzeci najstarszy na świecie, gdzie rodzina właścicieli, założycieli tych pierwotnych ciągle jest partnerami banku,
+
+378
+00:48:17,000 --> 00:48:21,000
+w ogóle zupełnie inny świat, w City, w Londynie.
+
+379
+00:48:21,000 --> 00:48:42,000
+I znowu sytuacja taka, że tam nie było casual Fridays, cały czas podpięty, po sam komin, garnitury, krawaty i po prostu mówię, no jak, przecież my z IT na zasadzie...
+
+380
+00:48:43,000 --> 00:48:48,000
+Ale to też warto powiedzieć, że to nie był chyba zwykły bank, prawda? Nie taki ogólnodostępny?
+
+381
+00:48:48,000 --> 00:49:03,000
+Nie, nie, nie. To był bank, to już się zauważyłeś. Generalnie tam jest tak, że jednak oni są bardziej formalnie ubrani, mimo że pracujesz w banku i tak dalej, jednak w tym City, czy na Kanarach, w tym Londku się chodzi bardziej formalnie.
+
+382
+00:49:03,000 --> 00:49:14,000
+Ale rzeczywiście ten bank, to nie był bank, w którym mogłeś sobie, nie wiem, założyć konto z ulicy. Trzeba było mieć albo referencje, najlepiej królewskie, albo jakimś aktorem być i tak dalej.
+
+383
+00:49:14,000 --> 00:49:25,000
+Też sporo kasy na koncie od razu trzeba było wcisnąć i tak dalej, żeby w ogóle być. To jest prywatny bank, tych banków nie ma aż tak dużo w tym private banking sector w Londynie.
+
+384
+00:49:25,000 --> 00:49:32,000
+W ogóle dowiedziałem się, że takie coś istnieje i funkcjonuje. No ale przez ten cyber mnie tam rzucili, a tak naprawdę ja z cyber nie miałem nic do czynienia.
+
+385
+00:49:32,000 --> 00:49:41,000
+To było na zasadzie, położyli mnie na ten projekt i jakiś tam menedżer raz na miesiąc, jak się pojawił, to się pojawił, a jak nie, to nie. Ja już sam to ogarniałem.
+
+386
+00:49:42,000 --> 00:49:55,000
+I to był w sumie pierwszy raz, jak udało mi się wejść na jednego takiego klienta, w którego robiłem full time. Nie było sytuacji, w której ja byłem, wiesz, rozgarnię, na przykład byłem na pięciu projektach.
+
+387
+00:49:55,000 --> 00:50:04,000
+Jak byłem w Polsce, to byłem na ośmiu. Tu robiłem jakiś pre-sale, tam robiłem jakieś funkcjonalności w kodzie, coś tam. W Dublinie znowu też tak było, przez to, że to był konsulting.
+
+388
+00:50:04,000 --> 00:50:18,000
+Oni tam wyciskali z ciebie śruby, jak się dało, śruby SOKI. I tam trzeba było robić na przykład, nie wiem, właśnie ten jeden generali, później gdzieś tam mnie wysłali na południe do tego KORK, jakiś zupełnie inny system, jakiś coś tam.
+
+389
+00:50:18,000 --> 00:50:31,000
+Była straszna, duża dynamika, ale też super nauka, bo każdy projekt jest zupełnie inny. Niby ta sama platforma, a platforma jest tak złożona, że tam możesz mieć, wiesz, tu masz takie integracje, tam masz takie.
+
+390
+00:50:31,000 --> 00:50:34,000
+Tam byli tacy deweloperzy, tam byli tacy ludzie, wiesz.
+
+391
+00:50:34,000 --> 00:50:36,000
+Mówisz o Dynamicsie cały czas, tak?
+
+392
+00:50:36,000 --> 00:50:51,000
+Dynamics bardzo rzadko jest sam z sobą. Dynamics zawsze jest częścią integralną większej grupy systemów i to jest pewnie najtrudniejsze, bo ludzie, pewnie będziesz się spotykał z opiniami, że Dynamics jest ciężki, że to jest drogi i tak dalej.
+
+393
+00:50:51,000 --> 00:51:07,000
+Drogi nie jest. Jeżeli chcesz go obsadzić całym, chcesz go zrobić corem do wszystkiego, to tak, no to musisz mieć złożone integracje, musisz mieć, wiesz, to się pojawia, rzeczywiście pojawiają się przeszkody.
+
+394
+00:51:08,000 --> 00:51:21,000
+Szybko przeleć ten temat cyber. Cyber było krótko, później w zasadzie przeszedłem bezpośrednio do tego Seahorse Bank. Ja miałem swoją spółkę założoną już w Irlandii, w sumie pracowałem przez Umbrella.
+
+395
+00:51:21,000 --> 00:51:23,000
+Czyli podkradli cię tam, tak?
+
+396
+00:51:24,000 --> 00:51:44,000
+Podkradli mnie, ja tam miałem akurat taką możliwość, że cyber generalnie oni się też chyba przeskalowali i ta firma, właściwie takiej ogromnej firmy na zasadzie, że miała najlepsze projekty, oni nie byli duzi, oni mieli po prostu najlepsze projekty i zniknęli.
+
+397
+00:51:44,000 --> 00:52:03,000
+Tam puknęli ich po prostu jakieś inne konsultingowe firmy. Ja przeszedłem tam bezpośrednio do tego Seahorse Banku, chyba robiłem tam ponad trzy lata czy cztery jako B2B, na zasadzie swoje limited company w Londynie czy w UK założone i dla nich realizowałem projekty.
+
+398
+00:52:03,000 --> 00:52:16,000
+To był pierwszy taki projekt prawdziwy, w którym też trafiłem na super gości. Jeden entuzjasta ogromny, Colin taki, który obecnie tam jest CEO gdzieś w jakiejś dużej firmie, on był entuzjastą agile'owym.
+
+399
+00:52:16,000 --> 00:52:31,000
+Wiesz, na zasadzie jakiejś rysowanki. Po prostu się zajarał i stwierdził w tym starym banku, zróbmy jakąś rewolucję, innowację, na zasadzie przestańmy latać od biurka do biurka, zróbmy po prostu wszystkie ceremonie agile'owe.
+
+400
+00:52:31,000 --> 00:52:44,000
+Tak naprawdę i tam zacząłem też się trochę jarać agile'em, zacząłem czytać o tym, że mówię no co to takiego jest, z czym to się je, wcześniej słyszałem, że są technologie zwinne, ale nigdzie to nie funkcjonowało na tyle.
+
+401
+00:52:44,000 --> 00:52:56,000
+No może jeszcze w naszej firmie w Polsce, pamiętam my tego agile'a robiliśmy, tylko że to nie był taki prawdziwy agile, dlatego że jak robisz coś in-house'owo w ramach firmy i później coś tam wysyłasz, to i tak jest zawsze waterfall.
+
+402
+00:52:56,000 --> 00:53:03,000
+Zbierasz wymagania, mieliśmy zawsze tak, że zbieraliśmy wymagania, 100 stron wymagań i teraz to kodzimy i na końcu wszystko jest źle.
+
+403
+00:53:04,000 --> 00:53:05,000
+W skrócie.
+
+404
+00:53:07,000 --> 00:53:16,000
+A tam rzeczywiście to było takie coś, że wiesz, to były inkrementacje, tam były sprinty, my tam sobie lecieliśmy, dobra, biznes mówił, róbmy to, róbmy tam, to prawda, to on to prożeryzował.
+
+405
+00:53:17,000 --> 00:53:39,000
+Był już taki true agile, był jeszcze też super taki gościu Steve, który był tam project managerem, który to fajnie zarządzał, takim scrum master'em w zasadzie później, bo jak już to wszystko było agile, to naturalnie był tym scrum master'em, też umiał ogarniać i techniczne tematy jakby jak trzeba było, mimo że nie był techniczny.
+
+406
+00:53:40,000 --> 00:54:02,000
+No i to była super przygoda i tam też jakby dynamics sporych rozmiarów, ogromne integracje właśnie z SharePointami, z jakimiś SQLami, wszystko. Kasa, miodzie, też promocje w ramach tej co sześć miesięcy, słuchajcie, ja muszę więcej, ja muszę się utrzymać, Londyn mi się podoba.
+
+407
+00:54:02,000 --> 00:54:03,000
+Jest drogo.
+
+408
+00:54:03,000 --> 00:54:04,000
+Jest drogo.
+
+409
+00:54:04,000 --> 00:54:05,000
+Cholernie drogo.
+
+410
+00:54:05,000 --> 00:54:08,000
+Dokładnie, mieszkania też mi się podobają fajniejsze.
+
+411
+00:54:10,000 --> 00:54:17,000
+No i rzeczywiście tam sobie pracowałem, ale jak to na kontraktach, zawsze jest krótki ląd.
+
+412
+00:54:18,000 --> 00:54:35,000
+Jeżeli jesteś na kontrakcie dłużej niż pięć lat, to firma zaczyna się zastanawiać, nie, nie, hola, hola, co tu się dzieje, tak, gościu. Raz też z punktu widzenia jakby formalnego, prawnego stosunek pracy i tak dalej, oni mogą już się później przyczepić, więc wolą to ryzyko minimalizować i po prostu cię autują.
+
+413
+00:54:36,000 --> 00:54:46,000
+Więc zawsze to jest tak, że ten kontrakt jest zmiany, tak, zmiany, zmiany, zmiany. No i co? I później, nie wiem czy mnie ciągle dobrze słychać czy nie.
+
+414
+00:54:46,000 --> 00:54:51,000
+Świetnie cię słychać. Chłopaki tu dobrą robotę zrobili, w Paranofilms jesteśmy.
+
+415
+00:54:52,000 --> 00:54:53,000
+Dziękujemy bardzo.
+
+416
+00:54:53,000 --> 00:54:54,000
+Ale dziękujemy za obsługę.
+
+417
+00:54:54,000 --> 00:54:55,000
+Tak jest.
+
+418
+00:54:55,000 --> 00:55:06,000
+No tak, czyli jesteś już w Anglii, jesteś już na wysokim szczeblu, jesteś architektem, odpowiadasz za Dynamicsa praktycznie tak na całym banku.
+
+419
+00:55:06,000 --> 00:55:19,000
+No to było śmieszne, że jak przyszedłem do Dublina, to tam to nie było, ja nie byłem żadnym architektem, nie robiłem żadnych pre-sale, ja tam wpadałem, w Dublini już wpadałem, ja kupiłem po prostu człowieka od brudnej, ciężkiej roboty, tak.
+
+420
+00:55:19,000 --> 00:55:34,000
+Wpadam, implementacja, mocno hands on, tak, czyli jeżeli chodzi o implementację jakiejś tam funkcjonalności w ramach tego Dynamicsa, przeniesienie tego, nie wiem, z On Prema do chmury, migracje, tego typu rzeczy.
+
+421
+00:55:34,000 --> 00:55:43,000
+No to tam się tym bawiłem tak jakby już, pracowałem sam, tak jakby ja to robiłem, tam nie trzeba było nic projektować, jakieś diagramy i tak dalej.
+
+422
+00:55:43,000 --> 00:56:00,000
+Znowu przechodząc już później do tego Seahorse Banku, tam też za mała skala, znaczy za mała skala, ja tam byłem mocno hands on, ja tam pisałem ciężkie pluginy w C Sharpie, Javascripty, no po prostu jakby byłem technicznym leadem,
+
+423
+00:56:00,000 --> 00:56:12,000
+jakby tam powiedzmy wszedłem jako, w zasadzie od początku jako techniczny lead, tam było też trochę z osobą z Indii, bo tam Cyber chyba miał wciągnięty z Indii też jakąś komórkę offshore'ową,
+
+424
+00:56:12,000 --> 00:56:21,000
+czy nawet jakaś inna firma tam była, więc ja tam wszedłem na tego team leada, ale tam nie było takiej przestrzeni jakby czy chęci, czy wizji, że potrzebny jest powiedzmy architekt,
+
+425
+00:56:21,000 --> 00:56:35,000
+tak po prostu ktoś, kto się zna na temacie i, aha nie, sorry, byli architekci, ale jakby z zewnętrznych teamów, oni rzeczywiście doglądali to jakby całe holistycznie, ja tam jeszcze nie byłem, nie pełniłem takiej funkcji.
+
+426
+00:56:35,000 --> 00:56:40,000
+Dopiero, ale mi to nie robiło, tak, no bo kasa się zgadzała.
+
+427
+00:56:40,000 --> 00:56:59,000
+No tak, byłeś specjalistą od brudnej roboty, po prostu było tej brudnej roboty dużo zrozumienia, bo technologia się szybko rozwija, wiadomo wiele niuansów co chwilę się pojawia, tak i mi się wydaje, że też ciężko było znaleźć kogoś takiego generalnie, stąd mi się wydaje duże wynagrodzenie za taką robotę.
+
+428
+00:57:00,000 --> 00:57:14,000
+Tak, tak, bo to też jest jednak niszowe, to w tamtych latach to ciągle było, bym powiedział, czy może nie niszowe, no duże korporacje wszystkie jakieś tam, bo duża część korporacji zawsze jakiegoś CRM-a ma,
+
+429
+00:57:14,000 --> 00:57:31,000
+czy to Salesforce-a, czy to Dynamics-a, czy SAP-a jakiegoś tam, powiedzmy, nie wiem czy z SAP-em możesz nazwać, z CRM-em, ale powiedzmy jakieś tam rozwiązanie takie core'owe, back-endowe, back-office'owe, więc ERP czy tego typu rozwiązania.
+
+430
+00:57:31,000 --> 00:57:49,000
+Więc wiadomo, że oni tych specjalistów mają tam powiedzmy więcej, bo Londyn jest kierunkiem zewsząd, wydaje się, że tam jest dużo więcej tych rozwiązań, ale też jest dużo więcej, w sensie firm, które mają te rozwiązania, ale też jest dużo więcej jednak konkurencji.
+
+431
+00:57:49,000 --> 00:58:05,000
+Tam masz, wiesz, cały świat zalewa Londyn i ten finance cały. Ja akurat specjalizowałem się, przypadkowo po prostu wpadłem na finance banking i w zasadzie z tym bankingiem siedzę już dosyć sporo lat.
+
+432
+00:58:05,000 --> 00:58:24,000
+I tak naprawdę później, jak już ten projekt się zakończył, to gdzieś trafiłem jeszcze do takiej firmy na chwilę Brewed Dolphin, czyli to jest wealth management, czyli to jest takie zarządzanie twoim bogactwem w skrócie, to jest taki znowu firm…
+
+433
+00:58:24,000 --> 00:58:26,000
+Problemem bogatych ludzi to związywałeś, tak?
+
+434
+00:58:27,000 --> 00:58:42,000
+Znaczy ja nie musiałem się tym zajmować, bo ja nie byłem żadnym portfolio managerem czy jakimś takim, ale my robiliśmy dla nich system, czyli oni mieli bazę swoich klientów w tym systemie, mieli różne procesy back office'owe typu onboarding'i i tak dalej.
+
+435
+00:58:42,000 --> 00:59:03,000
+Jak taki klient się pojawiał to trzeba było przejść przez ten proces zdygitalizowany i do tego wykorzystywaliśmy ten Dynamics'a. Też fajnie, ja tam byłem w ogóle, bo oni nie wiedzieli co to jest Agile, po moich latach z Agile jakby mogłem to przekuć, w sensie raz, że mówię, że się szkoliłem, dosyć mocno czytałem tych tematów, no to tam też trochę…
+
+436
+00:59:03,000 --> 00:59:24,000
+Aha i tam już poszedłem na architekta typowo, tam miałem swoich, może to brzydko brzmi, ale w zespole mieliśmy ludzi, którzy po prostu zajmowali się typowo kodzeniem tego, a ja już miałem być architektem i od proponowania rozwiązań i tak dalej, czy to ma być w tą stronę, czy takie rozwiązanie, czy to ma być SharePoint, czy to jednak zostaje w Dynamics'ie i tak dalej.
+
+437
+00:59:25,000 --> 00:59:46,000
+No ale tam też jakby przez moment robiłem taki coaching jeśli chodzi o Agile, tam wiesz prezentacje, żeby ten biznes zrozumiał co to jest, bo był jakiś tam niby Scrum Master, który nie wiedział w ogóle co robi, był Product Owner, który nie wiedział od czego to jest, jakby trzeba było fundamenty najpierw zrobić i rzeczywiście tam chwilę się nad tym pochyliłem.
+
+438
+00:59:46,000 --> 01:00:15,000
+No a w międzyczasie wiadomo, trzeba było tam coś projektować, ale w tym momencie, to już właściwie będzie zaraz koniec mojej historii jeśli chodzi o Londyn, w tym momencie pojawia się jakiś agent, który mnie werbuje, mówi, że ma dosłownie po trzech miesiącach brewing dolphin, dzwoni do mnie, że słuchaj, Microsoft szuka konsultantów, architektów.
+
+439
+01:00:17,000 --> 01:00:18,000
+W Dynamics'ie.
+
+440
+01:00:19,000 --> 01:00:26,000
+Microsoft z Reading, Londyn, w sensie London, UK powiedzmy, to od razu wiesz.
+
+441
+01:00:27,000 --> 01:00:28,000
+Tak, końców.
+
+442
+01:00:28,000 --> 01:00:35,000
+Mój wujek, to jest mój gral wiesz, no w zasadzie jak Microsoft się do mnie odzywa i to jeszcze z UK, to mówię, no to jest niemożliwe.
+
+443
+01:00:36,000 --> 01:00:44,000
+Spójrz, wiesz, mówię, ja mówię przecież, ja chciałem być przecież networkinga, nie, wiesz, jakieś kurde lany chciałem spinać.
+
+444
+01:00:45,000 --> 01:01:02,000
+I wiesz, i sobie myślę, no to, no i trzy miesiące jestem w tej pracy, wszystko się pięknie rozwija, Brewing Dolphin to super firma jeśli chodzi o innowacje, bo mieli już na tamtym etapie dopiero teamsy wchodziły, oni mieli już teamsy wiesz, w pokojach, w salach konferencyjnych, tam, że mogłeś bookować, widziałeś kto jest.
+
+445
+01:01:02,000 --> 01:01:21,000
+Wiesz, jakby widziałem od razu, że tam jest parcie na innowacje, Dynamics tam też online'owo wszystko i tak dalej, no chcieli wszystko nowe, kasy mieli oczywiście sporo, lokalizacja City, odpowiadała mi jak cholera, dopiero zacząłem, układało mi się super tam z tymi menedżerami.
+
+446
+01:01:22,000 --> 01:01:45,000
+Jako konsultant ja byłem, znowu mówię tutaj B2B, ja tam nie byłem nigdzie zatrudniany, tylko miałem tą swoją powiedzmy jako kontraktowiec, ciągle ten B2B mnie bardziej kręcił, model, no ale pojawia się Microsoft i mówię, no im się nie odmawia, no wiesz, to są moi ludzie w końcu, lasuję tego Windows Phone'a od wielu lat i się nie udało, więc spróbujemy.
+
+447
+01:01:46,000 --> 01:02:00,000
+No i odbyłem z nimi rozmowę i oni w ogóle, to był taki ciekawy temat, bo Microsoft szukał architekta typowo do security model dla wielkiego banku.
+
+448
+01:02:00,000 --> 01:02:18,000
+Nie mówię oczywiście dla kogo, ale ogromny rollout dla 50 plus krajów, mnóstwo ludzi, największe drużenie Dynamics'a, chyba to było jak ogólnie na świecie, to przynajmniej w finansówce, sektor bankowy typowo.
+
+449
+01:02:18,000 --> 01:02:35,000
+To mówię, kurczę, no dobra, rozmowa z Microsoftem, jedna, druga, dosyć szybki temat był, bo oni potrzebowali bardzo szybko gości, tam się wykruszyli, okazało się, że nie wytrzymali presji ludzkich, którzy byli w tym Microsoftie, stwierdzili, że oni tego nie będą robić, bo trafili na ścianę.
+
+450
+01:02:35,000 --> 01:02:59,000
+Nie tyle ścianę techniczną, ale żeby przegadać te tematy, żeby właśnie te soft skille, żeby tego klienta tam gdzieś zmiękczyć, żeby on rozumiał, że gdzieś trzeba iść na kompromis, że to, za co zapłaciliście mnóstwo pieniędzy, za to wielkie rozwiązanie, to nie wszystko, to nie będzie w stanie wam wszystkiego dać, to trzeba umieć pójść na ten kompromis.
+
+451
+01:02:59,000 --> 01:03:23,000
+No i tą rozmowę przyszedłem, super się przygotowałem do security, w zasadzie wcześniej takiego super wielkiego nie robiłem, to było też najśmieszniejsze, tylko że wiedząc, że to będzie security, to ja tam, wiesz, tydzień, dwa po prostu full time POC jakieś coś tam, cały ten model to nie jest jakiś skomplikowany tak bardzo na tej platformie, więc wąski temat, mówię, pękniemy to i tyle.
+
+452
+01:03:23,000 --> 01:03:51,000
+No i na rozmowie spodobałem się tym gościom z Microsoftu, no i poszła nam dobry windolfin, mówię, słuchajcie, Microsoft mi daje ofertę, ja miałem znowu, jeśli chodzi o kasa to high end, właściwie to też jest ciekawe, że w tym kontraktingu masz pewne limity, ogólnie wszędzie masz pewne limity, które gdzieś tam widzisz.
+
+453
+01:03:54,000 --> 01:04:17,000
+Ja z moją naturą ciągłych zmian, chęci nie mogę usiedzieć, wiesz, widzę, że to już jest ta bariera, ewentualnie co mnie może zachęcić to jakiś super wielki challenge, to był taki challenge, wiesz, Microsoft, mówię, trafia na pewno na najlepszych kurde ludzi i tak dalej, po drugie jakiś ogromny projekt, mówię, lecimy z tym.
+
+454
+01:04:18,000 --> 01:04:31,000
+No i musiałem pójść do nich i powiedzieć, że słuchajcie, jest jak jest, ja bym normalnie nie zrezygnował, ale to się może stać, wiesz, raz w życiu, że ci zaproponowali tak z ręki i nie muszę, wiesz, stwierdziłem, że biorę to.
+
+455
+01:04:31,000 --> 01:04:42,000
+Rozstaliśmy się w dobrych w sumie relacjach generalnie tam, jakiś, wiesz, living do było konkretne w CT, więc…
+
+456
+01:04:42,000 --> 01:04:56,000
+No ciężko Ci się dziwić, nie, mi się wydaje, że każdy pracodawca, wiesz, widział po Tobie, że jesteś ambitny, że chcesz ruszać dalej i trafiła Ci się super opcja, tak, od Microsoftu dla banku.
+
+457
+01:04:56,000 --> 01:05:12,000
+Tak, tylko że to było trochę inaczej, bo wiesz, oni nie byli moimi pracodawcami, ja byłem, wiesz, jako satelita na kontrakcie, czyli ja podpisując kontrakt, podpisujesz go na sześć miesięcy, jest wypowiedzenie dwa tygodnie i możesz rezygnować, jak Ci się nie spodobało.
+
+458
+01:05:12,000 --> 01:05:20,000
+Generalnie tak mogłbyś zagrać, że taka jest forma kontraktowa, że oni nie mają pewności, ani my nie mamy pewności, oni też mogą mi podziękować.
+
+459
+01:05:20,000 --> 01:05:33,000
+Już mi się też tak zdarzyło gdzieś tam na jakimś projekcie, że w grudniu musiałem siedzieć na tyłku i szukać tematów, bo nic nie było, a koszta były ładne w Londynie, jakby już żyjąc na pewnym poziomie.
+
+460
+01:05:33,000 --> 01:05:52,000
+No i wziąłem to na klatę, jakby mówię, dobra, jest challenge, lecimy i Kanary Wharf, to jest HCS, czyli Eighth Canada Square, największy taki budynek, jeden z większych budynków, przyjeżdżasz tam, mówisz, jaki jesteś malutki.
+
+461
+01:05:52,000 --> 01:05:54,000
+Tak, widać go z daleka.
+
+462
+01:05:54,000 --> 01:06:06,000
+Kwadrat taki ogromny, czyli 50, chyba 7 pięter, widok na cały Londyn przepiękny, trafiasz tam na dole, gdzieś w recepcji ktoś Cię wita, ja pierwszy raz poznaję ludzi z Microsoftu, siema, siema.
+
+463
+01:06:06,000 --> 01:06:16,000
+Oni mi pokazują ludzi i klienta, że tutaj będziesz robił, wszyscy wiadomo, krawaty, te sprawy, ale to już byłem przyzwyczajony, więc nie robiło.
+
+464
+01:06:16,000 --> 01:06:39,000
+No i co, no i tam zacząłem przygodę, no i tam projektowaliśmy, i tam się tak naprawdę dowiedziałem pierwszy raz, co znaczy architekt, bo z całym szacunkiem do polskiego rynku, czy do projektów mniejszego kalibru, to jest ta możliwość, że taki tech lead, który jest ogarnięty i który ma te skillsy, jest w stanie to ogarnąć.
+
+465
+01:06:39,000 --> 01:06:56,000
+Tam po prostu nie było możliwości, żebym ja był hands on, żebym ja mógł coś robić fizycznie, bo my mieliśmy 260 ludzi na projekcie, tam było 6 czy 8 podów, każdy pod miał, to był scrum team, który miał swoje różne rzeczy robić, ci robili takie funkcjonalności, tamci robili coś.
+
+466
+01:06:56,000 --> 01:07:16,400
+Ja trafiłem pod security, ja byłem tam architektem, my mieliśmy Indie, mieliśmy w UK, mieliśmy Chiny, mieliśmy US, ogromne, no mówię, to było wdrżenie na 52 kraje, jedna instancja Dynamicsa, bankowości, najbardziej wrażliwe dane na świecie,
+
+467
+01:07:16,400 --> 01:07:26,960
+tak zwane material non public information, czyli których wiedza o pewnych dealach może wpływać na giełdę.
+
+468
+01:07:26,960 --> 01:07:32,000
+Bardzo wysoki, high level, top, top.
+
+469
+01:07:32,000 --> 01:07:59,000
+Tak, no bo oni tam, wiesz, to jest bank, który robi transakcje, na zasadzie jedna firma kupuje drugą za dwa miliardy. Jak wiesz o tym miesiąc wcześniej, no to sorry, ale możesz dużo zarobić, więc klimat nieziemski i stąd tam trzeba było zaproponować najbardziej możliwie skomplikowany, złożony, bo to było w chmurze,
+
+470
+01:07:59,000 --> 01:08:21,000
+więc żeby się w ogóle zgodził, Microsoft jakby strasznie chciał to puścić, żeby to poszło live, no bo jak to pójdzie live, no to wiadomo, że zaraz to kaskadowo poleci po innych bankach na zasadzie, no jak oni weszli z takimi wrażliwymi danymi, to każdy może wejść, bo oni przeszli przez compliance tam, wiesz, przez działy prawne, czy to może, czy to nie może,
+
+471
+01:08:21,000 --> 01:08:49,000
+jeżeli chodzi o te aspekty data residency, data, wiesz, czy może to być w tej instancji, czy nie może, jak to musi być zabezpieczone, kto może to widzieć, konkretne reguły, no mówię, skomplikowany projekt, tak dla tylko taki product owner właśnie od tego Andrew, zresztą kolega od security, to z tego co pamiętam, to BRD, czyli to Business Requirements Document
+
+472
+01:08:49,000 --> 01:09:18,920
+miał chyba ze 100 stron, same wymagania biznesowe pod kątem security na jednej platformie i to trzeba było jakby skumać, zrozumieć i przełożyć potem to na rozwiązanie dynamicsowe, czyli zaproponować, wiesz, i też często, niejednokrotnie pójść na kompromisy, że słuchajcie, no pushback tutaj, pushback tam, że nie możemy tego zrobić, no bo będziemy szli za bardzo w custom, a generalnie jak skończyło się to tak, że rzeczywiście poszliśmy live,
+
+473
+01:09:18,920 --> 01:09:46,920
+potem byłem już przerzucany na jakieś integracje, mnóstwo systemów integrujących się, wiesz, jakby skala tego rozwiązania była taka, że jeżeli to jest w tylu krajach, to każdy kraj ma też swoje takie rozwiązanie CRM-owe, więc my połykaliśmy te małe CRM-y, my też je przenosiliśmy, oni wewnętrznie mają zupełnie inne systemy od pewnych rzeczy, które w UK się robiło w takim systemie, nie wiem, w Hongkongu się robiło w zupełnie innym systemie.
+
+474
+01:09:46,920 --> 01:10:16,840
+Inna skala problemów, tam dopiero poznałem, co to znaczy w ogóle architektura, w sensie architektura taka prawdziwa, wiesz, przełożenie tego w praktyce, co oznacza, że musisz, nie wiem, diagramy, że musisz pokazać ludziom, że masz 20 deweloperów, którzy będą to później robić, jakie są konsekwencje, jeżeli nie pójdziemy, wiesz, ja też przygotowałem ten dokument, solution design dokument, który miał 60 stron ciężkiego mięsa, wiesz, na zasadzie z tych 100 czy tam 200 stron,
+
+475
+01:10:16,920 --> 01:10:28,680
+tego BRD, przełożenie to teraz na solution design document, bo on musiał być klepnięty przez jakichś tam, wiesz, enterprise architektów i tak dalej, więc wiesz, zrobimy przerwę może jakąś?
+
+476
+01:10:29,480 --> 01:10:35,240
+Możemy, jeszcze dokończymy może z tym bankiem, dobra, zrobimy przerwę.
+
+477
+01:10:36,200 --> 01:10:50,600
+Dobra, co tam dalej z tym bankiem? No jakby security model, później w tym banku to było ile? Trzy czy cztery lata tak naprawdę, ja tam robiłem dla nich jakieś rzeczy, tak?
+
+478
+01:10:50,920 --> 01:11:10,280
+Mówię, tam już zupełnie nie byłem programistą, później, czyli tam był Dynamics for Sales, ten 365 for Sales, ale też robiłem, później byłem na kolejnym projekcie, bo tam tych Dynamics to wiesz, każdy jakby zupełnie inny zespoły, później robiłem też Customer Service,
+
+479
+01:11:10,280 --> 01:11:21,720
+taki ten najnowszy, w którym tak naprawdę cała obsługa jakaś globalnie, czyli nie wiem, działa ci przelew, nie przeszedł ci, tak?
+
+480
+01:11:21,720 --> 01:11:22,280
+Tak.
+
+481
+01:11:22,280 --> 01:11:33,880
+To trzeba to dać znać do banku, no i my robiliśmy projekt, który miał zunifikować wszystkie platformy na świecie, takie małe, to my robiliśmy, przenosimy to w jedno miejsce.
+
+482
+01:11:34,600 --> 01:11:50,520
+I tam był taki wiesz, silnik Unified Routing to się nazywa, jest dostępny w Dynamics w Customer Service teraz niedawno z AI i tak dalej, on ci analizuje, czy treść była niemiła, czy miła,
+
+483
+01:11:50,520 --> 01:12:01,880
+ale tam wiesz, robi oczywiście to w różnych krajach, w różnych językach, więc musi też ci przetłumaczyć i on potem to routuje zgodnie z regułami routingu do różnych zespołów.
+
+484
+01:12:01,880 --> 01:12:11,000
+Na przykład było, nie wiem, w jakimś tam, Polska miała huba Customer Service, który obsługiwał Europę, czy coś tam, to szło to do nich, tak?
+
+485
+01:12:11,160 --> 01:12:25,080
+Tam też oczywiście trzeba było Security Model, tam już udało mi się ten Security Model bardzo uprościć, ale od nowa to był projekt, w którym jakby ja robiłem, no przechodziliśmy przez, oczywiście oni mieli jakiś apetyt jak to ma wyglądać,
+
+486
+01:12:25,080 --> 01:12:38,600
+to był zupełnie nowy projekt, w którym też się tam zaprojektowałem, bo to inna platforma, ten Security Model cały, no i różne rzeczy inne, tam integracje i tak dalej, no sporo rzeczy,
+
+487
+01:12:38,680 --> 01:12:52,200
+oni mają też mocną Power Platform, dużo rzeczy takich customowych typu, wiesz, napisane coś w Javie, takie wiesz, szyte na miarę, stwierdzili, że słuchajcie, ale przecież jest Power Platform, jest low-code, no-code.
+
+488
+01:12:52,200 --> 01:13:06,200
+Znamy Dynamicsa, sprawdziło się na dwóch największych globalnych instancjach, gdzie wiesz, tam było 12 tysięcy userów na pierwszej, a na drugiej, nie wiem, pewnie docelowo może i 30 tysięcy, nie?
+
+489
+01:13:07,160 --> 01:13:34,920
+No wiesz, to tam, to jest masakra, no i też różne, jakby problem też duży w takiej globalnej instancji bankach jest to, że tam są wiesz, różne wymiary, że masz, na przykład oni mieli segmenty biznesowe, że masz business banking, czyli dla takich ludzi jak ja, kontraktowiec, otwierasz sobie konto i twoja relacja z bankiem jest taka, że cieszysz się, że przelew przechodzi i widzisz, że jest i możesz przelew zrobić.
+
+490
+01:13:35,160 --> 01:13:35,720
+Tak.
+
+491
+01:13:36,120 --> 01:13:53,960
+Ale mają też górną półkę, czyli global banking, gdzie to są global bankers, się nie nazywają, to już w ogóle nie są relationship managerowie, bo by się obrazili, tylko to są bankerzy globalni, którzy wiesz, mają relacje na zasadzie klient, to jest dla nich Microsoft, nie?
+
+492
+01:13:53,960 --> 01:13:54,600
+Aha.
+
+493
+01:13:54,600 --> 01:14:24,040
+I oni rozmawiają o zupełnie innych rzeczach, oni się spotykają, tam masz wiesz, transakcje typu właśnie, nie wiem, M&A, czyli Mergers and Acquisitions, jakieś tam produkty typu GTRF, GLCM, czyli coś co pośredniczy, oni pośredniczą, że na przykład robisz biznes w Hongkongu i boisz się, żeby ktoś jest niewypłacalny czy coś, to oni za ciebie robią jakiś tam, wiesz, financing, factoring, tego typu trady.
+
+494
+01:14:25,560 --> 01:14:52,360
+Nie wchodziłem aż tak w szczegóły, ale zawsze lubię trochę tego biznesu jakby poznać, do czego to właściwie im jest, że wiesz, generalnie w tym Dynamixie mieliśmy te deale, czyli jak było jakieś opportunity, był lead, no to oni to trzymali tam i później na przykład senior managerowie jacyś globalni na świecie musieli widzieć tylko, wiesz, raport jakiś, ile dealów, jaki jest pipeline, ile będziemy mieli się na jutro, ile przegraliśmy i tak dalej, więc jakby do tego to się skupiało.
+
+495
+01:14:52,440 --> 01:15:06,600
+No a customer service to wiadomo, ile mieliśmy tikietów, ile zadowolonych klientów, niezadowolonych i żeby to szybko działało. Później jakieś boty, autoresponsy, wiesz, maila i tak dalej, zautomatyzowanie tego wszystkiego.
+
+496
+01:15:07,320 --> 01:15:19,000
+Czyli byłeś już tak naprawdę na szczycie łańcucha pokarmowego, jeśli chodzi o finanse w banku, już architekturę, już prawie zjadłeś tam całą?
+
+497
+01:15:19,960 --> 01:15:37,000
+No myślę, że trochę nieskromnie to zabrzmi, ale na pewno w architekturze masz tam jeszcze, powiedzmy, level enterprise architecture, enterprise architect, w którym obecnie jestem, to jest też ciekawe i pewnie jakiś tam trochę będziemy mogli to dopowiedzieć,
+
+498
+01:15:37,000 --> 01:15:48,760
+ale powiedzmy, jeśli chodzi o architekturę, jeśli chodzi o Dynamics, o ekosystem Microsoftowy, no to pewnie tak, bo ciężko już tam dalej wychodzić i teraz się zastanawiać.
+
+499
+01:15:48,760 --> 01:16:12,440
+Wiadomo, wykorzystujesz te kwestie biznesowe, zrozumienia biznesu i przełożenie tego na rozwiązania i proponowanie tego, później przekazanie tego w dobry sposób do deweloperów i utrzymanie tego w rydzach, w standardzie, żeby to było dalej, spełniało twoje kryteria, funkcje, żeby, wiesz, oni nie wykraczali poza pewne bariery i ciągła jakby weryfikacja tego wszystkiego.
+
+500
+01:16:12,760 --> 01:16:26,680
+Więc zdecydowanie pod kątem finansowym to jak najbardziej, wiesz, można byłoby powiedzieć, że nie muszę nigdzie wyjeżdżać, mogę sobie ostatnio żyć, mogę sobie, wiesz, kupić jakieś tam mieszkanie na kredyt i będzie fajnie, nie?
+
+501
+01:16:26,680 --> 01:16:48,920
+Piękny styl życia, wiesz, jakby ta kultura zachodnia na zasadzie piwko w środę po pracy, wszyscy jeżdżą, nikt nie jeździ autami, bo gdzie w Londynie będziesz jeździł auto? Mieliśmy przypadki, że tam jacyś jeździli, którzy jeździli bardziej z jakichś miejscówek typu, no spod Londynu też była część osób, nie?
+
+502
+01:16:48,920 --> 01:16:49,480
+Tak.
+
+503
+01:16:49,480 --> 01:17:01,480
+Którzy sobie dojeżdżali, jak wiesz, ale generalnie fajnie, bo wszyscy i metro, ja sobie łódką w ogóle pływałem, katamaranem, zresztą po Tamidzie, bo mieszkałem na…
+
+504
+01:17:01,480 --> 01:17:03,480
+To też był transport of London.
+
+505
+01:17:03,480 --> 01:17:05,480
+Tak, klikery.
+
+506
+01:17:05,480 --> 01:17:07,480
+Tak, to jest takie ciekawe.
+
+507
+01:17:07,480 --> 01:17:33,480
+I tam rzeczywiście jakby już było wszystko, no ale wiadomo, kontrakty trwają, kontrakty są, robią przeorganizowania w firmach, za długo jesteś, zmienili decyzję, oni mieli dostawców, największych dostawców, wiesz, no Microsoft, jak ci wspomniałem, był u nich, później ja tylko zostałem tam z Microsoftu, bo oni podziękowali reszcie, bo okazało się, że nie byli specjalnie kompetentni, a brali tyle kasy oczywiście za ten konsultant, że to dla nich nie było rentowne.
+
+508
+01:17:34,480 --> 01:17:42,480
+Czyli jakaś inna firma, która wykorzystywała technologię Microsoftu jakby zgarnęła ten kontrakt, pokonała mistrza?
+
+509
+01:17:42,480 --> 01:18:02,480
+Nie, nie, nie, właśnie, nie, bo oni po prostu mieli, doklejali sobie jakieś firmy konsultingowe typu KPMG, typu jakaś inna firma, Wipro, taka, no ogromne firmy konsultingowe, zawsze przy ogromnych firmach gdzieś tam będą siedzieć i oni też zawsze mają jakąś, wiesz, Dynamics Practice, to sobie dorzucą pięciu ludzi.
+
+510
+01:18:02,480 --> 01:18:31,480
+Jeżeli się okaże, że to jest offshore, wiadomo, że to jest dużo taniej niż gościu, który jest na miejscu, jak ja byłem tam onshore, więc dla nich to było proste, że można było, no i wiadomo, budżety są, które są na projektach, te budżety się zmieniają, w pewnym momencie stwierdzają, że drogi gościu, niewygodny, wystarczy nam ciebie, teraz już jest bardziej business as usual, czyli przechodzimy fazę projektu, że nie trzeba płacić tym najdroższym powiedzmy.
+
+511
+01:18:32,480 --> 01:18:33,480
+Lecimy dalej, tak?
+
+512
+01:18:33,480 --> 01:18:35,480
+Tylko fine tuning jakiś, tak?
+
+513
+01:18:35,480 --> 01:19:03,480
+No dokładnie, jakieś ciągłe, wiadomo, że ciągłe jest praca, ciągłe jest ten, ale no jakby ta, żywot taki mój na takich projektach wiadomo, że kiedyś się kończy, tak, no bo jakby taka jest idea projektu, na początku wiadomo, trzeba zaprojektować, zobaczyć przez tę pierwszą fazę, te najcięższe armaty mamy, a później powoli próbujemy to robić, przekładać w taki business as usual, czyli są już osoby, które umieją to wspierać,
+
+514
+01:19:03,480 --> 01:19:08,480
+nie robimy jakichś ogromnych zmian fundamentalnych, to już dla Ciebie tu nie ma miejsca.
+
+515
+01:19:09,480 --> 01:19:11,480
+To co, zrobimy sobie przerwę?
+
+516
+01:19:11,480 --> 01:19:12,480
+Myślę, że tak.
+
+517
+01:19:12,480 --> 01:19:18,480
+I wrócimy po przerwie i pogadamy o Akademii i o może tym enterprise'owym aspekcie.
+
+518
+01:19:18,480 --> 01:19:19,480
+Spoko.
+
+519
+01:19:19,480 --> 01:19:20,480
+Dobra?

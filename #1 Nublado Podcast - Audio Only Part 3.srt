@@ -1,0 +1,1492 @@
+932
+02:17:13,480 --> 02:17:23,480
+Powiedz mi jeszcze trochę o tym, dlaczego Microsoft, bo ja to zawsze byłem zwolennikiem, wiesz.
+
+933
+02:17:23,480 --> 02:17:25,480
+Gorszych rozwiązań.
+
+934
+02:17:25,480 --> 02:17:27,480
+Gorszych rozwiązań.
+
+935
+02:17:27,480 --> 02:17:45,480
+Apple'a i tak dalej, bardzo mi się podobał ich właśnie UI design i też zawsze zajmowałem się w dużej mierze i wideo i grafiką i zawsze uderzały do mnie bardziej ich produkty, a ty byłeś zawsze człowiek Microsoft.
+
+936
+02:17:45,480 --> 02:17:53,480
+Ja nie byłem nigdy taki cool, więc wiesz, wybrałem po prostu tą brudną stronę Windows 9.5, DOS.
+
+937
+02:17:54,480 --> 02:17:57,480
+Dokładnie.
+
+938
+02:17:57,480 --> 02:18:09,480
+Serio, całkiem serio, to na pewno trochę w przypadku, no bo jednak każdy jest, tak jak wiesz, zagubiony w technologii.
+
+939
+02:18:09,480 --> 02:18:21,480
+Ja może dlatego, że miałem do czynienia trochę z tym biznesem tak jakby od zera, w sensie jak przed studiami, wiesz, tak jak ci wspominałem u mojego taty, który był przedsiębiorcą,
+
+940
+02:18:21,480 --> 02:18:31,480
+wiesz, już tam coś robiłem, wiedziałem, co to jest biznes i wiedziałem, używaliśmy Ofisa, a nie coś, mieliśmy Windowsa, mieliśmy serwer tam.
+
+941
+02:18:31,480 --> 02:18:42,480
+I jakby naturalnie to było to, tak? No wiadomo, że można pomyśleć, no dobra, Google Cloud Service, jakby lećmy w co innego, zobaczmy.
+
+942
+02:18:42,480 --> 02:18:49,480
+No w tym czasie w sumie Google się mocno rozwinęło, prawda, na tym rynku, jak stworzyli swoją chmurę.
+
+943
+02:18:49,480 --> 02:19:02,480
+Bardzo mocno, Amazon tak samo jakby jest silny, ale przez to, że ja cały czas w tych takich technologiach, też przez to, że trafiłem do firmy Gold Partner Microsoftu na samym starcie
+
+944
+02:19:02,480 --> 02:19:15,480
+i tam zacząłem w tych aplikacjach back office'owych działać, przez to, że nie wiem, w ASP.NET robiliśmy jakieś tam rzeczy, przez to, że to wszystko stało na serwerach Microsoftowych,
+
+945
+02:19:15,480 --> 02:19:27,480
+aktualne maszyny i tak dalej. Naturalnie, przez to, że się sam zajarałem i sprzedawałem Windows Phone'a wszystkim w rodzinie, w zasadzie co za gościu, przecież to jest gniot.
+
+946
+02:19:27,480 --> 02:19:40,480
+No ale umiem zrobić tam apkę, więc wiesz, więc jedziemy z tym. Więc na pewno jakiś taki pewnie przypadek, ale też jakby to podejście, że jednak ja traktuję
+
+947
+02:19:40,480 --> 02:19:51,480
+Apple'a czy tam, wiesz, te rzeczy właśnie typowo bardziej takie digital kontent, nie wiem jak to nazwać, graficzne bardziej, bardziej cool.
+
+948
+02:19:51,480 --> 02:20:09,480
+Microsoft jest bardziej enterprise i mamy wirtualną maszynę i koniec. Pewnie dlatego, ale jakby na przestrzeni lat to się mocno zmieniło, bo oni już nie są tacy, wiesz, koporni, drewniani.
+
+949
+02:20:09,480 --> 02:20:19,480
+Od czasu, na przykład mnie to uderzyło po Windowsie 10, zauważyłem, że zaczęli bardzo dużo rzeczy kopiować z macOSa i dodawać.
+
+950
+02:20:19,480 --> 02:20:28,480
+Właśnie też Windows 11, niesamowity system, bardzo mi się podoba, bardzo dużo rozwiązań wprowadzili, których po prostu wcześniej tam brakowało.
+
+951
+02:20:29,480 --> 02:20:47,480
+Nie wiem, czy to jest związane z odejściem Biliego na drugi plan, czy możliwe, ale też nigdy nie siedziałem tak głęboko w tej technologii, żeby ocenić, czy tam się rzeczywiście dużo zmieniło właśnie w kwestii dynamiksa biznesowej i może właśnie powiedziałbyś coś na ten temat.
+
+952
+02:20:48,480 --> 02:20:58,480
+Tutaj zdecydowana jest zmiana. Widać ten manewr ruchu, ale to każda z konkurencji też idzie w stronę chmurową.
+
+953
+02:21:02,480 --> 02:21:15,480
+To wszystko w tę stronę zmierza. Jest dużo większy nacisk i nakład na user interface. Nie jest to wszystko takie brzydkie i toporne jak w Outlooku 10 lat temu, że to musiało być brzydkie.
+
+954
+02:21:15,480 --> 02:21:22,480
+Te okienka Windowsowe musiały być brzydkie, bo nie mogły być ładne, nie mogły być zaokrąglone albo musiały być takie brutalne.
+
+955
+02:21:22,480 --> 02:21:23,480
+Serowe.
+
+956
+02:21:23,480 --> 02:21:36,480
+Dokładnie, więc widać, że jest składany inny nacisk. Też pewnie świadomość usera jest inna. Każdy wie, że konkurencja ma tak przecież, to czemu to jest takie brzydkie, to nie możesz być takie brzydkie.
+
+957
+02:21:36,480 --> 02:21:49,480
+Więc tak to wygląda, myślę. Spójrzmy teraz z inwestycji typu OpenAI, co zrobił Microsoft i gdzie jest, jak uderzył.
+
+958
+02:21:49,480 --> 02:21:59,480
+Pięknie to zrobili, naprawdę. I to jak wprowadzają teraz co-pilota, mają wprowadzić niedługo do Excela, Worda, Ofisa całego.
+
+959
+02:22:00,480 --> 02:22:16,480
+Dlatego znowu, patrząc na to, gdzie ten low-code, gdzie ten platform się znajdzie. Pomyślimy, że szerzej dookoła tego platformu mamy M365, mamy Microsoft Suite, w którym mamy te wszystkie Excele, Outlooki, Teamsy.
+
+960
+02:22:16,480 --> 02:22:18,480
+Teamsy też super.
+
+961
+02:22:18,480 --> 02:22:25,480
+Nasz produkt Ingresso działa na Teamsach. Mamy wtyczkę, mamy apkę normalnie, że tylko po prostu się instaluje i nie trzeba wychodzić z Teamsów i jesteś w Ingresso.
+
+962
+02:22:26,480 --> 02:22:36,480
+Jakby to jest tak wszystko kompatybilne razem ze sobą, w tym całym bakowisowym ekosystemie, dołączając teraz do tego OpenAI.
+
+963
+02:22:37,480 --> 02:22:49,480
+OpenAI jest tak, że w Azure mamy go, więc możemy sobie tworzyć swój AI-owy ekosystem, możemy korzystać ze swoich danych.
+
+964
+02:22:49,480 --> 02:23:04,480
+Oni bardzo duży nacisk kładą, w mojej ocenie, porównując konkurencję do tego, gdzie te dane są, w jaki sposób one są przechowywane i dają pełną dokumentację, że ty wiesz co się z tymi danymi dzieje.
+
+965
+02:23:04,480 --> 02:23:11,480
+Czyli ty wiesz, że one nie opuszczają twojego tenanta, że one są w tych barierach, że możesz go zablokować, że tylko ty to widzisz.
+
+966
+02:23:11,480 --> 02:23:17,480
+Możesz to zrobić szyfrowane na zasadzie swoimi kluczami i nikt tego nie dotyka, nie może tego dotknąć.
+
+967
+02:23:17,480 --> 02:23:26,480
+Nie wiem też do końca, nie mam czasu na to, żeby poszerzać wiedzę pod kątem Google Cloud czy Amazon.
+
+968
+02:23:27,480 --> 02:23:38,480
+Mi się wydaje, że ktokolwiek się zetknął z AWS wie ile tam jest skomplikowanych różnych małych aplikacji, każda jest do czegoś innego i to mi się podoba.
+
+969
+02:23:38,480 --> 02:23:52,480
+Jak ostatnio miałem styczność z całym Power Platform, że bazy danych są według mnie dużo bardziej czytelne i dużo łatwiejsze w obsłudze w porównaniu do konkurencji.
+
+970
+02:23:53,480 --> 02:24:03,480
+Mamy tabelki, klikamy tabelki, pod spodem co tam jest, jak to jest przełożone na SQL czy na Blobstory czy na cokolwiek innego nas nie obchodzi.
+
+971
+02:24:03,480 --> 02:24:13,480
+Te dane po prostu sobie trzeba mieć też wiedzę i jak mówimy o małym rozwiązaniu, to możemy sobie to po prostu wyklikać i mamy i spełnia wymagania.
+
+972
+02:24:13,480 --> 02:24:33,480
+Oczywiście my celujemy jednak bardziej takie rozwiązania nie super wielkie, ale jednak wielkie robimy dla wielkich, ale wiadomo, że nie będziemy jakiegoś super wielkiego rozwiązania robić dla średniej firmy w Polsce, bo to się nie da, nikt ci za to nie zapłaci.
+
+973
+02:24:34,480 --> 02:24:49,480
+Powiedz może jeszcze, bo mnie to mega ciekawi, co z tym copilotem, jaka jest przyszłość, czy niektóre zawody teraz zostaną zastąpione w najbliższym czasie, bo to jest jednak przerażające.
+
+974
+02:24:49,480 --> 02:25:02,480
+Wpisujesz prompta, nie wiem mam 3-4 zdania, czy jak już umiesz bardziej wyspecjalizować, wyspecyfikować swojego prompta, to jeszcze masz lepsze osiągi często.
+
+975
+02:25:02,480 --> 02:25:10,480
+I teraz czy niektórzy ludzie stracą robotę, czy po prostu będą 10 razy bardziej wydajni dzięki temu?
+
+976
+02:25:11,480 --> 02:25:29,480
+Spójrzmy na to z naszej perspektywy, gdzie my siedzimy, czyli idealnie jesteśmy w Power Platform, jesteśmy w ofisie, w skrócie w Microsoft 365, w którym dostajemy copilota, czyli jakby w punkt.
+
+977
+02:25:29,480 --> 02:25:47,480
+Którzy nie wiedzą, to ma działać tak, że po prostu wpisujesz sobie prompta, zrób mi tabelę taką i taką, zrób mi wykres taki i taki i wszystko się dzieje w przeciągu 15 sekund, masz gotowe tabele na bazie jakiegoś pliku.
+
+978
+02:25:47,480 --> 02:26:11,480
+Pewne zawody na pewno naturalnie będą wygasane, bo nie oszukujmy się, jeżeli ktoś coś powielał wielokrotnie, co za nas zrobi automat i to zrobi 10 razy szybciej i 10 razy bardziej kreatywnie i zróżnicowanie, to kto będzie chciał dalej utrzymywać takie stanowisko?
+
+979
+02:26:11,480 --> 02:26:23,480
+To po prostu będzie trzeba na pewno, te pewne stanowiska pójdą trochę, ewoluują w mojej ocenie, no bo czy marketingowiec, czy programista będzie operatorem.
+
+980
+02:26:23,480 --> 02:26:25,480
+Juniora, po prostu ma przy sobie juniora.
+
+981
+02:26:25,480 --> 02:26:38,480
+Kilkaset juniorów i jeszcze doświadczonego gościa, który jest w stanie wyciągnąć jakieś takie dane ciekawe, mogę się go zapytać o coś i tak dalej, mogę z nim prowadzić debatę.
+
+982
+02:26:38,480 --> 02:26:53,480
+Myślę, że to da jakby w naszej platformie, w naszym powiedzmy tutaj podwórku, to przyspieszy znacznie, już przyspiesza, bo to nie jest, że my mówimy o przyszłości, tylko rzeczywiście to już działa.
+
+983
+02:26:53,480 --> 02:27:01,480
+Możesz, już są wtyczki do Power Automata, masz na czat GPT wtyczkę i pyk i do widzenia flow, gotowy.
+
+984
+02:27:01,480 --> 02:27:22,480
+Sam jeszcze nie wrzucałem bardziej tak, wiesz, na zasadzie, ja sam też nie tworzę tych flowów, więc nie muszę robić, ale sprowadza się to do tego, że rzeczywiście mówisz, słuchaj napisz mi flow, który będzie, nie wiem, zamieniał tabelę taką, czy taką, czy nie wiem, wrzucał dane, wyrzucał i on ci po prostu napisze ten kawałek
+
+985
+02:27:22,480 --> 02:27:44,480
+deklaratywnego, wiesz, flowa i sobie go testujesz, zobaczysz, z dużym prawdopodobieństwem coś nie będzie działało, bo wiemy jak to działa, to nie jest tak, że wiesz, że to jest idealne albo coś, ale to ci daje dużo szybciej jakieś prompty, odpowiedzi, w którą stronę iść ewentualnie, żeby, wiesz, skracać strasznie czas.
+
+986
+02:27:44,480 --> 02:28:02,480
+Duży ryzyko jest pewnie dla juniorów, że nie będą ci potrzebni juniorzy, bo po co, jak mam przecież AI, to jest mój junior, mogę go tak traktować, bo mogę go traktować dwojako, ale jeżeli będę go traktował, że słuchaj, zrób mi to, to to, to ci zrobi.
+
+987
+02:28:02,480 --> 02:28:24,480
+My już w Power Platform wiemy, jak to ma działać. Ma to działać tak, że mówisz dokładnie mu, słuchaj, chcę system Customer Service, który będzie miał pięć tabel, nawet nie musisz mówić tabel, tylko mówisz mu business case'a i on ci to zrobi. Jeżeli masz już wiedzę i wiesz, czego oczekujesz, to zamiast to ręcznie klikać, to on mi to zrobił. Ja tylko mówię mu, zmień mi kolumnetą na tą, dorzuć mi sample data, wrzuca ci.
+
+988
+02:28:24,480 --> 02:28:33,480
+Na to potrzebne były dni. Ja teraz to robię przy wrzuceniu promta i on mi zwraca już w solucji temat.
+
+989
+02:28:33,480 --> 02:28:53,480
+Co mi się bardzo podoba właśnie, że więcej jest w tym wszystkim myślenia, takiego właśnie powolnego myślenia i planowania wszystkiego, niż szukania i takiej bezmyślnej roboty. I właśnie mam tutaj taki cytat a propos tego. To jest cytat Abrahama Lincolna, który mówi
+
+990
+02:28:53,480 --> 02:29:07,480
+Give me six hours to chop down a tree and I will spend the first four sharpening the axe. I jestem ciekaw właśnie jak ty się do tego odnosisz jako programista, jako deweloper i architekt.
+
+991
+02:29:23,480 --> 02:29:45,480
+Tak naprawdę najważniejsze jest to, żebyś zrozumiał ten problem, przemyślał jak to ma być zrobione, w którą stronę, jak wygląda dalsza faza tego rozwiązania, czy na pewno zanim już usiądziesz i zaczniesz robić, to po prostu musisz przemyśleć to, przeanalizować.
+
+992
+02:29:45,480 --> 02:30:01,480
+W kontekście A.I. tak samo, szybko możesz wszystko mieć, a co z tego, że masz 100 rozwiązań, musisz się zastanowić, dlaczego to wyszło tak, a nie inaczej. Możesz to też tune'ować.
+
+993
+02:30:01,480 --> 02:30:27,480
+No tak, bo A.I. ci wypluje 100 stron gotowych odpowiedzi i nagle sobie uzmysławiasz, że po prostu żyjemy w nawale informacji, czy to w telefonach, w mediach, w telewizji i tak dalej, czy nawet gotowych rozwiązań, czy też frameworków. Można robić wszystko na każdy sposób. Rozwiązań jest mnóstwo i właśnie problem jest w tym, żeby wybrać to właściwe.
+
+994
+02:30:27,480 --> 02:30:31,480
+I dla Ciebie właściwym jest Microsoft, Nooblado?
+
+995
+02:30:31,480 --> 02:30:51,480
+No zdecydowanie, zdecydowanie. Rozwiązań właściwych jest sporo. Ja uważam, że na rozwiązanie tego samego problemu i tak będzie zawsze wiele narzędzi i pewnie wiele jest właściwych.
+
+996
+02:30:51,480 --> 02:31:13,480
+To nie jest tak, że my się nie oszukujemy. Ja doświadczenia wiem, w HSBC miało wszystkie możliwe platformy tylko po to, żeby po pierwsze zdywersyfikować, po drugie mieć pewnie lepsze oferty, po trzecie mieć różny stack i wybór i dostosowanie i możliwości, wachlarz szeroki, nie tylko skupiasz się na jednym i tym.
+
+997
+02:31:13,480 --> 02:31:31,480
+To może to jest wielka organizacja. W normalnym świecie chcesz mieć rozwiązanie gotowe, które będzie stabilne, które możesz rozszerzać, w którym masz pewność, że jak firma wygaśnie, Nooblado czy inna, to ja dalej mam produkt i ja wiem co z nim robić.
+
+998
+02:31:31,480 --> 02:31:43,480
+Ale że co, że możesz zadzwonić do Microsofta i powiedzieć, no słuchajcie mam tu taki problem, była tu firma, która mi zamontowała rozwiązanie i teraz szukam po prostu nowej firmy i oni kogoś polecą?
+
+999
+02:31:43,480 --> 02:31:59,480
+To jest w ramach partnerstwa, oni mają szereg dystrybutorów, partnerów, tak jak my jesteśmy Cloud Service Provider, to takich firm jest oczywiście ileś na świecie i dystrybutorów jest na świecie.
+
+1000
+02:31:59,480 --> 02:32:25,480
+Więc jeżeli kierujesz nawet zapytanie do Microsofta bezpośrednio, mówiąc, że masz Dynamicsa powiedzmy, a firma się odwróciła do Ciebie tyłem i powiedziała, że sorry, ale ja Cię już nie wspieram, bo nie układa się tam, no to prosty temat, dzwonimy, wysyłamy etykietę, wysyłają wachlarz, zresztą sami mogą sobie znaleźć te firmy, lokalnie czy bardziej globalnie, które się tym zajmują, w jakich specjalizacjach się zajmują i dostają firmy, podpływamy rozmowy,
+
+1001
+02:32:25,480 --> 02:32:31,480
+czy ta firma trafia do naszych serc czy nie i jedziemy z tym.
+
+1002
+02:32:31,480 --> 02:32:45,480
+To się nauczyłem w takim HSBC, jak oni działają, że duży gracz, który wie, że on musi mieć plan A, plan B, jak ten nie wypali, to jeszcze mam C, musi mieć możliwość tej negocjacji i tak dalej.
+
+1003
+02:32:45,480 --> 02:33:05,480
+Dla firm jest też ważne, że wiedzą, że produkty, które mają, one będą wspieralne, utrzymywalne i będą mogli znaleźć osoby, patrząc na firmę, no okej, my możemy istnieć jak najdłużej, ale też chodzi o to, żeby konsultanci chcieli przychodzić do tej branży.
+
+1004
+02:33:05,480 --> 02:33:33,480
+Całe dziedziny. Dziedziny niszowe i tak dalej. Widać, że rozwija się to, że wchodzi teraz AI, który jest wiadomo lotny i wszyscy o nim mówią i tak dalej, a on jest u nas, on od nas, jakby od Microsoftu wychodzi w skrócie, no to wiesz, że jesteś w dobrym miejscu, to raczej nie stawiasz sobie pytania, czy to było niszowe, ale czy ten, no nie, bo za chwilę będziesz rzeczywiście miał możliwości, oni idą w tą stronę, żeby najlepiej biznes mógł realizować, dlatego o to chodzi, że możesz mieć ludzi.
+
+1005
+02:33:33,480 --> 02:33:34,480
+Sami dla siebie w sensie, tak?
+
+1006
+02:33:34,480 --> 02:33:46,480
+No, sami dla siebie, taki self-maintenance, wiesz, wiadomo, że mogą sobie w ramach tej platformy, chociaż mówię, to pewnie długa droga w mojej ocenie, bo samo...
+
+1007
+02:33:46,480 --> 02:33:56,480
+Dużo niuansów, bo może to wyglądać na początku, że to jest proste i łatwe i tak dalej, później dochodzą różne konkretne przypadki i się sobie człowiek uświadamia tak naprawdę ile nie wie.
+
+1008
+02:33:56,480 --> 02:34:07,480
+I też dokładnie, wiesz, to też chodzi znowu o kasę, jeżeli ty masz te narzędzia, a ty się w tym dobrze poruszasz, no to zapłacisz, bo to jest taniej, koniec końców i tak, niż samemu byś te kompetencje budował.
+
+1009
+02:34:07,480 --> 02:34:08,480
+No tak.
+
+1010
+02:34:08,480 --> 02:34:21,480
+My mamy, wiesz, ludzi dzisiaj ileś, jutro mamy jeszcze więcej, mamy różnych i nie zastąpisz tego w firmie jakiejś jednej, wiesz, zachęć kogoś, żeby przyjdzie na jakieś małe rozwiązanie, gdzie nie ma takiego rozwoju.
+
+1011
+02:34:21,480 --> 02:34:32,480
+Nie ma, wiesz, my się zajmujemy, wiadomo, nie tylko Power Platform, nie tylko Dynamixem, ale też Azure'owo, też robimy jakieś tam rozwiązania API-owe, integracyjne,
+
+1012
+02:34:32,480 --> 02:34:46,480
+czyli wiesz, jeżeli ktoś naprawdę jest uparty i chce być coderem i siedzieć przy linijkach kodu, why not, wchodzisz i działasz, ale znowu możemy przerzucać,
+
+1013
+02:34:47,480 --> 02:34:56,480
+a mówię, jeżeli byłoby to w przypadku firmy, gdzie wiesz, ma lokalnie, u siebie wewnętrznie, no to ta osoba w końcu będzie już znudzona.
+
+1014
+02:34:56,480 --> 02:35:09,480
+To czas najwyższy, czas najwyższy już przejść na chmurę, na nowe rozwiązania, bo potem są inne firmy, które działają dużo wydajniej, często dzięki takim rozwiązaniom, no i też koszta.
+
+1015
+02:35:09,480 --> 02:35:27,480
+Moim zdaniem koszta są dosyć stosunkowo niskie, jak jest dobrze skonfigurowany program, platforma, no to efektywność właśnie dzięki użyciu teraz, już dzisiaj AI, zysk jest niesamowity z tego, czasowy przynajmniej, bo kto ci…
+
+1016
+02:35:27,480 --> 02:35:28,480
+Czy się przekłada na…
+
+1017
+02:35:28,480 --> 02:35:41,480
+Tak, na finanse, oczywiście, że tak. Jeszcze takie pytanko, powiedz mi, czy jesteś otwarty na jakieś współpracy z innymi firmami, czy się hermetycznie zamykacie?
+
+1018
+02:35:42,480 --> 02:36:07,480
+Nie, zdecydowanie nie. Jesteśmy w jakim jesteśmy punkcie, jeśli chodzi o znowu platform Dynamics Azure. Konkurencja jest ogromna, jeśli chodzi o inne produkty. Konkurencję w rozumieniu Numblado nie traktuje innego partnera, czy innego dystrybutora, który robi nasze rozwiązania, tylko Google, tylko Amazon.
+
+1019
+02:36:07,480 --> 02:36:10,480
+Nie wchodźcie w to, to jest gorsze, rozumiesz?
+
+1020
+02:36:11,480 --> 02:36:12,480
+A jest?
+
+1021
+02:36:13,480 --> 02:36:25,480
+Pewnie nie, to jest kwestia, tą robotę robi Microsoft, tą robotę robi Amazon, to oni lasują, to oni robią tą grubą, ciężką robotę marketingową i te firmy decydentów przekonują do rozwiązań.
+
+1022
+02:36:26,480 --> 02:36:47,480
+Wszedłeś już w tę rzekę, no to ciężko ci jest z niej wyjść w skrócie. Jak przez lata Microsoft czy Amazon opakowuje te firmy, to później już naprawdę jest ciężka decyzja, żeby te miliony zainwestowane przerzucać teraz na coś innego, bo nie szykując się, ta konkurencja dogania, wiesz, tu masz takie, tu masz podobne, mówimy tutaj o OpenAI, a tu masz Barda w Google.
+
+1023
+02:36:48,480 --> 02:36:51,480
+Wiesz, tu masz Google Sheet, a tu masz Ofisa.
+
+1024
+02:36:52,480 --> 02:37:08,480
+Ja nie uważam, więc z mojego punktu widzenia konkurencja to jest rozumienie, jeżeli ktoś wybrał coś osobnego, customowego, czemu nie wziął Power Platform, skoro potrzebował piętnastu tabel i jakiś tam workflow.
+
+1025
+02:37:09,480 --> 02:37:26,480
+Czemu wziął, wiesz, jakiś inny low-code, no-code, których jest pełno znowu też na rynku. To jest dla mnie rozumienie konkurencji, a wszystko w ramach co się dzieje w Microsoftu to jest dla nas partnership, to jest słuchajcie, idźmy razem, edukujmy biznes, edukujmy razem, wygrywajmy razem w skrócie.
+
+1026
+02:37:27,480 --> 02:37:41,480
+Bo też często tak jest, że firmy, my sami się z tym złożyliśmy, jeżeli nie wygramy czegoś, to oni wybiorą produkt niekoniecznie Power Platform, niekoniecznie Microsoft, oni wezmą produkt, wiesz, custom i oni znowu z niego nigdy nie wyjdą.
+
+1027
+02:37:41,480 --> 02:38:04,480
+Jeżeli wejdą w Power Platform, czy wejdą w Dynamics, czy wejdą w coś takiego, no to wiadomo, że to będziemy mieli, otrzymywali, więc my jako firma, jakby każda z tych firm, z tych partnerów jako cały ten ekosystem Microsoftowy będziemy mieli możliwości rozwijania tych aplikacji itd.,
+
+1028
+02:38:05,480 --> 02:38:28,480
+więc dlatego prowadziliśmy kilka rozmów z różnymi partnerami, czy dystrybutorami, jeśli chodzi właśnie o takie partnerstwo bardziej, żeby dopełnić kompetencje, jeżeli jedni się zajmują, my też nie chcemy się zajmować wszystkim, to nie chodzi o to, że my będziemy dobrze od wszystkiego.
+
+1029
+02:38:28,480 --> 02:38:53,480
+My chcemy wykorzystać zdecydowanie ten stack Power Platformowy model driven plus Dynamics plus Azure jako infrastruktura i tak naprawdę na tym się skupiamy, my wiesz, nie będziemy jakoś specjalnie teraz się szarpać, że będziemy ekspertami od wizualizacji w Power BI-u czy jakieś inne tematy, po prostu dosyć w miarę wąsko.
+
+1030
+02:38:53,480 --> 02:39:18,480
+Jeżeli brakuje nam kompetencji, czy nawet nie tyle brakuje, co mamy konsultantów dostępnych, bo nie są obecni na jakimś projekcie, to możemy wchodzić razem, wdrażać te rozwiązania z jakimiś partnerami, bądź odwrotnie, jeżeli mamy zapotrzebowanie z zachodu jakieś ogromne, a sami nie mamy tyle przerobów, to jak najbardziej będziemy zachęcać partnerów do działania razem.
+
+1031
+02:39:18,480 --> 02:39:41,480
+W zasadzie na świeżo podpisaliśmy umowę z naszym partnerem Developico, firma fajna, taka z Warszawy, fajnie jakby lansująca low-code, no-code i powiedzmy edukująca rynek, dosyć dobrze pracująca razem z Microsoftem w tej materii.
+
+1032
+02:39:41,480 --> 02:39:59,480
+Z nimi podpisaliśmy umowę i rzeczywiście mamy tam jakieś razem realizacje, wrzucamy powiedzmy naszych ekspertów, jeżeli będzie potrzeba, to też mamy drzwi otwarte, żeby do nas, że tak powiem mogli nas zasilić, jeżeli będzie większy projekt, więc wygląda to fajnie.
+
+1033
+02:39:59,480 --> 02:40:28,480
+A powiedz mi jeszcze, bo można tak pomyśleć, że wiesz, że masz rozwiązania Microsoftu, tutaj masz ażur, tutaj masz Dynamics, tu masz Model Driven, tu masz Canvas i tak dalej i ludzie sobie myślą często, no dobra, a ja bym chciał, żeby to wyglądało trochę inaczej, żeby niekoniecznie było to, co mi Microsoft daje, tylko bym chciał, już mam swoją wizję w głowie, chciałbym, żeby apka wyglądała tak, a nie inaczej, działała tak, a nie inaczej
+
+1034
+02:40:28,480 --> 02:40:36,480
+i myślę, że często ktoś może pomyśleć, że nie ma takiej opcji, dostajesz to, co daje ci Microsoft i tyle i koniec.
+
+1035
+02:40:36,480 --> 02:40:43,480
+Powiedz mi, w tej perspektywie jaka jest możliwość customowania wszystkiego, zmiany, co możesz zrobić?
+
+1036
+02:40:44,480 --> 02:41:11,480
+Mieliśmy już wiele takich przypadków, że biznes nie kupował UI'a, nie wiem, power platformowego i mówi, słuchajcie, czy tam powiedzmy Dynamics'owego i mówi, dla nas to się nie wpisuje, bo osobami decydującymi byli ludzie, którzy bardziej się zajmowali UI'em i user interface, wiesz, geek'i, że tam klik musi być tu i ma być mniej klików i tak dalej.
+
+1037
+02:41:11,480 --> 02:41:22,480
+No i w takim wypadku są też opcje, bo Data Wares może służyć wyłącznie, albo nie wyłącznie, ale dla większości jako baza na przykład.
+
+1038
+02:41:22,480 --> 02:41:34,480
+Możesz mieć go po prostu pod spodem bazy danych, która wiesz, że jest zadbana pod kątem backup'owo, dostępności, wiesz, na najwyższym standardzie, security, zunifikowane w całym ekosystemie,
+
+1039
+02:41:34,480 --> 02:41:43,480
+a front-end na przykład budujesz sobie totalnie, nie wiem, możesz sobie portal zrobić w HTML5 i tyle i robisz, co chcesz.
+
+1040
+02:41:43,480 --> 02:41:58,480
+Tylko pytanie, no mówię, no to trzeba też pamiętać o tym, że klientowi, koniec końców, temu klientowi będziemy oferować produkt na przykład, z którego by nie korzystali, za który muszą płacić, więc trzeba się dobrze zastanowić, czy to jest na pewno dobre rozwiązanie.
+
+1041
+02:41:58,480 --> 02:42:12,480
+Czyli nie ma takiego, wiesz, prostej odpowiedzi, ale możesz powiedzieć, no dobra, nie chcecie, to może być też aplikacja mobilna, typowo natywna, nie wiem, napisana, czy tam, wiesz, cross platform, jakiś flutter czy coś.
+
+1042
+02:42:12,480 --> 02:42:18,480
+Piszesz, dodatkowo masz API w środku i też gadające z back-endem.
+
+1043
+02:42:18,480 --> 02:42:37,480
+Tylko to mówię, zawsze pojawia się pytanie, czy jakaś część funkcjonalności, czy jakaś część tego biznesu będzie jednak korzystać z tych funkcjonalności power platformowych, czy tylko mówimy o bazie, bo kiedyś też spotykałem się z takimi rozwiązaniami, że w zasadzie olewali całą warstwę UI-ową Dynamicsa i po prostu było wszystko w HTML-u.
+
+1044
+02:42:38,480 --> 02:42:54,480
+No ale wtedy się zastanawiasz, no dobra, to po co płacić tyle za licencję, wiesz, za Dynamicsa, jak tak naprawdę zbudowałeś customa obok, a to masz tylko bazę danych. No to ja Ci zrobię bazę danych w Azure, platformę ze serwis, robimy czy to NoSQL, czy typowo MS SQL.
+
+1045
+02:42:54,480 --> 02:43:11,480
+Tabelę Ci wyklikam, tak samo, wiesz, jakimś, jakby to nie jest żaden problem, uskryptujemy to wszystko, ustawimy, wiesz, backupy, availability i tak dalej. I po co Ci w takim razie platforma, nie? Platforma jako, wiesz, power-ups powiedzmy, tak?
+
+1046
+02:43:11,480 --> 02:43:32,480
+Tak, ale wchodzisz w taką pułapkę znowu customizacji, że musisz to wiecznie customować i jak na przykład wychodzi, nie wiem, na przykład update model Drivena, to on już nie będzie się Ciebie dotyczył i nie będziesz miał funkcjonalności ich nowych, które wymyślili, które sprzężyli za Ciebie, że zrobili tak naprawdę całą ciężką robotę, heavy lifting za Ciebie.
+
+1047
+02:43:32,480 --> 02:44:01,480
+Tak, dokładnie, no bo to już nie jest stricte model SaaSowy, tylko już przechodzisz właśnie level niżej, nie? Czyli na przykład platforma ze serwis, czyli nie interesuje Cię infrastruktura, ale ciągle platforma, czyli jakby masz tego, powiedzmy bazę i wiesz, że masz do niej dostęp, no i co na przykład UI, robisz tę, wiesz, warstwę prezentacji i robisz ręcznie w czymś tam, no i co, nic nie masz, tak? Nie masz searcha, wiesz, tu masz darmowego searcha, który, wiesz, naprawdę jest fajnie konfigurowany.
+
+1048
+02:44:01,480 --> 02:44:24,480
+Do takich podstawowych, backendowych, back office'owych działań nie potrzeba nic więcej, tak? Wiesz, no można się kłócić, że nie wiem, ten UI nie spełnia moich oczekiwań i tak dalej, ale on też się zmienia, oni też go dostosowują, przyspieszają, wiesz, dużo było zmian, jak porównam sobie wersję z CRM 3.0 do tej wersji, to wiesz, w CRM 3.0 nie było nawet relacji many to many.
+
+1049
+02:44:25,480 --> 02:44:37,480
+Jakby tam trzeba było tworzyć zawsze tabelę osobno, nie można było sobie złączyć dwóch tabel razem, żeby, wiesz, jakby to jest cały czas powtórzenie.
+
+1050
+02:44:37,480 --> 02:44:49,480
+Najważniejsza zaleta tego jest taka, że jeżeli później się spotkasz gdzieś indziej z produktem właśnie tego rozwiązania, czy pójdziesz do innej firmy, czy pracownicy pójdą do innej firmy, to oni wiedzą jak sobie go korzystać.
+
+1051
+02:44:49,480 --> 02:45:03,480
+Największe ryzyko jest z tym zawsze softem, jeżeli to jest taki bespoke, że ja się tu nauczyłem i ci ludzie tracą czas. Spójrzmy sobie na biznes, załóżmy zatrudniam w bankoficie 30 ludzi i ja mam Dynamixa.
+
+1052
+02:45:04,480 --> 02:45:15,480
+No dobra, 50 ludzi. I oni z dużym prawdopodobieństwem już gdzieś pracowali na Dynamiksie. Oni wchodząc już są gotowi, oni wiedzą, to okej, zmieniła się tabela, klikam.
+
+1053
+02:45:15,480 --> 02:45:24,480
+Ale ja już nie muszę przechodzić procesu treningu całego dla jakiegoś nowego systemu, który w ogóle jest z czapy, ktoś kiedyś napisał, nikt nigdy wcześniej nie używał.
+
+1054
+02:45:24,480 --> 02:45:32,480
+Tutaj migrując pracowników nawet, jakby oszczędzasz zdecydowanie czas na adopcji tego rozwiązania, no bo wiesz jak operujesz w nim, jak klikasz.
+
+1055
+02:45:32,480 --> 02:45:39,480
+Czy ktoś będzie mógł sobie niedługo wpisać w CV, że operował model Drivenem i wie czym to jest i tak dalej, na przykład załóżmy księgowy?
+
+1056
+02:45:39,480 --> 02:45:42,480
+Dobre pytanie, myślę, że zdecydowanie.
+
+1057
+02:45:42,480 --> 02:45:46,480
+Bo Excel oczywiście, cały office, każdy wpisuje.
+
+1058
+02:45:46,480 --> 02:45:55,480
+Zdecydowanie, no jakby powiedział, że Dynamiksa ogarnia. Wiesz, jeżeli wchodzisz do dużej firmy, w której jest Dynamiks, to jest pierwszy pewnie punkt, czy kiedykolwiek coś z nim robiłeś,
+
+1059
+02:45:55,480 --> 02:46:04,480
+no bo wiesz, że musisz go wiedzieć gdzie kliknąć, gdzie wejść, to nie jest wiadomo, jest intuicyjne, no ale to wszystko sprowadza się do jakiejś tam znajomości produktu,
+
+1060
+02:46:04,480 --> 02:46:15,480
+że gdzie kliknąć, co tam, że wiem gdzie znaleźć informacje tak naprawdę, żeby jak najszybciej, żeby ten system jednak, bo to po to się robi, żeby usprawniać te wewnętrzne procesy,
+
+1061
+02:46:15,480 --> 02:46:26,480
+jak najszybciej odnajdywać informacje, wiedzieć co się dzieje z klientem, wiedzieć co się dzieje w ramach organizacji, poza organizacją ewentualnie, w zależności od use case'ów jakie implementujesz.
+
+1062
+02:46:27,480 --> 02:46:36,480
+Czyli to się znowu pojawia gigant, Microsoft za nami stoi, czuwa, patrzy, rozwija, a my jesteśmy po prostu messengerami.
+
+1063
+02:46:36,480 --> 02:46:43,480
+Nie oszukujmy się, co my byśmy mogli mając dziesięciu konsultantów wielkiego stworzyć.
+
+1064
+02:46:43,480 --> 02:46:56,480
+Ok, marketingowo mógłbyś oszukiwać, że zrobiłeś piękny produkt, ale wiadomo co jest pod spodem, bo my wiemy ile czasu potrzeba na stworzenie, wiesz, głupiej jakiejś tam małej integracji,
+
+1065
+02:46:56,480 --> 02:47:10,480
+czy zachowania standardu bezpieczeństwa i tak dalej. To jakby porównując to, no to żadne te produkty, które ja widziałem teraz w Polsce, wracając do Polski i jakby wdrażając tego naszego ingreso
+
+1066
+02:47:10,480 --> 02:47:19,480
+i patrząc jakie systemy korzystają firmy i my na przykład utrzymujemy w Azurze Symfonię, duży ERP, ma różne moduły.
+
+1067
+02:47:19,480 --> 02:47:32,480
+Jakby ja patrzę jak to jest napisane, tak, to jest naprawdę stary twór, wiesz, to są okienka ciężkie, my to utrzymujemy na platformie azurowej, gdzie mamy SQLa hostowanego tam gdzieś,
+
+1068
+02:47:32,480 --> 02:47:44,480
+mamy frontend tu, to jest ładnie dostępne, zdalnie, pięknie i tak dalej, ale też widzieliśmy, bo musieliśmy się integrować na przykład, to widzieliśmy jak API są stworzone, jak są bazy danych, jaka struktura jest bazy danych,
+
+1069
+02:47:44,480 --> 02:47:56,480
+to człowiek się naprawdę łapie za głowę. Na przykład też często jest problem z tym, że masz kolejny login, no bo nie masz tam single sign-on, że możesz wykorzystać sobie swój, tylko masz osobny login.
+
+1070
+02:47:56,480 --> 02:48:10,480
+No właśnie, to jest też ciekawe, że ktokolwiek korzysta z aplikacji Microsoftu może wpisać po prostu jeden login, jedno hasło i ma dostęp do wszystkiego, nie musi skakać pomiędzy jednym a drugim.
+
+1071
+02:48:10,480 --> 02:48:25,480
+Może z perspektywy większości ludzi, którzy się po prostu gdzieś logują i wiedzą, że dla nich to nie jest na przykład duży ciężar, no to jest to duży ciężar.
+
+1072
+02:48:25,480 --> 02:48:49,480
+No jest, znaczy to jest duży ciężar to raz, dwa to jest podwyższone ryzyko, bo jak masz jedno, bo to nie chodzi o to, że najlepsze jest to w tym, że nie, że musimy się wszędzie logować, tylko w całym tym ekosystemie Microsoftowym zalogujesz się raz i on jest po prostu ja otwieram przeglądarki sobie i otwieram sobie Dataverse'a czy tam otwieram Office'a, Excel'a, to wszędzie ja jestem i nie muszę tego już podawać,
+
+1073
+02:48:49,480 --> 02:49:10,480
+bo kredensiale są skieszowane, ja to ja i sobie działam i tam nie ma ryzyka, że ja muszę pamiętać, że ja spisuję gdzieś to zapisane mam, kopiuję, a w tym mam drugie, a potem masz reguły wygasania haseł tutaj trzy miesiące, tam miesiąc i już się zaczynasz zapętlać.
+
+1074
+02:49:11,480 --> 02:49:24,480
+No bo tak jest często, że potem jak masz te rozwiązania rzeczywiście obce, to potem tu masz hasła jakieś proste, żeby pamiętać, to proste łatwo przejąć i tracimy dane.
+
+1075
+02:49:25,480 --> 02:49:51,480
+No tak i też się nie krzaczy na przykład, jak masz na przykład w firmie jakieś dochodzi do momentu, że właśnie login wygaśnie i nagle wygasa login na 30 kompach i jest panika w firmie, nie wiadomo co zrobić, cały dzień mija, przychodzi tak przysłowiowy informatyk, naprawić wszystko i wszystko zrobić, a firma w tym momencie traci kupę czasu, a co za tym idzie pieniądze, bo to są robocze godziny.
+
+1076
+02:49:52,480 --> 02:49:57,480
+Zdecydowanie, to jest kolejna jakaś tam powiedzmy zaleta.
+
+1077
+02:49:57,480 --> 02:50:18,480
+Wiadomo, że te rozwiązania customowe też można korzystać, jeżeli się zdecydujemy na, teraz to się nazywa Entra, Microsoft Entra, a wcześniej Active Directory, czyli jakby ten identyfikator czy mój username, ta baza usera, to można sobie skonfigurować to z rozwiązaniami jakichkolwiek,
+
+1078
+02:50:18,480 --> 02:50:27,480
+ale to jest kwestia czy dane rozwiązanie wspiera taką integrację z jednym identity w skrócie.
+
+1079
+02:50:27,480 --> 02:50:54,480
+Czy może mógłbyś pokrótce powiedzieć czym to się, bo my tak tu operujemy Azure, Power Apps, Dynamics, a nie każdy widzi różnicę, nie każdy wie czym to się różni, co jest dla kogo i co ktokolwiek byłby zainteresowany współpracą z twoją firmą, miałby na myśli, czyli czy Dynamics, czy Azure, czy Power Apps, czy Canvas.
+
+1080
+02:50:55,480 --> 02:50:59,480
+Spoko, to zaczniemy może od Azura w takim razie.
+
+1081
+02:50:59,480 --> 02:51:21,480
+Azure to jest chmura, infrastruktura w chmurze w skrócie, infrastruktura w chmurze, czyli mamy tutaj jakieś computing, obliczeniowe komponenty, czyli możemy mieć coś co nam przeliczy, coś co nam coś zintegruje.
+
+1082
+02:51:21,480 --> 02:51:22,480
+Czyli działa non stop.
+
+1083
+02:51:22,480 --> 02:51:33,480
+No coś tam się dzieje, kupujemy powiedzmy jakiś komponent, który płacimy za użycie i tak dalej, może to brzmi trochę bardzo high level.
+
+1084
+02:51:34,480 --> 02:51:53,480
+Mamy też na tej infrastrukturze chmurowej mamy oczywiście tematy typu storage, czyli jakieś tam kontenery na zasadzie do przechowywania danych w skrócie, czyli mamy też oczywiście wirtualne maszyny, czyli nie musimy naszego serwera mieć lokalnie tutaj postawionego,
+
+1085
+02:51:53,480 --> 02:52:10,480
+tylko budujemy takiego tenanta, to się nazywa w Microsoftzie w Azure, w którym tworzymy profil jakby naszego klienta i tam zaczynamy dodawać różne usługi typu właśnie wirtualna maszyna, baza danych i to w różnym modelu.
+
+1086
+02:52:10,480 --> 02:52:31,480
+Tam mamy Infrastructure as a Service bądź Platformę as a Service i sobie tam je możemy ładnie podłączać, konfigurować, backupy danych, jakieś usługi typu Data Warehouse, czyli do jakichś dużych danych, big data.
+
+1087
+02:52:32,480 --> 02:52:53,480
+Mamy usługi od zwykłych przechowywania plików po prostu, na przykład korzystamy też mocno z Azure jako integracji, jako warstwy integracyjnej, czyli tam możemy też tworzyć takie trochę low code, no code rozwiązania, żeby integrować różne systemy i jakby API pod kątem zabezpieczeń.
+
+1088
+02:52:53,480 --> 02:53:22,480
+Security też jest tam, Defender, też teraz ładnie lecą jeśli chodzi o ranking, jakby biorąc licencję M365 w pakiecie tam Business Premium no to mamy naprawdę spoko antywira, jakby kiedyś trzeba było dodatkowo kupować, teraz to już wygląda tak, że w zasadzie bierzemy tą wersję Business Premium i mamy w pakiecie mnóstwo jakichś tam filtrów, rozwiązań, podpowiadaczy, audytów.
+
+1089
+02:53:23,480 --> 02:53:29,480
+To jest Azure, czyli jak my to widzimy biznesowo.
+
+1090
+02:53:29,480 --> 02:53:38,480
+No właśnie, bo żeby ktoś mógł sobie tak może lajk jakiś uzmysłowić, czym jest ten Azure, po co mu to jest, żeby nie trzymać po prostu serwera w piwnicy?
+
+1091
+02:53:38,480 --> 02:53:44,480
+Dokładnie, no dokładnie, czyli nie wiem, mam swój serwer, na którymś coś mam.
+
+1092
+02:53:44,480 --> 02:53:47,480
+Czyli jest gdzieś tam po prostu w Stanach czy w Europie?
+
+1093
+02:53:47,480 --> 02:53:48,480
+W Polsce też jest.
+
+1094
+02:53:48,480 --> 02:53:52,480
+I jest też w Polsce, tak? I tam sobie wszystko pięknie, ładnie działa. A gdzie to jest?
+
+1095
+02:53:53,480 --> 02:54:13,480
+Oni Ci takiej dokładnej lokalizacji nie podadzą, ale jest w Polsce pod Warszawą chyba gdzieś i jeszcze są jakieś dwa data center zawsze i one ze sobą są spięte tak, że mogą sobie te dane trzymać jakby tu i tu,
+
+1096
+02:54:13,480 --> 02:54:17,480
+że jak jeden pada to drugi jest dostępny, żeby mieć stały dostęp.
+
+1097
+02:54:17,480 --> 02:54:31,480
+Co jest znowu jakby patrząc, czy warto Microsoft, czy warto te technologie, czy warto Azure, no to wcześniej był problem i przeszkoda, że chmury nie było w Polsce fizycznych danych.
+
+1098
+02:54:31,480 --> 02:54:41,480
+My przechodząc HSBC i złożoność tematów, jeśli chodzi o data residency, czyli gdzie dane mogą spoczywać i co jest zgodne z prawem, jeżeli dane są wrażliwe,
+
+1099
+02:54:41,480 --> 02:54:50,480
+no to w Polsce też pewnie często pojawiłby się problem, że słuchajcie, fizycznie te dane siedzą w Holandii, co mi się nie podoba, niezgodne z prawem.
+
+1100
+02:54:50,480 --> 02:55:01,480
+Więc teraz jest już zaadresowany ten problem, jest w Polsce, czyli jakbyśmy odcięli w skrócie internety, no to te dane sobie siedzą tu.
+
+1101
+02:55:01,480 --> 02:55:10,480
+Więc na tych dyskach rzeczywiście są. Czy one są zaszyfrowane i tak dalej, to jest druga kwestia, ale są i mamy do nich dostęp, to są nasze dane, czyli fizycznie one spoczywają.
+
+1102
+02:55:10,480 --> 02:55:21,480
+Ale tak dla biznesu w skrócie oznacza to tyle, mam swerwer, na którym mam, nie wiem, czy to backupy, czy to dane, czy jakaś strona wisi, czy to jakiś system jest hostowany, nie wiem, do hotelu obsługi,
+
+1103
+02:55:21,480 --> 02:55:33,480
+do fabryki, która ma jakiś system ERP, zarządzania projektami, cokolwiek i to siedzi na tej maszynie fizycznej, to my mówimy, przechodzimy do Azure,
+
+1104
+02:55:34,480 --> 02:55:44,480
+robimy inwentaryzację tego softu, sprawdzamy co tam jest, jakie są wymagania, jakie mam propozycje pokazać, ile to będzie kosztowało miesięcznie plus minus.
+
+1105
+02:55:44,480 --> 02:55:55,480
+Tworzymy to w chmurze, utrzymujemy, mamy tam w tym momencie jakieś aktywowane automatyczne backupy, snapshoty, że możemy odtworzyć logi, alerty,
+
+1106
+02:55:55,480 --> 02:56:06,480
+czyli wiemy co się dzieje, jakieś notyfikacje co do zagrożeń ewentualnych, jakichś szkodliwych działań w czasie rzeczywistym, też przy wykorzystaniu,
+
+1107
+02:56:06,480 --> 02:56:14,480
+Microsoft fajnie to teraz robi, przy wykorzystaniu jakichś AI, jakichś patternów, sprawdza czy coś mi wygląda, więc wysoki poziom bezpieczeństwa.
+
+1108
+02:56:14,480 --> 02:56:24,480
+Tak naprawdę nie zajmujemy się już później tym serwerem, ten serwer znika, do widzenia, sprzedajemy go i jak chce się przepiąć i chce przenieść się do innego miejsca
+
+1109
+02:56:24,480 --> 02:56:29,480
+to ja się przepinam fizycznie z rzeczami, ale serwer cały czas jest dostępny.
+
+1110
+02:56:29,480 --> 02:56:43,480
+Ukraina żyje dzięki temu, że oni chyba w bardzo dużej mierze właśnie weszli na Azura i Polska utrzymuje dużo i public cały przeszedł jakby na Azura i ona jest w Polsce.
+
+1111
+02:56:44,480 --> 02:56:54,480
+Siedzi, także oni funkcjonują, normalne takie aktywności też dzięki chmurze, bo jednak data center byłby pewnie pierwszym targetem Rosji.
+
+1112
+02:56:54,480 --> 02:57:03,480
+Rozwalić i jak nie masz banków, nie masz niczego, wszystko może być w chmurze, więc nawet ryzyko tego typu jest minimalizowane.
+
+1113
+02:57:03,480 --> 02:57:07,480
+No i każdy może przyjść tak naprawdę do Ciebie i się podpiąć też pod tą technologię.
+
+1114
+02:57:08,480 --> 02:57:18,480
+I jeżeli czujemy się zagrożeni, że w Polsce te dane nie chciałbym, żeby były trzymane, robimy przepinkę do US, do widzenia i dane już siedzą tam.
+
+1115
+02:57:18,480 --> 02:57:22,480
+Czyli nawet jakby tutaj coś się wydarzyło nie po naszej myśli to mamy dane tam.
+
+1116
+02:57:22,480 --> 02:57:36,480
+Zresztą zawsze jest opcja tego geo, że możesz mieć redundancję pomiędzy kontynentami, czyli de facto trzymane są tu i na innym kontynencie, żeby nawet minimalizować takie ryzyko.
+
+1117
+02:57:36,480 --> 02:57:42,480
+Już nie mówiąc o tym, że fizycznie serwer gdzieś siedzi i po prostu Ci się budynek spali i danych nie odzyskamy.
+
+1118
+02:57:42,480 --> 02:57:46,480
+Nie szukajmy tutaj jakichś wielkich czarnych scenariuszy.
+
+1119
+02:57:46,480 --> 02:57:57,480
+Po prostu będzie komputerek i został zalany i na tyle niefortunnie zalany, że procesor się spalił i spaliła Ci się płyta główna, dysk nie do odzyskania.
+
+1120
+02:57:57,480 --> 02:58:01,480
+Wiadomo, że się ludzie zajmują odzyskiwaniem tego, ale jest to ciężkie.
+
+1121
+02:58:01,480 --> 02:58:06,480
+Oni dają gwarancję, jeżeli masz to zabezpieczone, masz to...
+
+1122
+02:58:06,480 --> 02:58:11,480
+W sensie Microsoft daje gwarancję na wszystkie Twoje dane, które tam przechowujesz.
+
+1123
+02:58:11,480 --> 02:58:17,480
+Odpowiedzialność spoczywa na nich, a nie, że ktoś nie wyłączył światła w piwnicy.
+
+1124
+02:58:17,480 --> 02:58:25,480
+Oczywiście tam dochodzą tematy, jak to wiadomo, zawsze wygląda prawnie i niuanse, że musi być jakiś zachowany poziom bezpieczeństwa,
+
+1125
+02:58:25,480 --> 02:58:36,480
+bo jeżeli firma, która by utrzymywała to nie w sposób zamierzony i rekomendowany, nie spełnialiby standardów,
+
+1126
+02:58:36,480 --> 02:58:41,480
+mieliby otwarte hasło zapisane gdzieś tam i ktoś to usunął wszystko i wywalił wszystko,
+
+1127
+02:58:41,480 --> 02:58:46,480
+to mogą też powiedzieć, że słuchajcie, ale zawsze stoi gdzieś tam ten Microsoft.
+
+1128
+02:58:46,480 --> 02:58:53,480
+Raz, że dystrybutor nasz, czyli też duża firma, a dwa, że Microsoft, który jest w stanie nam pomóc.
+
+1129
+02:58:54,480 --> 02:58:58,480
+Możemy być mniejsi, a mierzyć wysoko w skrócie.
+
+1130
+02:58:58,480 --> 02:59:02,480
+To ażur, a teraz przejdźmy do Dynamics.
+
+1131
+02:59:06,480 --> 02:59:09,480
+Dynamics to różne apki.
+
+1132
+02:59:09,480 --> 02:59:20,480
+Mamy Dynamics typowo finansowo lub ERP-owy, główny podział jest na te z rodziny ERP-ów w skrócie
+
+1133
+02:59:20,480 --> 02:59:26,480
+i CRM-owych, czyli bardziej Customer Relationship Management.
+
+1134
+02:59:26,480 --> 02:59:37,480
+I teraz obecnie dokonywana jest mocna unifikacja, bo te ERP-owe rozwiązania, czyli w skrócie, kto używa ERP-ów,
+
+1135
+02:59:37,480 --> 02:59:47,480
+finansowy moduł, ale też fabryki, często produkcje, supply chain, czyli jakieś tam projekty, tam są też moduły CRM-owe,
+
+1136
+02:59:47,480 --> 02:59:55,480
+ale Microsoft zauważył, że trochę chyba bez sensu tak mi to wygląda, że po pierwsze to jest trochę starej technologii,
+
+1137
+02:59:55,480 --> 03:00:07,480
+nie tak do końca eleganckiej, ale seksownej, jak jest Power Platform i Dynamics bardziej od strony CRM-owej,
+
+1138
+03:00:07,480 --> 03:00:18,480
+stąd ta specjalizacja jest taka, że nie ma aż tyle tych specjalistów z tej strony ERP-a, więc Microsoft trochę zaczyna to unifikować wszystko.
+
+1139
+03:00:18,480 --> 03:00:26,480
+Dynamics już jest obecnie na jednej platformie, że możesz sobie tworzyć środowiska i to dla CRM-owego i ERP-owego,
+
+1140
+03:00:26,480 --> 03:00:30,480
+czego wcześniej nie było, to były dwa osoby nabyte, mimo że dwa się nazywały Dynamics.
+
+1141
+03:00:30,480 --> 03:00:38,480
+Czyli pierwszym ruchem było, nazywamy to Dynamics, jedno jest na przykład Finance and Operations, a drugie jest For Sales.
+
+1142
+03:00:38,480 --> 03:00:45,480
+To były jakby dwa zupełnie inne technologicznie produkty. Co jakby się teraz zmienia?
+
+1143
+03:00:46,480 --> 03:00:47,480
+Masz to?
+
+1144
+03:00:47,480 --> 03:00:48,480
+Wezmę.
+
+1145
+03:00:48,480 --> 03:00:51,480
+Nie jest to łatwe, ale się da.
+
+1146
+03:00:56,480 --> 03:01:09,480
+Jeżeli skupimy się, ten model ERP, czyli powiedzmy tańsza wersja, taka jest biznes central, to to znowu tak jak wcześniej Ci mówiłem,
+
+1147
+03:01:09,480 --> 03:01:19,480
+nasz ingreso powstał i tam są też takie moduły typu, jakiś tam moduł znajdziesz pewnie i częściowo HR-owy, czyli tak jakby każda firma trochę większa,
+
+1148
+03:01:19,480 --> 03:01:30,480
+która chce widzieć swoje przedsiębiorstwo z lotu ptaka, czyli koszty, zamówienia, ewentualnie produkty, sklep załóżmy, który ma swój magazyn,
+
+1149
+03:01:30,480 --> 03:01:38,480
+czyli moduł magazynowy ma to w jednym systemie w skrócie i do tego jest taki biznes central.
+
+1150
+03:01:39,480 --> 03:01:41,480
+I to wisi też na ażur, tak?
+
+1151
+03:01:41,480 --> 03:01:49,480
+To wszystko jest na infrastrukturze azurowej, jeżeli mówimy o rozwiązaniu tym chmurowym i co?
+
+1152
+03:01:49,480 --> 03:01:56,480
+No i kupujemy licencję per user i mamy szereg modułów dostępnych, które sobie aktywujemy po kolei, czyli jeżeli wystawiasz faktury,
+
+1153
+03:01:56,480 --> 03:02:03,480
+twoja firma wystawia faktury na podstawie produktów, które produkujesz gdzieś tam albo bierzesz skądś, to możesz to wszystko ustawić,
+
+1154
+03:02:03,480 --> 03:02:11,480
+czyli możesz ustawić sobie vendorów, masz dostawców, odbiorców, masz ludzi, klientów, masz deale potencjalne,
+
+1155
+03:02:11,480 --> 03:02:21,480
+czyli masz też moduł taki trochę CRM-owy, gdzie możesz twoje opportunities, czyli leady trzymać i nimi zarządzać i mieć do tego widok,
+
+1156
+03:02:21,480 --> 03:02:26,480
+widzieć jak to wygląda pipeline, no co jeszcze?
+
+1157
+03:02:26,480 --> 03:02:30,480
+Mi to bardzo przypomina właśnie Model Driven i Power Apps.
+
+1158
+03:02:30,480 --> 03:02:34,480
+Czy jest jakaś fundamentalna różnica między jednym a drugim?
+
+1159
+03:02:34,480 --> 03:02:44,480
+Jeszcze tylko dokończę Ci, bo zdążyłem zamknąć temat tego ERPA powiedzmy, czyli Business Central i Finance Operations i tam różne jeszcze są moduły,
+
+1160
+03:02:44,480 --> 03:02:55,480
+ale jest ten Dynamics powiedzmy for Sales, czy Customer Service, który realizowaliśmy tam dla Jersey i realizujemy obecnie i dla HSBC i wiele innych rzeczy,
+
+1161
+03:02:55,480 --> 03:03:06,480
+innych banków, to są moduły takie typowo CRM-owe, w którym właśnie masz głównie leady, w tym salesie masz zarządzanie leadami, dealami,
+
+1162
+03:03:06,480 --> 03:03:14,480
+zamówieniami ewentualnie i jakaś dalsza integracja tam z kolejnymi systemami już takimi, w którym się dokonuje tych transakcji,
+
+1163
+03:03:14,480 --> 03:03:18,480
+jakimiś tam księgowymi i tak dalej, no i on do tego służy.
+
+1164
+03:03:19,480 --> 03:03:31,480
+Tam chodzi o to też, żeby mieć możliwość i dostęp, jakieś są wtyczki AI-owe, na przykład jakieś tam moduły, które pozwalają Ci na spojrzenie na swoją relację z klientem,
+
+1165
+03:03:31,480 --> 03:03:43,480
+sprawdzenie osób decyzyjnych, zobaczyć z kim musisz gadać, jakie odbyłeś rozmowy, czy np. podpowiada Ci system, że słuchaj Ty powinieneś z nimi zagadać,
+
+1166
+03:03:43,480 --> 03:03:51,480
+bo tam jest potencjalnie deal do zrobienia, jakby Microsoft nad tym pracuje cały czas z produktem i rozszerza funkcjonalności.
+
+1167
+03:03:51,480 --> 03:04:04,480
+Znowu z customer service, to jest taki CRM, ale bardziej od strony wsparcia klienta, czyli jeżeli my na przykład jesteśmy Nublado i mamy klientów i oni mają jakieś problemy z naszym produktem,
+
+1168
+03:04:04,480 --> 03:04:17,480
+czyli problemy to oni obecnie wrzucaliby na maile, na skrzynkę i słuchaj, pomoc ma opłat Nublado.pl, mam problem, to można zautomatyzować poprzez system Dynamics i customer service,
+
+1169
+03:04:17,480 --> 03:04:27,480
+wchodzą sobie takie zapytania, powiedzmy, czy to bugi, czy coś, wchodzi to do systemu i to mamy wszystko w jednym systemie, czyli wiemy ile było problemów,
+
+1170
+03:04:27,480 --> 03:04:35,480
+ile to nas kosztowało czasu zarządzić tym z punktu widzenia organizacji, to jest raczej produkt dla dużych firm.
+
+1171
+03:04:35,480 --> 03:04:38,480
+Czyli ile pracowników byś tak powiedział?
+
+1172
+03:04:38,480 --> 03:04:48,480
+Myślę, że to nawet nie chodzi o tyle pracowników, ile masz np. case'ów, zapytań itd., bo chodzi o to, żeby to wszystko zautomatyzować.
+
+1173
+03:04:49,480 --> 03:05:02,480
+Nie zrobiłbyś sobie Dynamics'a, gdybyś miał dwóch klientów i pięciu ludzi, bo mógłbyś sobie to wdrożyć, ale co z tego, że będziesz testował pięć case'ów tworzonych.
+
+1174
+03:05:02,480 --> 03:05:24,480
+Jeżeli masz umowy podpisane z firmami, że ty musisz im rozwiązać problem w ciągu dwóch godzin, to jeżeli nie masz systemu, to jak to jesteś w stanie zweryfikować?
+
+1175
+03:05:24,480 --> 03:05:31,480
+To chodzi o to, że wtedy tworzysz system i widzisz, że jest SLA i zegar tyka ci, widzisz, że została ci godzina, musisz odpowiedzieć, czemu gościu nie odpowiedział.
+
+1176
+03:05:31,480 --> 03:05:36,480
+Odpowiedzialność wtedy widać wszystko na talerzu, to jest wszystko w systemie i to masz ten Dynamics.
+
+1177
+03:05:36,480 --> 03:05:46,480
+Tam są konkretne określone moduły, raz, że są różne appsy, czyli sales i customer service.
+
+1178
+03:05:46,480 --> 03:05:57,480
+W ramach tych dwóch rozwiązań mamy różne moduły dostępne, jakieś tabele już gotowe, funkcjonalności, jakiś proces end-to-end teoretycznie dostosowany do potrzeb szerszej grupy odbiorców,
+
+1179
+03:05:58,480 --> 03:06:03,480
+której tak trzeba oczywiście dostosowywać, customizować zawsze w jakiś sposób mniej lub bardziej inwazyjny.
+
+1180
+03:06:03,480 --> 03:06:13,480
+I później masz Power Platform, to jest jakby znowu, jeśli się śmiejesz, to takie marketingowe odejście, był Dynamics, był CRM, więc oni teraz stwierdzili,
+
+1181
+03:06:13,480 --> 03:06:20,480
+dobra, Power Platform, czyli zrobimy coś, właściwie nie każdy chce Dynamicsa i oni pewnie zauważyli, Microsoft zauważył, że wiele firm,
+
+1182
+03:06:20,480 --> 03:06:27,480
+których ja również pracowałem albo dla których robiłem jakieś tam rozwiązania, nie korzystały z funkcjonalności Dynamicsa.
+
+1183
+03:06:27,480 --> 03:06:32,480
+Czyli zbyt obszerny, zbyt dużo funkcjonalności miał, nie potrzebowały tego.
+
+1184
+03:06:32,480 --> 03:06:43,480
+Bardziej nawet podobało się im to, że jak łatwo się tam dostosowuje i tworzy nowe rzeczy, jak łatwo jest ta baza danych i po prostu sobie tabelę tworzę i mam.
+
+1185
+03:06:43,480 --> 03:06:53,480
+Mam założone indeksy, mam wyszukiwania, mam podstawową platformę, taka która się opiera na danych i mogłem sobie tworzyć co chciałem.
+
+1186
+03:06:53,480 --> 03:07:05,480
+Więc oni pewnie w odpowiedzi na zachowania i jak rynek np. adoptuje to rozwiązanie zauważyli, że ja niekoniecznie jestem zainteresowany jakimiś konkretnym salesem, appsem,
+
+1187
+03:07:05,480 --> 03:07:10,480
+bo te funkcjonalności mnie nie interesują, bo nasz model, proces zupełnie inaczej wygląda.
+
+1188
+03:07:10,480 --> 03:07:21,480
+Więc pewnie odpowiedzią na te potrzeby było właśnie, no to macie Power Platform, nas to tyle już nie kosztuje, nie musimy się bawić i tworzyć nowe jakieś tam funkcjonalności,
+
+1189
+03:07:21,480 --> 03:07:33,480
+typu konkretnie jakieś procesy, tylko robimy coś co jest otwartą platformą, rozszerzalną, gdzie każde swoje mini firma, biznesowe potrzeby ma, nie wiem,
+
+1190
+03:07:33,480 --> 03:07:44,480
+moduł od zarządzania pokojami w firmie, jesteś w stanie sobie parę godzin wyklikać, mamy to.
+
+1191
+03:07:44,480 --> 03:07:52,480
+Wiesz, że jutro będę miał gościa, który może to wspierać, bo to jest szeroko znana platforma, to nie jest na świecie.
+
+1192
+03:07:53,480 --> 03:08:01,480
+Wiadomo, w Polsce jeszcze to jest cały czas na takim pewnie raczkującym poziomie w mojej ocenie, ale to musi iść.
+
+1193
+03:08:01,480 --> 03:08:10,480
+Wiemy jak wygląda na zachodzie, jak właśnie pozbywają się firmy tych rozwiązań typowo customowych i zastępują je Power Platform, więc to jest to.
+
+1194
+03:08:10,480 --> 03:08:19,480
+Mówiłeś o Canvas, Canvas jest niczym innym jak tylko, ja to nazywam po prostu innym interfejsem, inną warstwą prezentacji, która daje trochę więcej możliwości,
+
+1195
+03:08:19,480 --> 03:08:31,480
+z której możesz się wpiąć do czegokolwiek, możesz się wpiąć do Dataverse'a, możesz się wpiąć do Sharepoint'a, możesz się wpiąć do innych, po prostu jakby innych backendów, innych danych, modeli danych.
+
+1196
+03:08:31,480 --> 03:08:42,480
+I tyle, Canvas to jest po prostu jakby twoja Canva, na niej sobie rysujesz i okej, wezmę sobie source z tego, source z tamtego i tworzysz jakieś pejże.
+
+1197
+03:08:42,480 --> 03:09:00,480
+Tak, co ciekawe można też to zastąpić, bo to jest taka wersja dość podstawowa, kanwasy w sensie i często na przykład firmy potrafią dobudowywać własny frontend i budować na nim cokolwiek sobie chcą, tak jak mówiliśmy wcześniej.
+
+1198
+03:09:00,480 --> 03:09:05,480
+Czyli tak podsumowując Azure to bazy danych, tak w skrócie.
+
+1199
+03:09:05,480 --> 03:09:18,480
+I komputery tylko w chmurze, moje komputery, zamiast jakby komputer firmowy, wirtualna maszyna, do której ja się tam loguję i tam mam na przykład zainstalowane swoje narzędzia do pracy.
+
+1200
+03:09:18,480 --> 03:09:27,480
+Nie muszę mieć fizycznie na kompie, tylko ja się loguję do tej chmury azurowej i tam jest mój dostęp do firmowy powiedzmy.
+
+1201
+03:09:27,480 --> 03:09:35,480
+A czy można powiedzieć, że w sumie Power Apps i Model Driven to jest dziecko Dynamicsa?
+
+1202
+03:09:35,480 --> 03:09:42,480
+Że wywodzi się po prostu od Dynamicsa w tej mierze i jest takim uproszczoną wersją jego?
+
+1203
+03:09:43,480 --> 03:09:52,480
+Ja bym się zastanowił też nad tym, co to jest Dynamics w ogóle, bo to trochę jest kierowane znowu moim zdaniem marketingiem mocno.
+
+1204
+03:09:52,480 --> 03:09:58,480
+Czyli jakby spojrzysz, był CRM, tak naprawdę to jest dzieckiem CRM-a.
+
+1205
+03:09:58,480 --> 03:10:02,480
+Ten CRM był przeniesiony, zrebrandowany na Dynamics.
+
+1206
+03:10:02,480 --> 03:10:13,480
+Potem powstał ten Dynamics Sales i Dynamics tam powiedzmy, czyli te apki teoretycznie, które skupiają się na pewnych potrzebach biznesowych, konkretnych.
+
+1207
+03:10:13,480 --> 03:10:18,480
+To jest do sprzedaży, to jest do wsparcia klienta, to jest tam do czegoś.
+
+1208
+03:10:19,480 --> 03:10:26,480
+I Power Platform korzysta dokładnie jak kiedyś CRM była baza, czy Power Platform.
+
+1209
+03:10:26,480 --> 03:10:32,480
+Power Platform jako szerzej to wiadomo, że masz i Power Apps, masz Dataverse, czyli tego CRM-a.
+
+1210
+03:10:32,480 --> 03:10:41,480
+Więc jakby jest to, bo ty pytałeś o Power Apps czy Power Platform, bo już trochę się zakręciłem szczerze mówiąc.
+
+1211
+03:10:41,480 --> 03:10:43,480
+Czekaj, nie wiem teraz.
+
+1212
+03:10:43,480 --> 03:10:46,480
+Właśnie, jakby to są też inne wiesz.
+
+1213
+03:10:46,480 --> 03:10:49,480
+No to może powiedz od razu jaka jest różnica między jednym i drugim.
+
+1214
+03:10:49,480 --> 03:11:01,480
+No dobra, no to Power Platform to jest ta cała platforma zbiórczego, wchodzi Power Apps, a Power Apps to jest albo Canva, albo Model Driven.
+
+1215
+03:11:01,480 --> 03:11:10,480
+Dataverse, czyli dane, czyli ten CRM historycznie, tylko że on też sam nie działa.
+
+1216
+03:11:11,480 --> 03:11:17,480
+No dobra, w skrócie CRM z API, czyli mogę do tego gadać pod spodem od strony kodu.
+
+1217
+03:11:17,480 --> 03:11:22,480
+Mamy Power Automate, czyli taki workflow, orkiestracja, automatyzacja.
+
+1218
+03:11:22,480 --> 03:11:28,480
+I co tam mamy jeszcze? Virtual Boty, jakieś tam dodatki.
+
+1219
+03:11:28,480 --> 03:11:32,480
+Mamy AI Buildera, ale nie wiem czy on jest w ramach...
+
+1220
+03:11:32,480 --> 03:11:44,480
+Tak, on jest AI Builder, to też jest już teraz jako Power Platform, ale też nad tym ciężko nadążyć, bo to jest kreowane moim zdaniem, jakby to widać, to się zmienia, to jest rebranding.
+
+1221
+03:11:44,480 --> 03:11:52,480
+Wiesz, wczoraj było Dataverse, słuchaj, był Dynamics, za chwilę zrobili z tego Dataverse i czytaliśmy artykuły Dynamics i popatrzysz Dataverse.
+
+1222
+03:11:52,480 --> 03:12:00,480
+Używane jako synonim, ale niekoniecznie, jakby to jest złożone, to jest pewnie na osobny...
+
+1223
+03:12:00,480 --> 03:12:04,480
+Pewnie tak, bo technologia się prężnie rozwija w dzisiejszych czasach.
+
+1224
+03:12:04,480 --> 03:12:18,480
+Mnie ciekawi właśnie, czy będziemy mieć taką przyszłość niedługo w Polsce, gdzie będziesz wpisywał sobie Power Platform w CV, że umiesz obsługiwać i idziesz od firmy do firmy i każda firma ma to rozwiązanie praktycznie,
+
+1225
+03:12:18,480 --> 03:12:24,480
+bo wydaje mi się, że gdyby nie było takiej możliwości, to byś pewnie Nubladu nie zakładał.
+
+1226
+03:12:25,480 --> 03:12:37,480
+No tak, myślę, że tak to może wyglądać docelowo, że rzeczywiście gdzieś tam zawsze każda firma jakaś będzie średnia, która ma rozwiązania Microsoftowe,
+
+1227
+03:12:37,480 --> 03:12:47,480
+będzie miała u siebie Power Platform zaadoptowane i jakieś tam funkcjonalności będą na tym latały, więc każdy będzie wiedział, że jak notyfikacje dostaję, to wiem,
+
+1228
+03:12:47,480 --> 03:12:57,480
+że coś jest dostępne z tego poziomu, ale też z tego poziomu, czy z takiego urządzenia, mogę to w Teamsach zobaczyć i tak dalej, możesz mieć te notyfikacje.
+
+1229
+03:12:57,480 --> 03:13:14,480
+Więc zdecydowanie taki jest plan, żeby jednak uświadomić klienta tutaj w Polsce, ale nie tylko, że jest coś takiego i te rzeczy, które masz obecnie fizycznie na półkach,
+
+1230
+03:13:14,480 --> 03:13:26,480
+nie wiem, ster te kontraktów, po co masz te kontrakty fizycznie, skoro nie musisz mieć je zgodnie z prawem już, to sobie je podpisz elektronicznie i zasadzamy je gdzieś tam i mamy je w chmurze,
+
+1231
+03:13:26,480 --> 03:13:34,480
+czy to na Sharepoint, czy to w chmurze i nie martwisz się, że mi się spali szafa, a zresztą jak z tego skorzystać, sam wiesz.
+
+1232
+03:13:34,480 --> 03:13:36,480
+No nie korzysta nikt.
+
+1233
+03:13:36,480 --> 03:13:49,480
+Masz umowy, no to ja nie wiem nawet jak je odszukać, a chodzi o to, że na to możesz położyć na przykład Azure Cognitive Services, gdzie to jest ta złożona wyszukiwarka z integracją,
+
+1234
+03:13:49,480 --> 03:14:00,480
+co możesz później podpiąć pod AIa i pod to podpinasz AIa i później on tą bazę ma, wiedzę ma na wyciągnięcie ręki, ten AI model ma twoje dane, twoje kontrakty, twoje wszystko,
+
+1235
+03:14:00,480 --> 03:14:09,480
+możesz ograniczyć dostęp, możesz, fajnie to słyszę, jak Microsoft będzie to udostępniał, że to nie będzie tak, że ktoś sobie robi prompta, bo podaj mi ile firma zarobiła w zeszłym roku,
+
+1236
+03:14:09,480 --> 03:14:21,480
+ja jako nikt z firmy jestem w stanie tej informacji uzyskać, nie, tam będziesz mógł sobie to poklasyfikować, ustawić kto do czego ma, jakiego zbioru ma dostęp, kto może o co zapytać w skrócie i dostać na to odpowiedź,
+
+1237
+03:14:21,480 --> 03:14:36,480
+więc jakby patrząc z tej perspektywy, no to sobie wyobraź, masz cały, dajesz mądremu komuś, AIowi dostęp do swoich danych i teraz wiesz, mówisz, no dobra zaproponuj mi, co ja tutaj źle robię, nie wiem, strategię marketingową,
+
+1238
+03:14:36,480 --> 03:14:46,480
+no tu masz cały mój content, no weź powiedz tutaj, czemu mamy takie brzydkie grafiki, jak mamy obecnie, weź mi tutaj coś ładniej zrób albo nie wiem.
+
+1239
+03:14:46,480 --> 03:15:07,480
+Szereg możliwości jest niesamowity, nawet bardzo mi się podoba też integracja, czy właśnie z teamsami, bo dużo ludzi też spędza czas na pisaniu, po prostu wiesz, opisywanie bieżących sytuacji w firmie i nagle może sobie otworzyć inne okno i napisać instrukcję do AI,
+
+1240
+03:15:07,480 --> 03:15:36,480
+może, nie wiem, ściągnąć jakieś dokumenty nie wychodząc z aplikacji, bo to jest też duży plus jeśli chodzi o produktywność, bo wiadomo jak każdy z nas usiądzie do pracy i nagle ma 15 aplikacji odpalonych, no to mózg się szybko męczy i szybko się wypala, a jak możemy pewne procesy zautomatyzować i używać właśnie czy takiego czatu zwykłego, no to jest to pewna innowacja, przynajmniej z mojej perspektywy.
+
+1241
+03:15:37,480 --> 03:16:00,480
+Zdecydowanie, to też jest kwestia ewangelizacji tych firm, tych ludzi decyzyjnych, żeby zrozumieli co to w ogóle daje. Jedno to jest coś stworzyć fajnego, potem to wdrożyć gdzieś tam, żeby ktoś to chciał, ale później żeby też to zaadoptować i z tego korzystać tak jak to ma możliwości, bo my też się zderzamy często z barierą biznesu,
+
+1242
+03:16:00,480 --> 03:16:14,480
+że niekoniecznie te fajne rzeczy się akurat tak fajnie korzysta, bo po co mi to, bo przecież ja tego nie potrzebuję, a potem musisz tworzyć tę potrzebę często.
+
+1243
+03:16:14,480 --> 03:16:28,480
+W jakim sensie tworzyć potrzebę, że po prostu podajesz biznes case komuś, że to jest dla Ciebie po prostu bardziej opłacalne i możesz osiągnąć dużo więcej niższym kosztem czasowym?
+
+1244
+03:16:29,480 --> 03:16:41,480
+Tradycyjnie jak się podchodziło do softu, to się myślało, że przecież skoro Ty jesteś IT, programista, no to ja muszę mieć wymagania biznesowe, to daj mi wymagania biznesowe i ja je implementuję.
+
+1245
+03:16:41,480 --> 03:16:56,480
+I to był człowiek, wiesz, programista, który gdzieś tam w koncie to napisał i koniec. Ale biznes musiał drajwować, innowacje i tak dalej, potrzeby, a wiesz, a tutaj my się zderzamy właśnie, to jest to, że jeżeli masz te softskille i wiesz jak technologia to Ci daje,
+
+1246
+03:16:56,480 --> 03:17:06,480
+ale dodatkowo rozumiesz ten biznes, to jesteś w stanie mu stworzyć tę potrzebę. No jak? Przecież Ty nie rozumiesz, że będziesz mógł sobie to wszystko wyszukać, wiesz, moduł korespondencji czy moduł, że ja mogę to wyszukać.
+
+1247
+03:17:06,480 --> 03:17:13,480
+No weź teraz mi przejrzyj 100 listów po kolei z szafki, nawet jak masz ładnie ułożone, gdzie ja coś miałem, tak?
+
+1248
+03:17:13,480 --> 03:17:14,480
+Tak.
+
+1249
+03:17:14,480 --> 03:17:21,480
+A weź teraz do tego dołożyć jeszcze AI, który to skonsumuje i powie mi, weź mi wypluj ostatnie eventy z kimś tam.
+
+1250
+03:17:21,480 --> 03:17:22,480
+Tak jest.
+
+1251
+03:17:22,480 --> 03:17:36,480
+Nie muszę tego nawet szukać, nie muszę, wiesz, jakby, no to o tym mówię, że tą potrzebę, ale to trzeba pokazać, że takie coś w ogóle jest, wiesz, to znowu ten agile, to demo, to zaangażowanie tych firm, żeby oni ze sobą byli.
+
+1252
+03:17:36,480 --> 03:17:48,480
+Oczywiście to kosztuje, no bo nikt nie będzie tego robił za friko, tak? My nie będziemy tego na siłę komuś wciskać i najlepiej za darmo, a w końcu i tak nie będziemy z tego korzystać.
+
+1253
+03:17:48,480 --> 03:17:58,480
+I o to chodzi. My też szukamy jednak tych ludzi, którzy tą innowację, wiesz, łykają i się tym w skrócie jarają, bo potem jest łatwiej, nie?
+
+1254
+03:17:58,480 --> 03:18:12,480
+Ale też jakby po naszej stronie jednak jest dużo, żeby pokazać, zidentyfikować ten problem, pokazać jakie jest dla niego rozwiązanie i potem, słuchajcie, korzystajcie z tego, nie?
+
+1255
+03:18:12,480 --> 03:18:18,480
+Czy przeżyłeś pewien szok biznesowo-kulturowy po powrocie do Polski?
+
+1256
+03:18:18,480 --> 03:18:30,480
+Oj tak, zdecydowanie, zdecydowanie. No jest inny dialog już, o którym wcześniej wspominałem, nie? Na zasadzie jakby ta dyplomacja angielska jest na zupełnie innym poziomie, tak?
+
+1257
+03:18:30,480 --> 03:18:41,480
+Wersus Polska, jakby w Polsce jest wszystko takie, z punktu widzenia angielskiego, wydawałoby się, nie wiem, często aroganckie albo, wiesz, takie niemiłe.
+
+1258
+03:18:42,480 --> 03:18:52,480
+Tu jest twoje miejsce, gościu, nie? W szeregu. Często, nie zawsze, to oczywiście też znowu generalizuję mocno i upraszczam, ale to na pewno.
+
+1259
+03:18:52,480 --> 03:19:07,480
+Na pewno to, że tam jest wyższa świadomość tego, że tak naprawdę za te wszystkie pierwsze prace, które z tym, wiesz, z tym twoim cytatem, że wiesz, że trzeba sobie przygotować ten grunt.
+
+1260
+03:19:07,480 --> 03:19:09,480
+Tak, naostrzyć siekierę.
+
+1261
+03:19:09,480 --> 03:19:11,480
+Naostrzyć tę siekierę, ten toporek.
+
+1262
+03:19:11,480 --> 03:19:13,480
+I spędzić tak naprawdę więcej czasu nad tym.
+
+1263
+03:19:13,480 --> 03:19:16,480
+To jest kosztowne, a on za to nic nie ma, on ma cały czas ten toporek.
+
+1264
+03:19:16,480 --> 03:19:17,480
+Tak jest.
+
+1265
+03:19:17,480 --> 03:19:26,480
+On mówi, kurde, no przecież, a co ty chcesz mnie zabić, wiesz? Na zasadzie jakby, i tu się odwołuję do analizy, do zrozumienia, do wyciągnięcia ich za język, tak?
+
+1266
+03:19:26,480 --> 03:19:34,480
+Że jak mamy dostęp do tego biznesu, to nie będzie tak, że my od razu im damy, no tu masz model driven i wow, funky i będziesz sobie śmigał.
+
+1267
+03:19:34,480 --> 03:19:42,480
+Właśnie jeszcze bardziej tam się kładzie i powinno się kłaść ten nacisk na to, żeby dogłębnie zrozumieć, o co im chodzi.
+
+1268
+03:19:42,480 --> 03:19:53,480
+Czy na pewno o to ci chodzi, o czym mówisz, bo ty mówisz mi trochę dziwnie, niejednoznacznie, tam na pewno, i wiesz, dociskasz te soki i widzisz, aaa, widzisz, i tutaj jest drugie dno.
+
+1269
+03:19:53,480 --> 03:19:58,480
+To zobacz, to jak jest drugie dno, to znaczy, że my możemy to zrobić, aaa, no dobra, i wiesz.
+
+1270
+03:19:58,480 --> 03:20:06,480
+A za to nie chcą, widzę, aż tak płacić, jakby wiesz, średni taki konsument to on myśli, że wiesz, jak ja płacę, żądam, mam.
+
+1271
+03:20:06,480 --> 03:20:08,480
+Jestem królem.
+
+1272
+03:20:08,480 --> 03:20:16,480
+No wiesz, jakby to mi się należy i koniec, no przecież jak spłacimy, no to przecież, wiesz, a tu czasami też jest tak, że wiesz, może się okazać docelowo,
+
+1273
+03:20:16,480 --> 03:20:25,480
+i to też nie chciałbym super oszukiwać, że wiesz, spędzisz dwa, trzy tygodnie i powiesz, sorry, wy albo nie rozumiecie jeszcze, gdzie jesteście i co wy chcecie,
+
+1274
+03:20:26,480 --> 03:20:32,480
+żeby podjąć tą właściwą decyzję, czy na pewno chcecie to, co mówimy, to też jest druga rzecz, ale już za to musisz zapłacić.
+
+1275
+03:20:32,480 --> 03:20:40,480
+I wiesz, i tu jest problem. W Anglii to było logiczne, tak, tam robiłeś pre-sale, czy POC, czy tego typu rozwiązania, po prostu, no,
+
+1276
+03:20:40,480 --> 03:20:49,480
+się brało ludzi, konsultantów na dwa, trzy, wiesz, dwóch, trzech konsultantów na okres kilku tygodni na przykład i od razu było wiadomo, że kasę,
+
+1277
+03:20:49,480 --> 03:20:57,480
+no, ale na końcu powstaje jakiś artefakt, czy to analiza, czy to architektura, jakieś, wiesz, coś namacalnego, to jest twoje, dostajesz i to możesz później przekazać innej firmie i powiedzieć,
+
+1278
+03:20:57,480 --> 03:21:09,480
+słuchajcie, zróbcie mi to, tak, albo to są owoce pracy, więc jest to inaczej. Też często mówię, ta różnica pomiędzy tym, że tam ten model subskrypcji już istnieje tyle lat
+
+1279
+03:21:09,480 --> 03:21:23,480
+i tam nikt nie korzystał z jakichś szemranych lewych ofisów, wiesz, tak jak u nas, to u nas dopiero jakby ludzie rozumieją, ok, dobra, to zapłacimy te 20 zł za usera, ok, ale najlepiej ten
+
+1280
+03:21:23,480 --> 03:21:33,480
+najbasicowy, najtańszy pakiet, wiesz, no, to jest ta różnica, nie, to jest ta bariera, a już nie mówiąc potem, jak mówimy o rozwiązaniach, które już więcej kosztują, gdzie tych godzin pracy,
+
+1281
+03:21:33,480 --> 03:21:45,480
+później naszych konsultantów, specjalistów jest potrzeba znacznie większa, co się przekłada na jakieś tam koszta miesięczne, no to w tym momencie robi się, wiesz, albo głupie serwery,
+
+1282
+03:21:45,480 --> 03:21:56,480
+które ktoś myśli, że wydał te 200 tysięcy na serwer, na jego implementację, wdrożenie i później ktoś i tak musi to utrzymywać i jak nie będzie później miał znowu upgrade'a, to się okaże, że ten serwer jest do kosza,
+
+1283
+03:21:56,480 --> 03:22:06,480
+bo przecież ta płyta główna w końcu już nie będzie rozszerzalna, bo tak działa rynek, że zmieniają się interfejsy i wcześniej był USB taki, a jutro będzie inny, więc…
+
+1284
+03:22:06,480 --> 03:22:19,480
+Tak, ludzie, mi się wydaje, że też powoli dojrzewają do czegoś takiego i powoli widzą tą zmianę, każdy widzi, że po prostu ma telefon, ale już za trzy lata ten telefon muli, czy komputer muli i tak dalej i zaczynają…
+
+1285
+03:22:19,480 --> 03:22:22,480
+Dotyka to ich, nie, jakby na takim…
+
+1286
+03:22:22,480 --> 03:22:33,480
+Tak, zaczyna ich to dotykać i zaczynają kumać. Mówi, kurde, teraz trzeba, albo robisz, nie ma czegoś takiego, że nie robisz i możesz siedzieć na Bahamach.
+
+1287
+03:22:33,480 --> 03:22:35,480
+Bo raz wydałem i mam.
+
+1288
+03:22:35,480 --> 03:22:40,480
+Tak, bo raz wydałem i mam. No dobrze, chyba będziemy kończyć.
+
+1289
+03:22:40,480 --> 03:22:41,480
+Spoko.
+
+1290
+03:22:41,480 --> 03:22:44,480
+Bo już jest zmęczenie pewnego materiału.
+
+1291
+03:22:44,480 --> 03:22:50,480
+O, jest, jest, jest, trochę mieniało i może widać, będzie to na materiale.
+
+1292
+03:22:50,480 --> 03:22:53,480
+No wyciągnęliśmy z ciebie dzisiaj dużo, nie?
+
+1293
+03:22:53,480 --> 03:22:59,480
+To twoja zasługa, nie? To wiesz, ja tylko opowiadałem. Ciężko ci było słuchać, więc współczuję.
+
+1294
+03:22:59,480 --> 03:23:01,480
+Dobrze, dobrze, dobrze się rozmawia.
+
+1295
+03:23:01,480 --> 03:23:02,480
+Spoko.
+
+1296
+03:23:02,480 --> 03:23:06,480
+Jeszcze mi się wydaje, że dużo takich rozmów przed nami i będziemy to kontynuować.
+
+1297
+03:23:06,480 --> 03:23:08,480
+Jak to mówią pierwsze koty za płoty?
+
+1298
+03:23:08,480 --> 03:23:11,480
+Pierwszy temat, myślę, że…
+
+1299
+03:23:11,480 --> 03:23:12,480
+Wyczerpany.
+
+1300
+03:23:12,480 --> 03:23:13,480
+Tak.
+
+1301
+03:23:13,480 --> 03:23:17,480
+Chociaż trochę, bo wiadomo, o tym można mówić nieskończoność.
+
+1302
+03:23:17,480 --> 03:23:18,480
+Spoko.
+
+1303
+03:23:18,480 --> 03:23:19,480
+No to super, dzięki.
+
+1304
+03:23:19,480 --> 03:23:20,480
+Dziękuję.
+
